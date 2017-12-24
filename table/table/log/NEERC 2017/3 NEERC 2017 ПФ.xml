@@ -1,0 +1,2103 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<standings>
+	<contest name="" >
+		<challenge>
+			<problem alias="A" />
+			<problem alias="B" />
+			<problem alias="C" />
+			<problem alias="D" />
+			<problem alias="E" />
+			<problem alias="F" />
+			<problem alias="G" />
+			<problem alias="H" />
+			<problem alias="I" />
+			<problem alias="J" />
+			<problem alias="K" />
+			<problem alias="L" />
+		</challenge>
+		<session id="0" party="Novosibirsk SU 1 (Smirnov, Viktorov, Vishnevskii)" >
+			<problem alias="A" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="188" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="59" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="96" />
+			</problem>
+			<problem alias="D" >
+				<run accepted="yes" time="148" />
+			</problem>
+			<problem alias="E" >
+				<run accepted="yes" time="11" />
+			</problem>
+			<problem alias="F" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+				<run accepted="no" time="274" />
+				<run accepted="no" time="274" />
+				<run accepted="yes" time="275" />
+			</problem>
+		</session>
+		<session id="1" party="North-Eastern Federal U (Artamonov, Khokholov, Khovrov)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="32" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="57" />
+			</problem>
+			<problem alias="D" >
+				<run accepted="yes" time="104" />
+			</problem>
+			<problem alias="E" >
+				<run accepted="yes" time="13" />
+			</problem>
+			<problem alias="F" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="2" party="Altai S Technical U 1 (Ananev, Fast, Lozhkina)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="49" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="166" />
+			</problem>
+			<problem alias="D" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="156" />
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="33" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+				<run accepted="no" time="268" />
+				<run accepted="yes" time="269" />
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="3" party="Far Eastern S Transportation U 1 (Abramson, Usmanov, Usov)" >
+			<problem alias="A" >
+				<run accepted="no" time="290" />
+				<run accepted="no" time="290" />
+				<run accepted="yes" time="291" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="60" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="D" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="187" />
+			</problem>
+			<problem alias="E" >
+				<run accepted="yes" time="14" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="4" party="Siberian S Transport U (Omelnitsky, Petrov, Pozdnyakov)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="62" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="93" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="yes" time="50" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="5" party="Omsk S Technical U (Hvoryh, Inivatov, Trubin)" >
+			<problem alias="A" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="59" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="113" />
+			</problem>
+			<problem alias="D" >
+				<run accepted="no" time="294" />
+				<run accepted="yes" time="295" />
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="38" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="6" party="Tomsk Polytechnic U 1 (Golub, Komarov, Vetrov)" >
+			<problem alias="A" >
+				<run accepted="no" time="259" />
+				<run accepted="yes" time="260" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="54" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="285" />
+				<run accepted="no" time="285" />
+				<run accepted="no" time="285" />
+				<run accepted="no" time="285" />
+				<run accepted="no" time="285" />
+				<run accepted="yes" time="286" />
+			</problem>
+			<problem alias="D" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="13" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="156" />
+			</problem>
+		</session>
+		<session id="7" party="Tomsk Polytechnic U 3 (Bakulin, Nesterenko, Rybachenko)" >
+			<problem alias="A" >
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="71" />
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="234" />
+			</problem>
+			<problem alias="E" >
+				<run accepted="yes" time="19" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="8" party="Tomsk Polytechnic U 4 (Babichev, Pestova, Liao)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="59" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="140" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="29" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="9" party="Tomsk Polytechnic U 2 (Iovlev, Kuznetsova, Maksimova)" >
+			<problem alias="A" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="69" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="184" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="yes" time="13" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="10" party="I of Mathematics and CS of Siberian FU (Bachurin, Durakov, Sukhikh)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="59" />
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="E" >
+				<run accepted="yes" time="27" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="11" party="I of Space and IT of Siberian FU 1 (Halturin, Melnikov, Platonov)" >
+			<problem alias="A" >
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="74" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="yes" time="17" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="12" party="Altai S Technical U 3 (Babushkin, Danilin, Shulga)" >
+			<problem alias="A" >
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="59" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="22" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="13" party="Novosibirsk SU 3 (Bykova, Bykova, Filippov)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="78" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="10" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="14" party="Novosibirsk SU 2 (Isachenko, Malykh, Matveev)" >
+			<problem alias="A" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="68" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="23" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="15" party="Tomsk SU 1 (Kotov, Sakhapov, Zakharov)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="58" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="30" />
+			</problem>
+			<problem alias="F" >
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="16" party="Irkutsk SU (Antonov, Chumachenko, Zagyzin)" >
+			<problem alias="A" >
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="47" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="284" />
+				<run accepted="no" time="284" />
+				<run accepted="yes" time="285" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="yes" time="81" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="17" party="Kyrgyz Russian Slavic U 3 (Bubnov, Tropeyko, Umetov)" >
+			<problem alias="A" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="84" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="39" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="18" party="Omsk SU 2 (Boldyr, Lemeshko, Magdin)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="74" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="31" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="19" party="Vladivostok SU of Econ and Service (Shishlo, Silchenko, Vasilchenko)" >
+			<problem alias="A" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="82" />
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="44" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="20" party="Far Eastern Federal U 3 (Batrakov, Gusarov, Shchurov)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="89" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="241" />
+				<run accepted="no" time="241" />
+				<run accepted="yes" time="242" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="45" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="21" party="Altai S Technical U 2 (Galkin, Kozlov, Kozlov)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="74" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="D" >
+				<run accepted="no" time="287" />
+				<run accepted="yes" time="288" />
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="43" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="22" party="Irkutsk S Technical U 1 (Chekan, Pakulev, Skorobogatov)" >
+			<problem alias="A" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="128" />
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="28" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="23" party="Buryat SU 1 (Badagarov, Guslyakov, Tsydypova)" >
+			<problem alias="A" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="107" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="57" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="24" party="East-Siberian STU 1 (Badaev, Timofeev, Veselov)" >
+			<problem alias="A" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="106" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="21" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="K" >
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="25" party="Kyrgyz Russian Slavic U 4 (Abdirazakov, Aldaiarov, Bekbolotov)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="93" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="264" />
+				<run accepted="no" time="264" />
+				<run accepted="no" time="264" />
+				<run accepted="no" time="264" />
+				<run accepted="no" time="264" />
+				<run accepted="no" time="264" />
+				<run accepted="no" time="264" />
+				<run accepted="no" time="264" />
+				<run accepted="no" time="264" />
+				<run accepted="yes" time="265" />
+			</problem>
+			<problem alias="D" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="59" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="26" party="Novosibirsk S Technical U 1 (Indikeev, Katunov, Sitnikov)" >
+			<problem alias="A" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="137" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="26" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="27" party="Khakas SU 1 (Bagaev, Tumoyakov, Zemlyanikin)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="150" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="63" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="28" party="Novosibirsk S Technical U 2 (Nagornov, Stabrovsky, Zhurkin)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="166" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="D" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="47" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="29" party="Novosibirsk SU 4 (Arkhipov, Ershov, Kozlov)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="188" />
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="27" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="30" party="Rubtsovsk Industrial I (Lunev, Nagih, Nagih)" >
+			<problem alias="A" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="164" />
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="53" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="31" party="Siberian SU of Telecom and Informatics 2 (Boldakov, Ili, Renjov)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="160" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="40" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="32" party="Altai S Technical U 4 (Avanesyan, Kozlov, Rusakov)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="164" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="36" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="33" party="Khakas SU 2 (Dron, Engel, Naletov)" >
+			<problem alias="A" >
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="138" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="153" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="34" party="Ugra SU (Baluev, Kovalnogov, Zavyalov)" >
+			<problem alias="A" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="71" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="202" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="35" party="Buryat SU 2 (Batalov, Dambaeva, Mitypov)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="204" />
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="95" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="36" party="Altay SU (Boyko, Ernst, Panarin)" >
+			<problem alias="A" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="124" />
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="197" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="37" party="I of Space and IT of Siberian FU 3 (Garbart, Kislov, Saenko)" >
+			<problem alias="A" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="169" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="55" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="38" party="East-Siberian STU 2 (Filippov, Tsyrempilon, Tsyrendorzhiev)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="233" />
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="89" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="39" party="Novosibirsk S Technical U 3 (Ivakin, Kunts, Prokopyev)" >
+			<problem alias="A" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="246" />
+				<run accepted="no" time="246" />
+				<run accepted="no" time="246" />
+				<run accepted="yes" time="247" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="D" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="18" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="40" party="Tomsk SU 2 (Grudinin, Ryakin, Solonsky)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="250" />
+				<run accepted="no" time="250" />
+				<run accepted="no" time="250" />
+				<run accepted="no" time="250" />
+				<run accepted="no" time="250" />
+				<run accepted="no" time="250" />
+				<run accepted="no" time="250" />
+				<run accepted="no" time="250" />
+				<run accepted="no" time="250" />
+				<run accepted="yes" time="251" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="280" />
+				<run accepted="no" time="280" />
+				<run accepted="no" time="280" />
+				<run accepted="no" time="280" />
+				<run accepted="no" time="280" />
+				<run accepted="no" time="280" />
+				<run accepted="yes" time="281" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="18" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="41" party="Siberian SU of Telecom and Informatics 1 (Cherdakov, Komarevtsev, Pletyuhin)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="295" />
+				<run accepted="no" time="295" />
+				<run accepted="no" time="295" />
+				<run accepted="no" time="295" />
+				<run accepted="no" time="295" />
+				<run accepted="no" time="295" />
+				<run accepted="yes" time="296" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="44" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="42" party="Tomsk SU of Control Syst and Radioel (Barkalov, Gorohov, Itskov)" >
+			<problem alias="A" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="284" />
+				<run accepted="no" time="284" />
+				<run accepted="no" time="284" />
+				<run accepted="no" time="284" />
+				<run accepted="no" time="284" />
+				<run accepted="no" time="284" />
+				<run accepted="no" time="284" />
+				<run accepted="no" time="284" />
+				<run accepted="no" time="284" />
+				<run accepted="no" time="284" />
+				<run accepted="yes" time="285" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="90" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="43" party="Irkutsk S Technical U 2 (Kuroptev, Litvincev, Ushakov)" >
+			<problem alias="A" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="122" />
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="44" party="Omsk SU 1 (Gorbunov, Marchenko, Skripov)" >
+			<problem alias="A" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="yes" time="135" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="45" party="I of Space and IT of Siberian FU 4 (Molodan, Spiridonov, Vagner)" >
+			<problem alias="A" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="C" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="yes" time="195" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="46" party="Chita SU (Belov, Chernykh, Khazagarov)" >
+			<problem alias="A" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="47" party="Norilsk Industrial I (Dobrovolsky, Lukjanchikov, Makarov)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="48" party="Maritime SU (Nechepurenko, Patenkova, Shetilin)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="49" party="Krasnoyarsk S Pedagogical U (Gilyazov, Stankovskii, Strelnikova)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+				<run accepted="no" time="0" />
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="50" party="Novosibirsk S Pedagogical U (Belikov, Kirilenko, Kuznecov)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+				<run accepted="no" time="300" />
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="51" party="Aerospace College of SibSAU (Fedorov, Lyakhov, Polejaev)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+		<session id="52" party="East-Siberian STU 3 (Burdukovsky, Igolkin, Lebedeva)" >
+			<problem alias="A" >
+			</problem>
+			<problem alias="B" >
+			</problem>
+			<problem alias="C" >
+			</problem>
+			<problem alias="D" >
+			</problem>
+			<problem alias="E" >
+			</problem>
+			<problem alias="F" >
+			</problem>
+			<problem alias="G" >
+			</problem>
+			<problem alias="H" >
+			</problem>
+			<problem alias="I" >
+			</problem>
+			<problem alias="J" >
+			</problem>
+			<problem alias="K" >
+			</problem>
+			<problem alias="L" >
+			</problem>
+		</session>
+	</contest>
+</standings>

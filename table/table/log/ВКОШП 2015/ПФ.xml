@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<teams>
+  <team><id>1020148</id><name>Зинькович, Гершук, Дзюба</name></team>
+  <team><id>1020165</id><name>Тимофеенко, Коберский, Курлыков</name></team>
+  <team><id>1020320</id><name>Попов, Долженко, Вознов</name></team>
+  <team><id>1021851</id><name>Лавриненко, Шеховцов, Кофтина (Камчатский край)</name></team>
+  <team><id>1021861</id><name>Могила, Мисливец, Решетов (Партизанск)</name></team>
+  <team><id>1021876</id><name>Мекумянов, Максимов, Тихонов (Якутск)</name></team>
+  <team><id>1021880</id><name>Крум, Лесогоров, Швец</name></team>
+  <team><id>1021883</id><name>Ситяев, Фиденко, Халиуллин</name></team>
+  <team><id>1021887</id><name>Патенкова, Калныш, Бондарев</name></team>
+  <team><id>1021892</id><name>Антоненко, Волович, Дорофеева</name></team>
+  <team><id>1021895</id><name>Савченко, Желнова, Стадник</name></team>
+  <team><id>1021897</id><name>Курашкевич, Панов, Стабровский</name></team>
+  <team><id>1021900</id><name>Глушков, Валявка, Русак</name></team>
+  <team><id>1021903</id><name>Никитин, Янбахтин</name></team>
+  <team><id>1021906</id><name>Базанов, Журавлёв, Лунган</name></team>
+  <team><id>1022813</id><name>Устинов, Раков, Мамаев (Петропавловск-Камчатский)</name></team>
+  <team><id>1022814</id><name>Иванченко Денис (Лесозаводск)</name></team>
+  <team><id>1</id><name>Ермаков Тимофей, Еркович Степан (Хабаровск)</name></team>
+  <team><id>2</id><name>Башунов Ерофей, Майданова Елизавета (Хабаровск)</name></team>
+  <team><id>3</id><name>Выдря Андрей, Лаханский Алексей (Хабаровск)</name></team>
+  <team><id>4</id><name>Веселовский Марк, Гребенюк Никита (Хабаровск)</name></team>
+  <team><id>5</id><name>Важничин Никита, Ипатов Артём (Хабаровск)</name></team>
+</teams>
+<problems>
+  <problem><code>A</code></problem>
+  <problem><code>B</code></problem>
+  <problem><code>C</code></problem>
+  <problem><code>D</code></problem>
+  <problem><code>E</code></problem>
+  <problem><code>F</code></problem>
+  <problem><code>G</code></problem>
+  <problem><code>H</code></problem>
+  <problem><code>I</code></problem>
+</problems>
+
+<reqs>
+	<req>
+		<time_since_start>0.0243055555555556</time_since_start>
+		<team_id>1</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0256944444444444</time_since_start>
+		<team_id>1</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0284722222222222</time_since_start>
+		<team_id>1</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0291666666666667</time_since_start>
+		<team_id>1</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.03956</time_since_start>
+		<team_id>1</team_id>
+		<code>D</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0395833333333333</time_since_start>
+		<team_id>1</team_id>
+		<code>D</code>
+		<state>accepted</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0416666666666667</time_since_start>
+		<team_id>1</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0520833333333333</time_since_start>
+		<team_id>1</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0527777777777778</time_since_start>
+		<team_id>1</team_id>
+		<code>C</code>
+		<state>accepted</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.05625</time_since_start>
+		<team_id>1</team_id>
+		<code>E</code>
+		<state>accepted</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1173611111111111</time_since_start>
+		<team_id>1</team_id>
+		<code>A</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.11875</time_since_start>
+		<team_id>1</team_id>
+		<code>A</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1888888888888889</time_since_start>
+		<team_id>1</team_id>
+		<code>B</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1916666666666667</time_since_start>
+		<team_id>1</team_id>
+		<code>B</code>
+		<state>accepted</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0159722222222222</time_since_start>
+		<team_id>2</team_id>
+		<code>C</code>
+		<state>accepted</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0340277777777778</time_since_start>
+		<team_id>2</team_id>
+		<code>D</code>
+		<state>accepted</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0506944444444444</time_since_start>
+		<team_id>2</team_id>
+		<code>E</code>
+		<state>accepted</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0805555555555556</time_since_start>
+		<team_id>2</team_id>
+		<code>A</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0805555555555556</time_since_start>
+		<team_id>2</team_id>
+		<code>A</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0944444444444444</time_since_start>
+		<team_id>2</team_id>
+		<code>A</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0972222222222222</time_since_start>
+		<team_id>2</team_id>
+		<code>A</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0326388888888889</time_since_start>
+		<team_id>3</team_id>
+		<code>C</code>
+		<state>accepted</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0520833333333333</time_since_start>
+		<team_id>3</team_id>
+		<code>D</code>
+		<state>accepted</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0868055555555556</time_since_start>
+		<team_id>3</team_id>
+		<code>A</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0868055555555556</time_since_start>
+		<team_id>3</team_id>
+		<code>A</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1791666666666667</time_since_start>
+		<team_id>3</team_id>
+		<code>H</code>
+		<state>accepted</state> 
+	</req>
+
+	<req>
+		<time_since_start>0.0597222222222222</time_since_start>
+		<team_id>4</team_id>
+		<code>D</code>
+		<state>accepted</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0791666666666667</time_since_start>
+		<team_id>4</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0833333333333333</time_since_start>
+		<team_id>4</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0861111111111111</time_since_start>
+		<team_id>4</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0930555555555556</time_since_start>
+		<team_id>4</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1451388888888889</time_since_start>
+		<team_id>4</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1465277777777778</time_since_start>
+		<team_id>4</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1479166666666667</time_since_start>
+		<team_id>4</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1673611111111111</time_since_start>
+		<team_id>4</team_id>
+		<code>E</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1722222222222222</time_since_start>
+		<team_id>4</team_id>
+		<code>E</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1729166666666667</time_since_start>
+		<team_id>4</team_id>
+		<code>E</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1826388888888889</time_since_start>
+		<team_id>4</team_id>
+		<code>E</code>
+		<state>accepted</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1923611111111111</time_since_start>
+		<team_id>4</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1979166666666667</time_since_start>
+		<team_id>4</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0958333333333333</time_since_start>
+		<team_id>5</team_id>
+		<code>D</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.0972222222222222</time_since_start>
+		<team_id>5</team_id>
+		<code>D</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1</time_since_start>
+		<team_id>5</team_id>
+		<code>D</code>
+		<state>fail</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1375</time_since_start>
+		<team_id>5</team_id>
+		<code>D</code>
+		<state>accepted</state> 
+	</req>
+	
+	<req>
+		<time_since_start>0.1958333333333333</time_since_start>
+		<team_id>5</team_id>
+		<code>C</code>
+		<state>fail</state> 
+	</req>
+	
+  <req><time_since_start>0.004257095</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 12:36</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022819</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.005452523</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 12:37</submit_time><team_name>Попов, Долженко, Вознов</team_name><team_id>1020320</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022822</id><last_ip>10.51.16.47, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.007133160</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 12:40</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022826</id><last_ip>212.122.7.179, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.007406100</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 12:40</submit_time><team_name>ThreeLittleAutists</team_name><team_id>1022391</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>1022828</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.007583009</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 12:40</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022830</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.008128322</time_since_start><problem_title>Коктейль</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 12:41</submit_time><team_name>ThreeLittleAutists</team_name><team_id>1022391</team_id><is_remote>1</is_remote><state>idleness_limit_exceeded</state><is_ooc>1</is_ooc><id>1022832</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.009308831</time_since_start><problem_title>Государство</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 12:43</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1022834</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.009947928</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 12:44</submit_time><team_name>ThreeLittleAutists</team_name><team_id>1022391</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022836</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.010544144</time_since_start><problem_title>Марфа Геннадьевна и монеты</problem_title><submit_time>13.11.2015 12:45</submit_time><team_name>azukun</team_name><team_id>1022774</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022838</id><last_ip>79.105.250.169, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.011001887</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 12:45</submit_time><team_name>Попов, Долженко, Вознов</team_name><team_id>1020320</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022840</id><last_ip>10.51.16.47, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.012380301</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 12:47</submit_time><team_name>azukun</team_name><team_id>1022774</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022843</id><last_ip>79.105.250.169, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.013207222</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>4</failed_test><submit_time>13.11.2015 12:49</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1022845</id><last_ip>212.122.7.179, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.014128287</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 12:50</submit_time><team_name>Зинькович, Гершук, Дзюба</team_name><team_id>1020148</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022847</id><last_ip>10.51.16.25, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.014899491</time_since_start><problem_title>Кирпичная стена</problem_title><submit_time>13.11.2015 12:51</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022851</id><last_ip>212.122.7.179, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.015102720</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 12:51</submit_time><team_name>ThreeLittleAutists</team_name><team_id>1022391</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022853</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.015419433</time_since_start><problem_title>Y-хромосома</problem_title><submit_time>13.11.2015 12:52</submit_time><team_name>ThreeLittleAutists</team_name><team_id>1022391</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022855</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.015891076</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 12:52</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022859</id><last_ip>212.122.7.179, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.016482350</time_since_start><problem_title>Коктейль</problem_title><failed_test>9</failed_test><submit_time>13.11.2015 12:53</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1022861</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.016691389</time_since_start><problem_title>Y-хромосома</problem_title><submit_time>13.11.2015 12:54</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022864</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.016733565</time_since_start><problem_title>Коктейль</problem_title><failed_test>9</failed_test><submit_time>13.11.2015 12:54</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1022866</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.018286817</time_since_start><problem_title>Коктейль</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 12:56</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1022869</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.018424931</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 12:56</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022871</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.019217176</time_since_start><problem_title>Коктейль</problem_title><failed_test>9</failed_test><submit_time>13.11.2015 12:57</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1022873</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.019661007</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 12:58</submit_time><team_name>Ситяев, Фиденко, Халиуллин</team_name><team_id>1021883</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022875</id><last_ip>10.51.16.116, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.020706516</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 12:59</submit_time><team_name>Лавриненко, Шеховцов, Кофтина</team_name><team_id>1021851</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022878</id><last_ip>10.41.12.34, 77.82.148.114, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.021625150</time_since_start><problem_title>Коктейль</problem_title><failed_test>9</failed_test><submit_time>13.11.2015 13:01</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1022880</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.021759664</time_since_start><problem_title>Y-хромосома</problem_title><submit_time>13.11.2015 13:01</submit_time><team_name>azukun</team_name><team_id>1022774</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022882</id><last_ip>79.105.250.169, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.022056447</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 13:01</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022884</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.022520579</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 13:02</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022886</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.024482720</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 13:05</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022888</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.024784063</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 13:05</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1022890</id><last_ip>212.122.7.179, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.025163692</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 13:06</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022892</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.025242894</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 13:06</submit_time><team_name>Зинькович, Гершук, Дзюба</team_name><team_id>1020148</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022894</id><last_ip>10.51.16.25, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.028750775</time_since_start><problem_title>Коктейль</problem_title><failed_test>3</failed_test><submit_time>13.11.2015 13:11</submit_time><team_name>Курашкевич, Панов, Стабровский</team_name><team_id>1021897</team_id><is_remote>0</is_remote><state>runtime_error</state><is_ooc>0</is_ooc><id>1022897</id><last_ip>82.162.48.229, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.029297917</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 13:12</submit_time><team_name>ThreeLittleAutists</team_name><team_id>1022391</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1022899</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.029954537</time_since_start><problem_title>Y-хромосома</problem_title><submit_time>13.11.2015 13:13</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022901</id><last_ip>212.122.7.179, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.030011285</time_since_start><problem_title>Кирпичная стена</problem_title><submit_time>13.11.2015 13:13</submit_time><team_name>azukun</team_name><team_id>1022774</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022903</id><last_ip>79.105.250.169, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.030353600</time_since_start><problem_title>Кирпичная стена</problem_title><submit_time>13.11.2015 13:13</submit_time><team_name>ThreeLittleAutists</team_name><team_id>1022391</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022905</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.031012500</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 13:14</submit_time><team_name>Курашкевич, Панов, Стабровский</team_name><team_id>1021897</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022907</id><last_ip>82.162.48.229, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.031316343</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>11</failed_test><submit_time>13.11.2015 13:15</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1022909</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.031643322</time_since_start><problem_title>Y-хромосома</problem_title><submit_time>13.11.2015 13:15</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022911</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.032219433</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 13:16</submit_time><team_name>Тимофеенко, Коберский, Курлыков</team_name><team_id>1020165</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022913</id><last_ip>10.51.16.24, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.032784896</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 13:17</submit_time><team_name>azukun</team_name><team_id>1022774</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022915</id><last_ip>79.105.250.169, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.033417338</time_since_start><problem_title>Кирпичная стена</problem_title><submit_time>13.11.2015 13:18</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022917</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.033864757</time_since_start><problem_title>Коктейль</problem_title><failed_test>6</failed_test><submit_time>13.11.2015 13:18</submit_time><team_name>Глушков, Валявка, Русак</team_name><team_id>1021900</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1022919</id><last_ip>78.24.231.230, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.036378762</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 13:22</submit_time><team_name>Глушков, Валявка, Русак</team_name><team_id>1021900</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022925</id><last_ip>78.24.231.230, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.039246968</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 13:26</submit_time><team_name>Крум, Лесогоров, Швец</team_name><team_id>1021880</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022927</id><last_ip>10.51.16.105, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.040306852</time_since_start><problem_title>Марфа Геннадьевна и монеты</problem_title><submit_time>13.11.2015 13:28</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022929</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.040468380</time_since_start><problem_title>Правильная окраска</problem_title><submit_time>13.11.2015 13:28</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022931</id><last_ip>212.122.7.179, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.042105012</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 13:30</submit_time><team_name>Устинов, Раков, Мамаев</team_name><team_id>1022813</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022936</id><last_ip>77.82.216.252, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.042601829</time_since_start><problem_title>Y-хромосома</problem_title><submit_time>13.11.2015 13:31</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022938</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.043368623</time_since_start><problem_title>Коктейль</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 13:32</submit_time><team_name>int c = 3;</team_name><team_id>1022609</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>1022942</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.045546829</time_since_start><problem_title>Правильная окраска</problem_title><submit_time>13.11.2015 13:35</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022944</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.047230810</time_since_start><problem_title>Правильная окраска</problem_title><submit_time>13.11.2015 13:38</submit_time><team_name>azukun</team_name><team_id>1022774</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022950</id><last_ip>79.105.250.169, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.047694699</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 13:38</submit_time><team_name>Глушков, Валявка, Русак</team_name><team_id>1021900</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022952</id><last_ip>78.24.231.230, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.048258542</time_since_start><problem_title>Y-хромосома</problem_title><submit_time>13.11.2015 13:39</submit_time><team_name>Попов, Долженко, Вознов</team_name><team_id>1020320</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022956</id><last_ip>10.51.16.47, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.049028715</time_since_start><problem_title>Марфа Геннадьевна на даче</problem_title><submit_time>13.11.2015 13:40</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022958</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.049087060</time_since_start><problem_title>Коктейль</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 13:40</submit_time><team_name>int c = 3;</team_name><team_id>1022609</team_id><is_remote>1</is_remote><state>idleness_limit_exceeded</state><is_ooc>1</is_ooc><id>1022960</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.051518137</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 13:44</submit_time><team_name>Антоненко, Волович, Дорофеева</team_name><team_id>1021892</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022967</id><last_ip>95.154.116.26, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.053474444</time_since_start><problem_title>Кирпичная стена</problem_title><submit_time>13.11.2015 13:47</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022969</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.055613519</time_since_start><problem_title>Марфа Геннадьевна на даче</problem_title><submit_time>13.11.2015 13:50</submit_time><team_name>azukun</team_name><team_id>1022774</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022971</id><last_ip>79.105.250.169, 10.100.100.11</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.055987604</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 13:50</submit_time><team_name>Лавриненко, Шеховцов, Кофтина</team_name><team_id>1021851</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>1022973</id><last_ip>10.41.12.34, 77.82.148.114, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.056320683</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>5</failed_test><submit_time>13.11.2015 13:51</submit_time><team_name>Могила, Мисливец, Решетов</team_name><team_id>1021861</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1022975</id><last_ip>5.143.119.2, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.056615880</time_since_start><problem_title>Марфа Геннадьевна и монеты</problem_title><submit_time>13.11.2015 13:51</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022977</id><last_ip>212.122.7.179, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.056877813</time_since_start><problem_title>Коктейль</problem_title><failed_test>3</failed_test><submit_time>13.11.2015 13:51</submit_time><team_name>int c = 3;</team_name><team_id>1022609</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1022979</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.057750509</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 13:53</submit_time><team_name>Лавриненко, Шеховцов, Кофтина</team_name><team_id>1021851</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022983</id><last_ip>10.41.12.34, 77.82.148.114, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.057900266</time_since_start><problem_title>Государство</problem_title><failed_test>3</failed_test><submit_time>13.11.2015 13:53</submit_time><team_name>Ситяев, Фиденко, Халиуллин</team_name><team_id>1021883</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1022985</id><last_ip>10.51.16.116, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.058242951</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>4</failed_test><submit_time>13.11.2015 13:53</submit_time><team_name>Попов, Долженко, Вознов</team_name><team_id>1020320</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1022987</id><last_ip>10.51.16.47, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.059317188</time_since_start><problem_title>Кирпичная стена</problem_title><submit_time>13.11.2015 13:55</submit_time><team_name>Попов, Долженко, Вознов</team_name><team_id>1020320</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022989</id><last_ip>10.51.16.47, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.059468299</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 13:55</submit_time><team_name>Патенкова, Калныш, Бондарев</team_name><team_id>1021887</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1022991</id><last_ip>95.154.116.39, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.059819606</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>4</failed_test><submit_time>13.11.2015 13:56</submit_time><team_name>Тимофеенко, Коберский, Курлыков</team_name><team_id>1020165</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1022993</id><last_ip>10.51.16.24, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.059826759</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 13:56</submit_time><team_name>ThreeLittleAutists</team_name><team_id>1022391</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1022995</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.060774086</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 13:57</submit_time><team_name>Савченко, Желнова, Стадник</team_name><team_id>1021895</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1022997</id><last_ip>95.154.116.235, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.063093576</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 14:00</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1022999</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.063705706</time_since_start><problem_title>Марфа Геннадьевна на даче</problem_title><submit_time>13.11.2015 14:01</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023001</id><last_ip>212.122.7.179, 10.100.100.11</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.065134190</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><submit_time>13.11.2015 14:03</submit_time><team_name>azukun</team_name><team_id>1022774</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023004</id><last_ip>79.105.250.169, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.066207789</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><failed_test>2</failed_test><submit_time>13.11.2015 14:05</submit_time><team_name>Савченко, Желнова, Стадник</team_name><team_id>1021895</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023006</id><last_ip>95.154.116.235, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.067105139</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>5</failed_test><submit_time>13.11.2015 14:06</submit_time><team_name>ThreeLittleAutists</team_name><team_id>1022391</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023008</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.067568310</time_since_start><problem_title>Коктейль</problem_title><failed_test>3</failed_test><submit_time>13.11.2015 14:07</submit_time><team_name>int c = 3;</team_name><team_id>1022609</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023010</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.069662431</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 14:10</submit_time><team_name>Базанов, Журавлёв, Лунган</team_name><team_id>1021906</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023012</id><last_ip>188.162.228.52, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.069821713</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><failed_test>2</failed_test><submit_time>13.11.2015 14:10</submit_time><team_name>Савченко, Желнова, Стадник</team_name><team_id>1021895</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023014</id><last_ip>95.154.116.235, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.071137523</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 14:12</submit_time><team_name>ФТЛ-1</team_name><team_id>1022857</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023017</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.073000104</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 14:15</submit_time><team_name>ФТЛ2 (Былгаев М, Чебанов К, Мухин Д)</team_name><team_id>1022849</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023019</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.073420289</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 14:15</submit_time><team_name>Тимофеенко, Коберский, Курлыков</team_name><team_id>1020165</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023021</id><last_ip>10.51.16.24, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.075899421</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>5</failed_test><submit_time>13.11.2015 14:19</submit_time><team_name>ThreeLittleAutists</team_name><team_id>1022391</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023024</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.075965532</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><submit_time>13.11.2015 14:19</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023026</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.077217650</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 14:21</submit_time><team_name>Устинов, Раков, Мамаев</team_name><team_id>1022813</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023028</id><last_ip>77.82.216.252, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.077547361</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 14:21</submit_time><team_name>Савченко, Желнова, Стадник</team_name><team_id>1021895</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023030</id><last_ip>95.154.116.235, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.078652813</time_since_start><problem_title>Коктейль</problem_title><failed_test>3</failed_test><submit_time>13.11.2015 14:23</submit_time><team_name>Могила, Мисливец, Решетов</team_name><team_id>1021861</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023032</id><last_ip>5.143.119.2, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.078752014</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><submit_time>13.11.2015 14:23</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023034</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.079034919</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 14:23</submit_time><team_name>KrimNash</team_name><team_id>1022721</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023036</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.081121181</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>35</failed_test><submit_time>13.11.2015 14:26</submit_time><team_name>azukun</team_name><team_id>1022774</team_id><is_remote>1</is_remote><state>idleness_limit_exceeded</state><is_ooc>1</is_ooc><id>1023039</id><last_ip>79.105.250.169, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.081584618</time_since_start><problem_title>Государство</problem_title><failed_test>3</failed_test><submit_time>13.11.2015 14:27</submit_time><team_name>Ситяев, Фиденко, Халиуллин</team_name><team_id>1021883</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023041</id><last_ip>10.51.16.116, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.081869606</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><submit_time>13.11.2015 14:27</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023044</id><last_ip>212.122.7.179, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.082095347</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 14:28</submit_time><team_name>Крум, Лесогоров, Швец</team_name><team_id>1021880</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023046</id><last_ip>10.51.16.105, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.082656007</time_since_start><problem_title>Листовая медиана</problem_title><submit_time>13.11.2015 14:29</submit_time><team_name>azukun</team_name><team_id>1022774</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023048</id><last_ip>79.105.250.169, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.082667257</time_since_start><problem_title>Кирпичная стена</problem_title><submit_time>13.11.2015 14:29</submit_time><team_name>Тимофеенко, Коберский, Курлыков</team_name><team_id>1020165</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023050</id><last_ip>10.51.16.24, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.083277454</time_since_start><problem_title>Кирпичная стена</problem_title><submit_time>13.11.2015 14:29</submit_time><team_name>int c = 3;</team_name><team_id>1022609</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>1023053</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.083650394</time_since_start><problem_title>Государство</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 14:30</submit_time><team_name>Ситяев, Фиденко, Халиуллин</team_name><team_id>1021883</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023055</id><last_ip>10.51.16.116, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.084188310</time_since_start><problem_title>Кирпичная стена</problem_title><submit_time>13.11.2015 14:31</submit_time><team_name>int c = 3;</team_name><team_id>1022609</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>1023057</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.084854931</time_since_start><problem_title>Кирпичная стена</problem_title><submit_time>13.11.2015 14:32</submit_time><team_name>Крум, Лесогоров, Швец</team_name><team_id>1021880</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023061</id><last_ip>10.51.16.105, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.085047558</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 14:32</submit_time><team_name>ФТЛ-1</team_name><team_id>1022857</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023063</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.085686389</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 14:33</submit_time><team_name>int c = 3;</team_name><team_id>1022609</team_id><is_remote>1</is_remote><state>idleness_limit_exceeded</state><is_ooc>1</is_ooc><id>1023065</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.085922130</time_since_start><problem_title>Марфа Геннадьевна на даче</problem_title><submit_time>13.11.2015 14:33</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023067</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.086304688</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><failed_test>2</failed_test><submit_time>13.11.2015 14:34</submit_time><team_name>Попов, Долженко, Вознов</team_name><team_id>1020320</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023069</id><last_ip>10.51.16.47, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.087291262</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 14:35</submit_time><team_name>Ситяев, Фиденко, Халиуллин</team_name><team_id>1021883</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023072</id><last_ip>10.51.16.116, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.087324028</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 14:35</submit_time><team_name>Irkutsk ISRU 0: Coach</team_name><team_id>1021721</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023074</id><last_ip>185.23.11.130, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.087472882</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><submit_time>13.11.2015 14:35</submit_time><team_name>Попов, Долженко, Вознов</team_name><team_id>1020320</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023076</id><last_ip>10.51.16.47, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.088109109</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 14:36</submit_time><team_name>int c = 3;</team_name><team_id>1022609</team_id><is_remote>1</is_remote><state>idleness_limit_exceeded</state><is_ooc>1</is_ooc><id>1023079</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.089164063</time_since_start><problem_title>Государство</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 14:38</submit_time><team_name>Антоненко, Волович, Дорофеева</team_name><team_id>1021892</team_id><is_remote>0</is_remote><state>idleness_limit_exceeded</state><is_ooc>0</is_ooc><id>1023081</id><last_ip>95.154.116.26, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.089747650</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 14:39</submit_time><team_name>int c = 3;</team_name><team_id>1022609</team_id><is_remote>1</is_remote><state>idleness_limit_exceeded</state><is_ooc>1</is_ooc><id>1023083</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.090270729</time_since_start><problem_title>Государство</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 14:39</submit_time><team_name>Антоненко, Волович, Дорофеева</team_name><team_id>1021892</team_id><is_remote>0</is_remote><state>idleness_limit_exceeded</state><is_ooc>0</is_ooc><id>1023085</id><last_ip>95.154.116.26, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.091946366</time_since_start><problem_title>Государство</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 14:42</submit_time><team_name>Антоненко, Волович, Дорофеева</team_name><team_id>1021892</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023087</id><last_ip>95.154.116.26, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.092211412</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 14:42</submit_time><team_name>Антоненко, Волович, Дорофеева</team_name><team_id>1021892</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023089</id><last_ip>95.154.116.26, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.092482326</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 14:43</submit_time><team_name>ФТЛ2 (Былгаев М, Чебанов К, Мухин Д)</team_name><team_id>1022849</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023093</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.092917292</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>4</failed_test><submit_time>13.11.2015 14:43</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023095</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.094973970</time_since_start><problem_title>Листовая медиана</problem_title><submit_time>13.11.2015 14:46</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023097</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.095132488</time_since_start><problem_title>Кирпичная стена</problem_title><submit_time>13.11.2015 14:46</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023099</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.095350289</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 14:47</submit_time><team_name>int c = 3;</team_name><team_id>1022609</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>1023101</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.095393414</time_since_start><problem_title>Правильная окраска</problem_title><submit_time>13.11.2015 14:47</submit_time><team_name>Могила, Мисливец, Решетов</team_name><team_id>1021861</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>1023103</id><last_ip>5.143.119.2, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.095810556</time_since_start><problem_title>Правильная окраска</problem_title><submit_time>13.11.2015 14:47</submit_time><team_name>Могила, Мисливец, Решетов</team_name><team_id>1021861</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>1023105</id><last_ip>5.143.119.2, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.096308171</time_since_start><problem_title>Правильная окраска</problem_title><submit_time>13.11.2015 14:48</submit_time><team_name>Могила, Мисливец, Решетов</team_name><team_id>1021861</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>1023107</id><last_ip>5.143.119.2, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.097105648</time_since_start><problem_title>Правильная окраска</problem_title><submit_time>13.11.2015 14:49</submit_time><team_name>Могила, Мисливец, Решетов</team_name><team_id>1021861</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>1023110</id><last_ip>5.143.119.2, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.098859340</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>6</failed_test><submit_time>13.11.2015 14:52</submit_time><team_name>Могила, Мисливец, Решетов</team_name><team_id>1021861</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023112</id><last_ip>5.143.119.2, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.099431123</time_since_start><problem_title>Листовая медиана</problem_title><submit_time>13.11.2015 14:53</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>1023114</id><last_ip>212.122.7.179, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.100777338</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>9</failed_test><submit_time>13.11.2015 14:55</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023116</id><last_ip>212.122.7.179, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.102115914</time_since_start><problem_title>Кирпичная стена</problem_title><submit_time>13.11.2015 14:57</submit_time><team_name>KrimNash</team_name><team_id>1022721</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023119</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.103001713</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>5</failed_test><submit_time>13.11.2015 14:58</submit_time><team_name>Могила, Мисливец, Решетов</team_name><team_id>1021861</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023122</id><last_ip>5.143.119.2, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.105148600</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><submit_time>13.11.2015 15:01</submit_time><team_name>ThreeLittleAutists</team_name><team_id>1022391</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023124</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.105215058</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>35</failed_test><submit_time>13.11.2015 15:01</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>1</is_remote><state>runtime_error</state><is_ooc>1</is_ooc><id>1023126</id><last_ip>212.122.7.179, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.105548762</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>12</failed_test><submit_time>13.11.2015 15:01</submit_time><team_name>Попов, Долженко, Вознов</team_name><team_id>1020320</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023128</id><last_ip>10.51.16.47, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.107306424</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>12</failed_test><submit_time>13.11.2015 15:04</submit_time><team_name>Попов, Долженко, Вознов</team_name><team_id>1020320</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023130</id><last_ip>10.51.16.47, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.107642396</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>41</failed_test><submit_time>13.11.2015 15:05</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023132</id><last_ip>212.122.7.179, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.108383345</time_since_start><problem_title>Марфа Геннадьевна на даче</problem_title><submit_time>13.11.2015 15:06</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023134</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.109007141</time_since_start><problem_title>Листовая медиана</problem_title><submit_time>13.11.2015 15:06</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023136</id><last_ip>212.122.7.179, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.111532755</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>25</failed_test><submit_time>13.11.2015 15:10</submit_time><team_name>Попов, Долженко, Вознов</team_name><team_id>1020320</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023138</id><last_ip>10.51.16.47, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.112514086</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><failed_test>10</failed_test><submit_time>13.11.2015 15:12</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>runtime_error</state><is_ooc>1</is_ooc><id>1023140</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.112626470</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 15:12</submit_time><team_name>Курашкевич, Панов, Стабровский</team_name><team_id>1021897</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023142</id><last_ip>82.162.48.229, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.115074479</time_since_start><problem_title>Правильная окраска</problem_title><submit_time>13.11.2015 15:15</submit_time><team_name>Попов, Долженко, Вознов</team_name><team_id>1020320</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023145</id><last_ip>10.51.16.47, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.116194549</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 15:17</submit_time><team_name>KrimNash</team_name><team_id>1022721</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023148</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.118413958</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><failed_test>10</failed_test><submit_time>13.11.2015 15:20</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023150</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.118425359</time_since_start><problem_title>Y-хромосома</problem_title><submit_time>13.11.2015 15:20</submit_time><team_name>Лавриненко, Шеховцов, Кофтина</team_name><team_id>1021851</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023152</id><last_ip>10.41.12.34, 77.82.148.114, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.118687292</time_since_start><problem_title>Марфа Геннадьевна и монеты</problem_title><failed_test>2</failed_test><submit_time>13.11.2015 15:20</submit_time><team_name>Крум, Лесогоров, Швец</team_name><team_id>1021880</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>1023154</id><last_ip>10.51.16.105, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.120118368</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><failed_test>10</failed_test><submit_time>13.11.2015 15:22</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023156</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.120147060</time_since_start><problem_title>Y-хромосома</problem_title><submit_time>13.11.2015 15:23</submit_time><team_name>ФТЛ2 (Былгаев М, Чебанов К, Мухин Д)</team_name><team_id>1022849</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023158</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.121796840</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><submit_time>13.11.2015 15:25</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023160</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.121809039</time_since_start><problem_title>Марфа Геннадьевна и монеты</problem_title><failed_test>3</failed_test><submit_time>13.11.2015 15:25</submit_time><team_name>Крум, Лесогоров, Швец</team_name><team_id>1021880</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023162</id><last_ip>10.51.16.105, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.122056447</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 15:25</submit_time><team_name>Зинькович, Гершук, Дзюба</team_name><team_id>1020148</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023164</id><last_ip>10.51.16.25, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.124694884</time_since_start><problem_title>Марфа Геннадьевна и монеты</problem_title><failed_test>3</failed_test><submit_time>13.11.2015 15:29</submit_time><team_name>Крум, Лесогоров, Швец</team_name><team_id>1021880</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023167</id><last_ip>10.51.16.105, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.128803796</time_since_start><problem_title>Марфа Геннадьевна и монеты</problem_title><failed_test>3</failed_test><submit_time>13.11.2015 15:35</submit_time><team_name>Крум, Лесогоров, Швец</team_name><team_id>1021880</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023172</id><last_ip>10.51.16.105, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.128828310</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 15:35</submit_time><team_name>Бабич Михаил</team_name><team_id>932925</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023174</id><last_ip>95.154.116.189, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.136696296</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 15:46</submit_time><team_name>Могила, Мисливец, Решетов</team_name><team_id>1021861</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023177</id><last_ip>5.143.119.2, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.137693495</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>12</failed_test><submit_time>13.11.2015 15:48</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023179</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.138369757</time_since_start><problem_title>Коктейль</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 15:49</submit_time><team_name>Авдеева Мария</team_name><team_id>992477</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023181</id><last_ip>77.35.4.90, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.139852060</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>41</failed_test><submit_time>13.11.2015 15:51</submit_time><team_name>-</team_name><team_id>923011</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023184</id><last_ip>94.125.48.83, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.141620301</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>8</failed_test><submit_time>13.11.2015 15:53</submit_time><team_name>Зинькович, Гершук, Дзюба</team_name><team_id>1020148</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023186</id><last_ip>10.51.16.25, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.143786829</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 15:57</submit_time><team_name>Крум, Лесогоров, Швец</team_name><team_id>1021880</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023188</id><last_ip>10.51.16.105, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.144147037</time_since_start><problem_title>Государство</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 15:57</submit_time><team_name>KrimNash</team_name><team_id>1022721</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023190</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.144417546</time_since_start><problem_title>Y-хромосома</problem_title><submit_time>13.11.2015 15:57</submit_time><team_name>Тимофеенко, Коберский, Курлыков</team_name><team_id>1020165</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023192</id><last_ip>10.51.16.24, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.146187465</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:00</submit_time><team_name>Патенкова, Калныш, Бондарев</team_name><team_id>1021887</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023194</id><last_ip>95.154.116.39, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.148599525</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>4</failed_test><submit_time>13.11.2015 16:03</submit_time><team_name>Глушков, Валявка, Русак</team_name><team_id>1021900</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023196</id><last_ip>78.24.231.230, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.149339491</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>6</failed_test><submit_time>13.11.2015 16:05</submit_time><team_name>-</team_name><team_id>923011</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023198</id><last_ip>94.125.48.83, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.150720359</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:07</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023200</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.152135208</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:09</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023202</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.152188762</time_since_start><problem_title>Марфа Геннадьевна и монеты</problem_title><submit_time>13.11.2015 16:09</submit_time><team_name>Крум, Лесогоров, Швец</team_name><team_id>1021880</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023204</id><last_ip>10.51.16.105, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.152844977</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>3</failed_test><submit_time>13.11.2015 16:10</submit_time><team_name>ФТЛ-1</team_name><team_id>1022857</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023206</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.154893727</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>3</failed_test><submit_time>13.11.2015 16:13</submit_time><team_name>ФТЛ-1</team_name><team_id>1022857</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023208</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.154958704</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:13</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023210</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.155625486</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 16:14</submit_time><team_name>Антоненко, Волович, Дорофеева</team_name><team_id>1021892</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>1023213</id><last_ip>95.154.116.26, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.158419618</time_since_start><problem_title>Кирпичная стена</problem_title><submit_time>13.11.2015 16:18</submit_time><team_name>ФТЛ-1</team_name><team_id>1022857</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023216</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.159735266</time_since_start><problem_title>Коктейль</problem_title><failed_test>3</failed_test><submit_time>13.11.2015 16:20</submit_time><team_name>Базанов, Журавлёв, Лунган</team_name><team_id>1021906</team_id><is_remote>1</is_remote><state>runtime_error</state><is_ooc>0</is_ooc><id>1023218</id><last_ip>188.162.228.52, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.160175521</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:20</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>runtime_error</state><is_ooc>1</is_ooc><id>1023220</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.160283657</time_since_start><problem_title>Y-хромосома</problem_title><failed_test>20</failed_test><submit_time>13.11.2015 16:20</submit_time><team_name>KrimNash</team_name><team_id>1022721</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>1023222</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.161292801</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 16:22</submit_time><team_name>Базанов, Журавлёв, Лунган</team_name><team_id>1021906</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023224</id><last_ip>188.162.228.52, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.161346667</time_since_start><problem_title>Y-хромосома</problem_title><submit_time>13.11.2015 16:22</submit_time><team_name>Устинов, Раков, Мамаев</team_name><team_id>1022813</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023226</id><last_ip>77.82.216.252, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.162558021</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 16:24</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>runtime_error</state><is_ooc>1</is_ooc><id>1023228</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.162724907</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:24</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>memory_limit_exceeded</state><is_ooc>1</is_ooc><id>1023230</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.163288391</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>21</failed_test><submit_time>13.11.2015 16:25</submit_time><team_name>-</team_name><team_id>923011</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023232</id><last_ip>94.125.48.83, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.163357975</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:25</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>runtime_error</state><is_ooc>1</is_ooc><id>1023234</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.163487824</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:25</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>runtime_error</state><is_ooc>1</is_ooc><id>1023236</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.163707130</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:25</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023238</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.164112766</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>21</failed_test><submit_time>13.11.2015 16:26</submit_time><team_name>-</team_name><team_id>923011</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023240</id><last_ip>94.125.48.83, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.164282384</time_since_start><problem_title>Y-хромосома</problem_title><failed_test>20</failed_test><submit_time>13.11.2015 16:26</submit_time><team_name>KrimNash</team_name><team_id>1022721</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>1023242</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.165029259</time_since_start><problem_title>Y-хромосома</problem_title><submit_time>13.11.2015 16:27</submit_time><team_name>KrimNash</team_name><team_id>1022721</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>1023244</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.165175012</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:27</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023246</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.166174306</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>21</failed_test><submit_time>13.11.2015 16:29</submit_time><team_name>-</team_name><team_id>923011</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023248</id><last_ip>94.125.48.83, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.167221273</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>21</failed_test><submit_time>13.11.2015 16:30</submit_time><team_name>-</team_name><team_id>923011</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023250</id><last_ip>94.125.48.83, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.167357535</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:30</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>1023252</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.167799780</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>41</failed_test><submit_time>13.11.2015 16:31</submit_time><team_name>-</team_name><team_id>923011</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023254</id><last_ip>94.125.48.83, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.168060822</time_since_start><problem_title>Государство</problem_title><submit_time>13.11.2015 16:32</submit_time><team_name>Патенкова, Калныш, Бондарев</team_name><team_id>1021887</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023256</id><last_ip>95.154.116.39, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.168448021</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 16:32</submit_time><team_name>Лавриненко, Шеховцов, Кофтина</team_name><team_id>1021851</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023258</id><last_ip>10.41.12.34, 77.82.148.114, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.168475278</time_since_start><problem_title>Коктейль</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 16:32</submit_time><team_name>Авдеева Мария</team_name><team_id>992477</team_id><is_remote>1</is_remote><state>idleness_limit_exceeded</state><is_ooc>1</is_ooc><id>1023260</id><last_ip>77.35.4.90, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.168628461</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>41</failed_test><submit_time>13.11.2015 16:32</submit_time><team_name>-</team_name><team_id>923011</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023262</id><last_ip>94.125.48.83, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.169390150</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>41</failed_test><submit_time>13.11.2015 16:33</submit_time><team_name>-</team_name><team_id>923011</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023264</id><last_ip>94.125.48.83, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.169863183</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><failed_test>2</failed_test><submit_time>13.11.2015 16:34</submit_time><team_name>Лавриненко, Шеховцов, Кофтина</team_name><team_id>1021851</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023266</id><last_ip>10.41.12.34, 77.82.148.114, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.170039606</time_since_start><problem_title>Y-хромосома</problem_title><failed_test>20</failed_test><submit_time>13.11.2015 16:34</submit_time><team_name>KrimNash</team_name><team_id>1022721</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>1023268</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.170956505</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:36</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>1023270</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.172725660</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>41</failed_test><submit_time>13.11.2015 16:38</submit_time><team_name>-</team_name><team_id>923011</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023272</id><last_ip>94.125.48.83, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.173803646</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><submit_time>13.11.2015 16:40</submit_time><team_name>Зинькович, Гершук, Дзюба</team_name><team_id>1020148</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023276</id><last_ip>10.51.16.25, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.173884294</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 16:40</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>1023278</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.174235162</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:40</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023281</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.174789699</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:41</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>1023285</id><last_ip>77.35.35.33, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.176784780</time_since_start><problem_title>Листовая медиана</problem_title><submit_time>13.11.2015 16:44</submit_time><team_name>-</team_name><team_id>923011</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023290</id><last_ip>94.125.48.83, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.177127488</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:45</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023292</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.177146285</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>41</failed_test><submit_time>13.11.2015 16:45</submit_time><team_name>-</team_name><team_id>923011</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023294</id><last_ip>94.125.48.83, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.178286100</time_since_start><problem_title>Листовая медиана</problem_title><submit_time>13.11.2015 16:46</submit_time><team_name>-</team_name><team_id>923011</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>1023296</id><last_ip>94.125.48.83, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.180693449</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:50</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023298</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.180696481</time_since_start><problem_title>Коктейль</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:50</submit_time><team_name>Авдеева Мария</team_name><team_id>992477</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023299</id><last_ip>77.35.4.90, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.180732755</time_since_start><problem_title>Y-хромосома</problem_title><failed_test>20</failed_test><submit_time>13.11.2015 16:50</submit_time><team_name>KrimNash</team_name><team_id>1022721</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>1023302</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.181338206</time_since_start><problem_title>Коктейль</problem_title><failed_test>4</failed_test><submit_time>13.11.2015 16:51</submit_time><team_name>Авдеева Мария</team_name><team_id>992477</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023304</id><last_ip>77.35.4.90, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.182639456</time_since_start><problem_title>Y-хромосома</problem_title><failed_test>4</failed_test><submit_time>13.11.2015 16:53</submit_time><team_name>ФТЛ-1</team_name><team_id>1022857</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023307</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.183463947</time_since_start><problem_title>Y-хромосома</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 16:54</submit_time><team_name>KrimNash</team_name><team_id>1022721</team_id><is_remote>1</is_remote><state>idleness_limit_exceeded</state><is_ooc>1</is_ooc><id>1023309</id><last_ip>77.221.208.98, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.184606817</time_since_start><problem_title>Y-хромосома</problem_title><failed_test>4</failed_test><submit_time>13.11.2015 16:55</submit_time><team_name>ФТЛ-1</team_name><team_id>1022857</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023311</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.184829549</time_since_start><problem_title>Листовая медиана</problem_title><submit_time>13.11.2015 16:56</submit_time><team_name>-</team_name><team_id>923011</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>1023314</id><last_ip>94.125.48.83, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.185570231</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 16:57</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023316</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.189625972</time_since_start><problem_title>Марфа Геннадьевна и монеты</problem_title><failed_test>4</failed_test><submit_time>13.11.2015 17:03</submit_time><team_name>Попов, Долженко, Вознов</team_name><team_id>1020320</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>1023318</id><last_ip>10.51.16.47, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.191401458</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 17:05</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>1023320</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.193577419</time_since_start><problem_title>Y-хромосома</problem_title><submit_time>13.11.2015 17:08</submit_time><team_name>Глушков, Валявка, Русак</team_name><team_id>1021900</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>1023322</id><last_ip>78.24.231.230, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.194093877</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>2</failed_test><submit_time>13.11.2015 17:09</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023324</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.194189606</time_since_start><problem_title>Y-хромосома</problem_title><failed_test>4</failed_test><submit_time>13.11.2015 17:09</submit_time><team_name>ФТЛ-1</team_name><team_id>1022857</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023326</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.194861493</time_since_start><problem_title>Y-хромосома</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 17:10</submit_time><team_name>ФТЛ-1</team_name><team_id>1022857</team_id><is_remote>1</is_remote><state>idleness_limit_exceeded</state><is_ooc>1</is_ooc><id>1023328</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.194943750</time_since_start><problem_title>Y-хромосома</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 17:10</submit_time><team_name>ФТЛ-1</team_name><team_id>1022857</team_id><is_remote>1</is_remote><state>idleness_limit_exceeded</state><is_ooc>1</is_ooc><id>1023330</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.194978762</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>2</failed_test><submit_time>13.11.2015 17:10</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023332</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.196399306</time_since_start><problem_title>Y-хромосома</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 17:12</submit_time><team_name>ФТЛ-1</team_name><team_id>1022857</team_id><is_remote>1</is_remote><state>idleness_limit_exceeded</state><is_ooc>1</is_ooc><id>1023334</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.196725810</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>5</failed_test><submit_time>13.11.2015 17:13</submit_time><team_name>Зинькович, Гершук, Дзюба</team_name><team_id>1020148</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>1023336</id><last_ip>10.51.16.25, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.197278310</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 17:14</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023338</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.197936852</time_since_start><problem_title>Кирпичная стена</problem_title><submit_time>13.11.2015 17:15</submit_time><team_name>Лавриненко, Шеховцов, Кофтина</team_name><team_id>1021851</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>1023340</id><last_ip>10.41.12.34, 77.82.148.114, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.198400579</time_since_start><problem_title>Y-хромосома</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 17:15</submit_time><team_name>ФТЛ-1</team_name><team_id>1022857</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023342</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.198489977</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>4</failed_test><submit_time>13.11.2015 17:15</submit_time><team_name>Лавриненко, Шеховцов, Кофтина</team_name><team_id>1021851</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023344</id><last_ip>10.41.12.34, 77.82.148.114, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.199273299</time_since_start><problem_title>Y-хромосома</problem_title><failed_test>4</failed_test><submit_time>13.11.2015 17:16</submit_time><team_name>ФТЛ-1</team_name><team_id>1022857</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>1023346</id><last_ip>80.73.72.66, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.200728090</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>3</failed_test><submit_time>13.11.2015 17:19</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>1023348</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.201526863</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><failed_test>8</failed_test><submit_time>13.11.2015 17:20</submit_time><team_name>Крум, Лесогоров, Швец</team_name><team_id>1021880</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023350</id><last_ip>10.51.16.105, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.202376505</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 17:21</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>1023352</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.202396690</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>10</failed_test><submit_time>13.11.2015 17:21</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023354</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.203253171</time_since_start><problem_title>Марфа Геннадьевна и монеты</problem_title><submit_time>13.11.2015 17:22</submit_time><team_name>Попов, Долженко, Вознов</team_name><team_id>1020320</team_id><is_remote>0</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>1023356</id><last_ip>10.51.16.47, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.205711400</time_since_start><problem_title>Марфа Геннадьевна и монеты</problem_title><failed_test>4</failed_test><submit_time>13.11.2015 17:26</submit_time><team_name>Попов, Долженко, Вознов</team_name><team_id>1020320</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>1023359</id><last_ip>10.51.16.47, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.206356458</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 17:27</submit_time><team_name>СВФУ2</team_name><team_id>1022771</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>1023360</id><last_ip>77.34.150.110, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.207860081</time_since_start><problem_title>Коктейль</problem_title><submit_time>13.11.2015 17:29</submit_time><team_name>Никитин, Янбахтин </team_name><team_id>1021903</team_id><is_remote>0</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>1023363</id><last_ip>85.26.241.231, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.207865162</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 17:29</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023364</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.208093322</time_since_start><problem_title>Кирпичная стена</problem_title><submit_time>13.11.2015 17:29</submit_time><team_name>Лавриненко, Шеховцов, Кофтина</team_name><team_id>1021851</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>1023367</id><last_ip>10.41.12.34, 77.82.148.114, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.208787627</time_since_start><problem_title>Кирпичная стена</problem_title><failed_test>1</failed_test><submit_time>13.11.2015 17:30</submit_time><team_name>Глушков, Валявка, Русак</team_name><team_id>1021900</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023369</id><last_ip>78.24.231.230, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.209056111</time_since_start><problem_title>Листовая медиана</problem_title><failed_test>4</failed_test><submit_time>13.11.2015 17:31</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023371</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.209435243</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>5</failed_test><submit_time>13.11.2015 17:31</submit_time><team_name>Зинькович, Гершук, Дзюба</team_name><team_id>1020148</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023373</id><last_ip>10.51.16.25, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.210050799</time_since_start><problem_title>Марфа Геннадьевна и документы</problem_title><submit_time>13.11.2015 17:32</submit_time><team_name>Савченко, Желнова, Стадник</team_name><team_id>1021895</team_id><is_remote>0</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>1023375</id><last_ip>95.154.116.235, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.210169560</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>8</failed_test><submit_time>13.11.2015 17:32</submit_time><team_name>Зинькович, Гершук, Дзюба</team_name><team_id>1020148</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023377</id><last_ip>10.51.16.25, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.210493160</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>15</failed_test><submit_time>13.11.2015 17:33</submit_time><team_name>Мекумянов, Максимов, Тихонов</team_name><team_id>1021876</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023379</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.210727315</time_since_start><problem_title>Марфа Геннадьевна и монеты</problem_title><failed_test>4</failed_test><submit_time>13.11.2015 17:33</submit_time><team_name>Попов, Долженко, Вознов</team_name><team_id>1020320</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>1023381</id><last_ip>10.51.16.47, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.211464213</time_since_start><problem_title>Правильная окраска</problem_title><failed_test>5</failed_test><submit_time>13.11.2015 17:34</submit_time><team_name>Зинькович, Гершук, Дзюба</team_name><team_id>1020148</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>1023383</id><last_ip>10.51.16.25, 10.100.100.11</last_ip><code>A</code></req>
+
+</reqs>

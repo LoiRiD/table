@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<teams>
+  <team><id>914015</id><name>NEFU</name></team>
+  <team><id>913323</id><name>Хохолов, Артамонов, Иевлев (Якутск)</name></team>
+  <team><id>914013</id><name>Epic Fail</name></team>
+  <team><id>909243</id><name>Данилов, Шибаев, Попов</name></team>
+  <team><id>913329</id><name>Фогелевич, Кузякова, Коберский</name></team>
+  <team><id>911974</id><name>Долгушев, Бездетко, Прохоров.</name></team>
+  <team><id>558637</id><name>MaXL</name></team>
+  <team><id>913345</id><name>Гурьев, Богатырев, Манякин</name></team>
+  <team><id>913341</id><name>Козлов, Сластен, Овчинников</name></team>
+  <team><id>909241</id><name>Коноплицкий, Липов, Панченко</name></team>
+  <team><id>714144</id><name>ShigiDono</name></team>
+  <team><id>913339</id><name>Добрецов, Стручков, Петров (Якутск)</name></team>
+  <team><id>913326</id><name>Умрихин, Разумов, Баулин</name></team>
+  <team><id>909247</id><name>Приходько,Рындыч, Вознов</name></team>
+  <team><id>910500</id><name>Far Eastern S Transport U: 1</name></team>
+  <team><id>913293</id><name>Far Eastern S Transport U: 2</name></team>
+  <team><id>913359</id><name>Алексеев, Лесогоров, Гершук</name></team>
+  <team><id>913368</id><name>Дзюба, Поликутин, Тыщенко</name></team>
+  <team><id>912860</id><name>Бандеев, Федоров (ФТЛ)</name></team>
+  <team><id>869309</id><name>dukhno</name></team>
+  <team><id>914053</id><name>Обудов, Судико (ФТЛ)</name></team>
+  <team><id>913353</id><name>Кузнецов, Ренева, Валявка</name></team>
+  <team><id>914002</id><name>Зинькович, Глущенко, Mайоров</name></team>
+  <team><id>909280</id><name>Тимофеенко, Гурьев, Махлярчук</name></team>
+  <team><id>914097</id><name>Шинкарев, Андросов, Коротова (ФТЛ)</name></team>
+  <team><id>913335</id><name>Денисова, Жуплева, Патенкова</name></team>
+  <team><id>913320</id><name>Interplanetary FU: Ticket to the moon</name></team>
+  <team><id>914364</id><name>Былгаев, Чебанов (ФТЛ)</name></team>
+</teams>
+<problems>
+  <problem><code>A</code></problem>
+  <problem><code>B</code></problem>
+  <problem><code>C</code></problem>
+  <problem><code>D</code></problem>
+  <problem><code>E</code></problem>
+  <problem><code>F</code></problem>
+  <problem><code>G</code></problem>
+  <problem><code>H</code></problem>
+</problems>
+
+<reqs>
+
+  <req><time_since_start>0.003970625</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:35</submit_time><team_name>Хохолов, Артамонов, Иевлев (Якутск)</team_name><team_id>913323</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914037</id><last_ip>80.83.239.39, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.004179456</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:36</submit_time><team_name>Приходько,Рындыч, Вознов</team_name><team_id>909247</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914039</id><last_ip>95.154.71.29, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.004451806</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:36</submit_time><team_name>Коноплицкий, Липов, Панченко</team_name><team_id>909241</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914041</id><last_ip>10.51.29.58, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.004678264</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:36</submit_time><team_name>Козлов, Сластен, Овчинников</team_name><team_id>913341</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914043</id><last_ip>10.51.29.45, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.005272593</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:37</submit_time><team_name>Данилов, Шибаев, Попов</team_name><team_id>909243</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914045</id><last_ip>5.100.70.101, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.005639988</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:38</submit_time><team_name>Гурьев, Богатырев, Манякин</team_name><team_id>913345</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914048</id><last_ip>10.51.29.71, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.005912002</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:38</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914050</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.005972350</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:38</submit_time><team_name>Денисова, Жуплева, Патенкова</team_name><team_id>913335</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914052</id><last_ip>5.143.127.74, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.005977824</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:38</submit_time><team_name>Зинькович,  Глущенко, Mайоров</team_name><team_id>914002</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914055</id><last_ip>128.74.133.79, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.006074514</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:38</submit_time><team_name>Фогелевич, Кузякова, Коберский</team_name><team_id>913329</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914059</id><last_ip>80.83.238.8, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.006280220</time_since_start><problem_title>Радары</problem_title><failed_test>4</failed_test><submit_time>01.11.2013 12:39</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914061</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.006337813</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:39</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914063</id><last_ip>91.227.23.10, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.006891991</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 12:39</submit_time><team_name>Данилов, Шибаев, Попов</team_name><team_id>909243</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914066</id><last_ip>5.100.70.101, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.007356366</time_since_start><problem_title>Радары</problem_title><failed_test>4</failed_test><submit_time>01.11.2013 12:40</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914074</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.007804051</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:41</submit_time><team_name>Epic Fail</team_name><team_id>914013</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914076</id><last_ip>10.51.29.92, 46.250.32.8, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.008290289</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 12:41</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914079</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.009230289</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 12:43</submit_time><team_name>Хохолов, Артамонов, Иевлев (Якутск)</team_name><team_id>913323</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914081</id><last_ip>80.83.239.39, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.009281100</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:43</submit_time><team_name>Долгушев, Бездетко, Прохоров.</team_name><team_id>911974</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914083</id><last_ip>109.110.33.157, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.009680903</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:43</submit_time><team_name>Кузнецов, Ренева, Валявка</team_name><team_id>913353</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914085</id><last_ip>10.51.29.11, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.010227002</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:44</submit_time><team_name>ShigiDono</team_name><team_id>714144</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914089</id><last_ip>37.8.147.148, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.010488889</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 12:45</submit_time><team_name>Козлов, Сластен, Овчинников</team_name><team_id>913341</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914091</id><last_ip>10.51.29.45, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.010552616</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:45</submit_time><team_name>Добрецов, Стручков, Петров (Якутск)</team_name><team_id>913339</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914093</id><last_ip>10.51.29.61, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.010977940</time_since_start><problem_title>Средняя скорость</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 12:45</submit_time><team_name>Хохолов, Артамонов, Иевлев (Якутск)</team_name><team_id>913323</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914095</id><last_ip>80.83.239.39, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.011884317</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 12:47</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914099</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.012505289</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 12:48</submit_time><team_name>Коноплицкий, Липов, Панченко</team_name><team_id>909241</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914101</id><last_ip>10.51.29.58, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.012703438</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 12:48</submit_time><team_name>Хохолов, Артамонов, Иевлев (Якутск)</team_name><team_id>913323</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914103</id><last_ip>80.83.239.39, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.013029919</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 12:48</submit_time><team_name>Фогелевич, Кузякова, Коберский</team_name><team_id>913329</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914106</id><last_ip>80.83.238.8, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.013119502</time_since_start><problem_title>Средняя скорость</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 12:48</submit_time><team_name>ShigiDono</team_name><team_id>714144</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>914108</id><last_ip>37.8.147.148, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.013261019</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:49</submit_time><team_name>Умрихин, Разумов, Баулин</team_name><team_id>913326</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914110</id><last_ip>10.51.29.65, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.013467153</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 12:49</submit_time><team_name>ShigiDono</team_name><team_id>714144</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914112</id><last_ip>37.8.147.148, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.013546678</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 12:49</submit_time><team_name>Epic Fail</team_name><team_id>914013</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914114</id><last_ip>10.51.29.92, 46.250.32.8, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.014188275</time_since_start><problem_title>Радары</problem_title><failed_test>21</failed_test><submit_time>01.11.2013 12:50</submit_time><team_name>Данилов, Шибаев, Попов</team_name><team_id>909243</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914116</id><last_ip>5.100.70.101, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.014976910</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 12:51</submit_time><team_name>Козлов, Сластен, Овчинников</team_name><team_id>913341</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914118</id><last_ip>10.51.29.45, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.015157130</time_since_start><problem_title>Радары</problem_title><failed_test>4</failed_test><submit_time>01.11.2013 12:51</submit_time><team_name>Денисова, Жуплева, Патенкова</team_name><team_id>913335</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914120</id><last_ip>5.143.127.74, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.015380069</time_since_start><problem_title>Межпланетные занятия</problem_title><failed_test>15</failed_test><submit_time>01.11.2013 12:52</submit_time><team_name>Алексеев, Лесогоров, Гершук</team_name><team_id>913359</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914122</id><last_ip>85.26.241.150, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.015838125</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 12:52</submit_time><team_name>Добрецов, Стручков, Петров (Якутск)</team_name><team_id>913339</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914124</id><last_ip>10.51.29.61, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.015874051</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 12:52</submit_time><team_name>Тимофеенко, Гурьев, Махлярчук</team_name><team_id>909280</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914126</id><last_ip>10.51.29.69, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.016165336</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 12:53</submit_time><team_name>ShigiDono</team_name><team_id>714144</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914128</id><last_ip>37.8.147.148, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.016442755</time_since_start><problem_title>Гадание на ромашках</problem_title><submit_time>01.11.2013 12:53</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914130</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.016465880</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 12:53</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>914131</id><last_ip>91.227.23.10, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.017432512</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 12:55</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914140</id><last_ip>91.227.23.10, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.017858970</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 12:55</submit_time><team_name>Приходько,Рындыч, Вознов</team_name><team_id>909247</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914142</id><last_ip>95.154.71.29, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.018475000</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 12:56</submit_time><team_name>Гурьев, Богатырев, Манякин</team_name><team_id>913345</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914145</id><last_ip>10.51.29.71, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.018673843</time_since_start><problem_title>Межпланетные занятия</problem_title><failed_test>15</failed_test><submit_time>01.11.2013 12:56</submit_time><team_name>Алексеев, Лесогоров, Гершук</team_name><team_id>913359</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914147</id><last_ip>85.26.241.150, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.019679572</time_since_start><problem_title>Радары</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 12:58</submit_time><team_name>Данилов, Шибаев, Попов</team_name><team_id>909243</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914153</id><last_ip>5.100.70.101, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.020686493</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 12:59</submit_time><team_name>Кузнецов, Ренева, Валявка</team_name><team_id>913353</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914155</id><last_ip>10.51.29.11, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.021573565</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 13:01</submit_time><team_name>Epic Fail</team_name><team_id>914013</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914167</id><last_ip>10.51.29.92, 46.250.32.8, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.022117257</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 13:01</submit_time><team_name>Умрихин, Разумов, Баулин</team_name><team_id>913326</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914170</id><last_ip>10.51.29.65, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.023157731</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 13:03</submit_time><team_name>Алексеев, Лесогоров, Гершук</team_name><team_id>913359</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914173</id><last_ip>85.26.241.150, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.023679132</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 13:04</submit_time><team_name>Долгушев, Бездетко, Прохоров.</team_name><team_id>911974</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914175</id><last_ip>109.110.33.157, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.024018704</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 13:04</submit_time><team_name>Данилов, Шибаев, Попов</team_name><team_id>909243</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914177</id><last_ip>5.100.70.101, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.026532778</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 13:08</submit_time><team_name>Коноплицкий, Липов, Панченко</team_name><team_id>909241</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914179</id><last_ip>10.51.29.58, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.026811481</time_since_start><problem_title>Межпланетные занятия</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 13:08</submit_time><team_name>Дзюба, Поликутин, Тыщенко</team_name><team_id>913368</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>914181</id><last_ip>10.51.29.31, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.028576481</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 13:11</submit_time><team_name>MaXL</team_name><team_id>558637</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914183</id><last_ip>37.8.151.54, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.028578380</time_since_start><problem_title>Межпланетные занятия</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 13:11</submit_time><team_name>Дзюба, Поликутин, Тыщенко</team_name><team_id>913368</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>914184</id><last_ip>10.51.29.31, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.028866597</time_since_start><problem_title>Межпланетные занятия</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 13:11</submit_time><team_name>Обудов, Судико (ФТЛ)</team_name><team_id>914053</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>914187</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.029206285</time_since_start><problem_title>Радары</problem_title><failed_test>14</failed_test><submit_time>01.11.2013 13:12</submit_time><team_name>Зинькович,  Глущенко, Mайоров</team_name><team_id>914002</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914189</id><last_ip>128.74.133.79, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.029407442</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 13:12</submit_time><team_name>Обудов, Судико (ФТЛ)</team_name><team_id>914053</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914191</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.029977627</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 13:13</submit_time><team_name>Долгушев, Бездетко, Прохоров.</team_name><team_id>911974</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914193</id><last_ip>109.110.33.157, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.030297546</time_since_start><problem_title>Сколько треугольников?</problem_title><submit_time>01.11.2013 13:13</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914195</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.030668056</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>11</failed_test><submit_time>01.11.2013 13:14</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914202</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.030888646</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 13:14</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914204</id><last_ip>91.227.23.10, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.031833854</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 13:15</submit_time><team_name>Гурьев, Богатырев, Манякин</team_name><team_id>913345</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914208</id><last_ip>10.51.29.71, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.032028287</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 13:16</submit_time><team_name>MaXL</team_name><team_id>558637</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914210</id><last_ip>37.8.151.54, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.033579132</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>3</failed_test><submit_time>01.11.2013 13:18</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914219</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.034198113</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>11</failed_test><submit_time>01.11.2013 13:19</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914221</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.035737836</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 13:21</submit_time><team_name>MaXL</team_name><team_id>558637</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914223</id><last_ip>37.8.151.54, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.036253738</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 13:22</submit_time><team_name>Алексеев, Лесогоров, Гершук</team_name><team_id>913359</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914225</id><last_ip>85.26.241.150, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.040581424</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>7</failed_test><submit_time>01.11.2013 13:28</submit_time><team_name>Хохолов, Артамонов, Иевлев (Якутск)</team_name><team_id>913323</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914233</id><last_ip>80.83.239.39, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.040983657</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 13:29</submit_time><team_name>Фогелевич, Кузякова, Коберский</team_name><team_id>913329</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914237</id><last_ip>80.83.238.8, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.041618958</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>6</failed_test><submit_time>01.11.2013 13:29</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914239</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.042712905</time_since_start><problem_title>Средняя скорость</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 13:31</submit_time><team_name>Козлов, Сластен, Овчинников</team_name><team_id>913341</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914241</id><last_ip>10.51.29.45, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.042790938</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>11</failed_test><submit_time>01.11.2013 13:31</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914243</id><last_ip>91.227.23.10, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.043860231</time_since_start><problem_title>IR-исполнитель</problem_title><failed_test>6</failed_test><submit_time>01.11.2013 13:33</submit_time><team_name>Гурьев, Богатырев, Манякин</team_name><team_id>913345</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914245</id><last_ip>10.51.29.71, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.044187708</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>12</failed_test><submit_time>01.11.2013 13:33</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914247</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.044616134</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 13:34</submit_time><team_name>Добрецов, Стручков, Петров (Якутск)</team_name><team_id>913339</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914249</id><last_ip>10.51.29.61, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.045683588</time_since_start><problem_title>Кусочно-линейная функция</problem_title><submit_time>01.11.2013 13:35</submit_time><team_name>Interplanetary FU: Ticket to the moon</team_name><team_id>913320</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914252</id><last_ip>10.51.29.91, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.046644931</time_since_start><problem_title>Радары</problem_title><failed_test>21</failed_test><submit_time>01.11.2013 13:37</submit_time><team_name>Зинькович,  Глущенко, Mайоров</team_name><team_id>914002</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914254</id><last_ip>128.74.133.79, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.048228993</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>41</failed_test><submit_time>01.11.2013 13:39</submit_time><team_name>Epic Fail</team_name><team_id>914013</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914256</id><last_ip>10.51.29.92, 46.250.32.8, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.048232118</time_since_start><problem_title>Гадание на ромашках</problem_title><submit_time>01.11.2013 13:39</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914257</id><last_ip>91.227.23.10, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.048740370</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>14</failed_test><submit_time>01.11.2013 13:40</submit_time><team_name>Хохолов, Артамонов, Иевлев (Якутск)</team_name><team_id>913323</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914260</id><last_ip>80.83.239.39, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.051936111</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>8</failed_test><submit_time>01.11.2013 13:44</submit_time><team_name>Epic Fail</team_name><team_id>914013</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914269</id><last_ip>10.51.29.92, 46.250.32.8, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.053294549</time_since_start><problem_title>Сколько треугольников?</problem_title><submit_time>01.11.2013 13:46</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914273</id><last_ip>91.227.23.10, 192.168.9.5</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.053741343</time_since_start><problem_title>Средняя скорость</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 13:47</submit_time><team_name>Дзюба, Поликутин, Тыщенко</team_name><team_id>913368</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>914275</id><last_ip>10.51.29.31, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.053924780</time_since_start><problem_title>Гадание на ромашках</problem_title><submit_time>01.11.2013 13:47</submit_time><team_name>Хохолов, Артамонов, Иевлев (Якутск)</team_name><team_id>913323</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914277</id><last_ip>80.83.239.39, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.054511713</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>41</failed_test><submit_time>01.11.2013 13:48</submit_time><team_name>Epic Fail</team_name><team_id>914013</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914279</id><last_ip>10.51.29.92, 46.250.32.8, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.055057188</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>2</failed_test><submit_time>01.11.2013 13:49</submit_time><team_name>MaXL</team_name><team_id>558637</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914282</id><last_ip>37.8.151.54, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.055443773</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>12</failed_test><submit_time>01.11.2013 13:49</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914284</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.055541319</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 13:49</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>913293</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914286</id><last_ip>188.162.228.131, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.055621759</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>22</failed_test><submit_time>01.11.2013 13:50</submit_time><team_name>MaXL</team_name><team_id>558637</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914288</id><last_ip>37.8.151.54, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.056000023</time_since_start><problem_title>Радары</problem_title><failed_test>5</failed_test><submit_time>01.11.2013 13:50</submit_time><team_name>Приходько,Рындыч, Вознов</team_name><team_id>909247</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>914291</id><last_ip>95.154.71.29, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.056519907</time_since_start><problem_title>Радары</problem_title><failed_test>10</failed_test><submit_time>01.11.2013 13:51</submit_time><team_name>Приходько,Рындыч, Вознов</team_name><team_id>909247</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914293</id><last_ip>95.154.71.29, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.056767488</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>41</failed_test><submit_time>01.11.2013 13:51</submit_time><team_name>Epic Fail</team_name><team_id>914013</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914295</id><last_ip>10.51.29.92, 46.250.32.8, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.058836597</time_since_start><problem_title>Кусочно-линейная функция</problem_title><submit_time>01.11.2013 13:54</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914297</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.063888484</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>7</failed_test><submit_time>01.11.2013 14:01</submit_time><team_name>MaXL</team_name><team_id>558637</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914299</id><last_ip>37.8.151.54, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.064017975</time_since_start><problem_title>Сколько треугольников?</problem_title><submit_time>01.11.2013 14:02</submit_time><team_name>Хохолов, Артамонов, Иевлев (Якутск)</team_name><team_id>913323</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914301</id><last_ip>80.83.239.39, 192.168.9.5</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.065354803</time_since_start><problem_title>Радары</problem_title><failed_test>4</failed_test><submit_time>01.11.2013 14:04</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>913293</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914303</id><last_ip>188.162.228.131, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.069122685</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 14:09</submit_time><team_name>Дзюба, Поликутин, Тыщенко</team_name><team_id>913368</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914305</id><last_ip>10.51.29.31, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.069476065</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 14:10</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>913293</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914307</id><last_ip>188.162.228.131, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.070194850</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 14:11</submit_time><team_name>MaXL</team_name><team_id>558637</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>914309</id><last_ip>37.8.151.54, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.070334306</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 14:11</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>913293</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914311</id><last_ip>188.162.228.131, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.070523762</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>14</failed_test><submit_time>01.11.2013 14:11</submit_time><team_name>MaXL</team_name><team_id>558637</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914313</id><last_ip>37.8.151.54, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.070783426</time_since_start><problem_title>Гадание на ромашках</problem_title><submit_time>01.11.2013 14:11</submit_time><team_name>Epic Fail</team_name><team_id>914013</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914315</id><last_ip>10.51.29.92, 46.250.32.8, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.071844676</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>7</failed_test><submit_time>01.11.2013 14:13</submit_time><team_name>MaXL</team_name><team_id>558637</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914317</id><last_ip>37.8.151.54, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.072562697</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>8</failed_test><submit_time>01.11.2013 14:14</submit_time><team_name>Приходько,Рындыч, Вознов</team_name><team_id>909247</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914319</id><last_ip>95.154.71.29, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.074120035</time_since_start><problem_title>Сколько треугольников?</problem_title><submit_time>01.11.2013 14:16</submit_time><team_name>Данилов, Шибаев, Попов</team_name><team_id>909243</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914321</id><last_ip>5.100.70.101, 192.168.9.5</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.076248623</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>7</failed_test><submit_time>01.11.2013 14:19</submit_time><team_name>MaXL</team_name><team_id>558637</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914323</id><last_ip>37.8.151.54, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.076621493</time_since_start><problem_title>Радары</problem_title><failed_test>5</failed_test><submit_time>01.11.2013 14:20</submit_time><team_name>Приходько,Рындыч, Вознов</team_name><team_id>909247</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>914325</id><last_ip>95.154.71.29, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.077039954</time_since_start><problem_title>Гадание на ромашках</problem_title><submit_time>01.11.2013 14:20</submit_time><team_name>MaXL</team_name><team_id>558637</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914327</id><last_ip>37.8.151.54, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.077351065</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 14:21</submit_time><team_name>Дзюба, Поликутин, Тыщенко</team_name><team_id>913368</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914329</id><last_ip>10.51.29.31, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.083982222</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>41</failed_test><submit_time>01.11.2013 14:30</submit_time><team_name>Данилов, Шибаев, Попов</team_name><team_id>909243</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914331</id><last_ip>5.100.70.101, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.084133808</time_since_start><problem_title>IR-исполнитель</problem_title><failed_test>7</failed_test><submit_time>01.11.2013 14:31</submit_time><team_name>Гурьев, Богатырев, Манякин</team_name><team_id>913345</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>914333</id><last_ip>10.51.29.71, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.084589363</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>8</failed_test><submit_time>01.11.2013 14:31</submit_time><team_name>Приходько,Рындыч, Вознов</team_name><team_id>909247</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914335</id><last_ip>95.154.71.29, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.085881979</time_since_start><problem_title>IR-исполнитель</problem_title><failed_test>5</failed_test><submit_time>01.11.2013 14:33</submit_time><team_name>Гурьев, Богатырев, Манякин</team_name><team_id>913345</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914337</id><last_ip>10.51.29.71, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.086109560</time_since_start><problem_title>Средняя скорость</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 14:33</submit_time><team_name>Козлов, Сластен, Овчинников</team_name><team_id>913341</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914339</id><last_ip>10.51.29.45, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.086916470</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 14:35</submit_time><team_name>Обудов, Судико (ФТЛ)</team_name><team_id>914053</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>914343</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.088609271</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 14:37</submit_time><team_name>Дзюба, Поликутин, Тыщенко</team_name><team_id>913368</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914347</id><last_ip>10.51.29.31, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.089083264</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 14:38</submit_time><team_name>Обудов, Судико (ФТЛ)</team_name><team_id>914053</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>914349</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.092562315</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 14:43</submit_time><team_name>Шинкарев, Андросов, Коротова (ФТЛ)</team_name><team_id>914097</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914351</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.092711389</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>3</failed_test><submit_time>01.11.2013 14:43</submit_time><team_name>Гурьев, Богатырев, Манякин</team_name><team_id>913345</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914353</id><last_ip>10.51.29.71, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.092949039</time_since_start><problem_title>Гадание на ромашках</problem_title><submit_time>01.11.2013 14:43</submit_time><team_name>Данилов, Шибаев, Попов</team_name><team_id>909243</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914355</id><last_ip>5.100.70.101, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.094667569</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>48</failed_test><submit_time>01.11.2013 14:46</submit_time><team_name>Козлов, Сластен, Овчинников</team_name><team_id>913341</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914357</id><last_ip>10.51.29.45, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.100259433</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>7</failed_test><submit_time>01.11.2013 14:54</submit_time><team_name>Коноплицкий, Липов, Панченко</team_name><team_id>909241</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914360</id><last_ip>10.51.29.58, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.100333345</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>48</failed_test><submit_time>01.11.2013 14:54</submit_time><team_name>Козлов, Сластен, Овчинников</team_name><team_id>913341</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914362</id><last_ip>10.51.29.45, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.104308704</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 15:00</submit_time><team_name>Дзюба, Поликутин, Тыщенко</team_name><team_id>913368</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914367</id><last_ip>10.51.29.31, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.106751528</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 15:03</submit_time><team_name>Бандеев, Федоров (ФТЛ)</team_name><team_id>912860</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914369</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.107879317</time_since_start><problem_title>Радары</problem_title><failed_test>21</failed_test><submit_time>01.11.2013 15:05</submit_time><team_name>Зинькович,  Глущенко, Mайоров</team_name><team_id>914002</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914371</id><last_ip>128.74.133.79, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.108958692</time_since_start><problem_title>Гадание на ромашках</problem_title><submit_time>01.11.2013 15:06</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>913293</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>914373</id><last_ip>188.162.228.131, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.109472650</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>4</failed_test><submit_time>01.11.2013 15:07</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>913293</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914375</id><last_ip>188.162.228.131, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.109976238</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>7</failed_test><submit_time>01.11.2013 15:08</submit_time><team_name>Коноплицкий, Липов, Панченко</team_name><team_id>909241</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914377</id><last_ip>10.51.29.58, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.112066806</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 15:11</submit_time><team_name>Умрихин, Разумов, Баулин</team_name><team_id>913326</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914379</id><last_ip>10.51.29.65, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.113338773</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>41</failed_test><submit_time>01.11.2013 15:13</submit_time><team_name>Коноплицкий, Липов, Панченко</team_name><team_id>909241</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914381</id><last_ip>10.51.29.58, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.116272697</time_since_start><problem_title>Межпланетные занятия</problem_title><failed_test>2</failed_test><submit_time>01.11.2013 15:17</submit_time><team_name>dukhno</team_name><team_id>869309</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>914384</id><last_ip>5.143.22.24, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.117057442</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 15:18</submit_time><team_name>dukhno</team_name><team_id>869309</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914386</id><last_ip>5.143.22.24, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.118308866</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 15:20</submit_time><team_name>Приходько,Рындыч, Вознов</team_name><team_id>909247</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914388</id><last_ip>95.154.71.29, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.119790486</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 15:22</submit_time><team_name>Обудов, Судико (ФТЛ)</team_name><team_id>914053</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>914390</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.121498438</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 15:24</submit_time><team_name>Бандеев, Федоров (ФТЛ)</team_name><team_id>912860</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914392</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.121996088</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>7</failed_test><submit_time>01.11.2013 15:25</submit_time><team_name>Добрецов, Стручков, Петров (Якутск)</team_name><team_id>913339</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914394</id><last_ip>10.51.29.61, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.122481551</time_since_start><problem_title>Кусочно-линейная функция</problem_title><submit_time>01.11.2013 15:26</submit_time><team_name>Хохолов, Артамонов, Иевлев (Якутск)</team_name><team_id>913323</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914396</id><last_ip>80.83.239.39, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.122898808</time_since_start><problem_title>IR-исполнитель</problem_title><failed_test>15</failed_test><submit_time>01.11.2013 15:26</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914398</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.123732569</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 15:28</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914400</id><last_ip>91.227.23.10, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.125562905</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>4</failed_test><submit_time>01.11.2013 15:30</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914402</id><last_ip>91.227.23.10, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.128361285</time_since_start><problem_title>Радары</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 15:34</submit_time><team_name>dukhno</team_name><team_id>869309</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>914405</id><last_ip>5.143.22.24, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.129252581</time_since_start><problem_title>IR-исполнитель</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 15:36</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>914407</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.129288877</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 15:36</submit_time><team_name>dukhno</team_name><team_id>869309</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914409</id><last_ip>5.143.22.24, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.129393206</time_since_start><problem_title>Сколько треугольников?</problem_title><submit_time>01.11.2013 15:36</submit_time><team_name>Фогелевич, Кузякова, Коберский</team_name><team_id>913329</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914411</id><last_ip>80.83.238.8, 192.168.9.5</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.129528738</time_since_start><problem_title>IR-исполнитель</problem_title><submit_time>01.11.2013 15:36</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914413</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.133164005</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>7</failed_test><submit_time>01.11.2013 15:41</submit_time><team_name>Добрецов, Стручков, Петров (Якутск)</team_name><team_id>913339</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914415</id><last_ip>10.51.29.61, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.134807049</time_since_start><problem_title>Межпланетные занятия</problem_title><submit_time>01.11.2013 15:44</submit_time><team_name>Былгаев, Чебанов (ФТЛ)</team_name><team_id>914364</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914417</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.135698183</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 15:45</submit_time><team_name>Обудов, Судико (ФТЛ)</team_name><team_id>914053</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914419</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.137118102</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 15:47</submit_time><team_name>Алексеев, Лесогоров, Гершук</team_name><team_id>913359</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914422</id><last_ip>85.26.241.150, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.139405324</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 15:50</submit_time><team_name>dukhno</team_name><team_id>869309</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914425</id><last_ip>5.143.22.24, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.139430428</time_since_start><problem_title>Сколько треугольников?</problem_title><failed_test>3</failed_test><submit_time>01.11.2013 15:50</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>913293</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914427</id><last_ip>188.162.228.131, 192.168.9.5</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.139919016</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 15:51</submit_time><team_name>Коноплицкий, Липов, Панченко</team_name><team_id>909241</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>914429</id><last_ip>10.51.29.58, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.141385324</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 15:53</submit_time><team_name>Бандеев, Федоров (ФТЛ)</team_name><team_id>912860</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914431</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.144800579</time_since_start><problem_title>Радары</problem_title><failed_test>4</failed_test><submit_time>01.11.2013 15:58</submit_time><team_name>Денисова, Жуплева, Патенкова</team_name><team_id>913335</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914433</id><last_ip>5.143.127.74, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.145677373</time_since_start><problem_title>Средняя скорость</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 15:59</submit_time><team_name>Зинькович,  Глущенко, Mайоров</team_name><team_id>914002</team_id><is_remote>0</is_remote><state>security_violation</state><is_ooc>0</is_ooc><id>914435</id><last_ip>128.74.133.79, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.147738484</time_since_start><problem_title>Сколько треугольников?</problem_title><submit_time>01.11.2013 16:02</submit_time><team_name>Epic Fail</team_name><team_id>914013</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914437</id><last_ip>10.51.29.92, 46.250.32.8, 192.168.9.5</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.148024965</time_since_start><problem_title>IR-исполнитель</problem_title><failed_test>6</failed_test><submit_time>01.11.2013 16:03</submit_time><team_name>Гурьев, Богатырев, Манякин</team_name><team_id>913345</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>914439</id><last_ip>10.51.29.71, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.149063530</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 16:04</submit_time><team_name>Зинькович,  Глущенко, Mайоров</team_name><team_id>914002</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914441</id><last_ip>128.74.133.79, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.150855856</time_since_start><problem_title>С горы</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 16:07</submit_time><team_name>Interplanetary FU: Ticket to the moon</team_name><team_id>913320</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914443</id><last_ip>10.51.29.91, 192.168.9.5</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.151836157</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 16:08</submit_time><team_name>Шинкарев, Андросов, Коротова (ФТЛ)</team_name><team_id>914097</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914444</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.151847431</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>41</failed_test><submit_time>01.11.2013 16:08</submit_time><team_name>Добрецов, Стручков, Петров (Якутск)</team_name><team_id>913339</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914445</id><last_ip>10.51.29.61, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.153561400</time_since_start><problem_title>Радары</problem_title><failed_test>15</failed_test><submit_time>01.11.2013 16:11</submit_time><team_name>Шинкарев, Андросов, Коротова (ФТЛ)</team_name><team_id>914097</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914448</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.153752488</time_since_start><problem_title>Сколько треугольников?</problem_title><failed_test>3</failed_test><submit_time>01.11.2013 16:11</submit_time><team_name>Добрецов, Стручков, Петров (Якутск)</team_name><team_id>913339</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914450</id><last_ip>10.51.29.61, 192.168.9.5</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.153905752</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>4</failed_test><submit_time>01.11.2013 16:11</submit_time><team_name>Долгушев, Бездетко, Прохоров.</team_name><team_id>911974</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914452</id><last_ip>109.110.33.157, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.158171389</time_since_start><problem_title>IR-исполнитель</problem_title><failed_test>6</failed_test><submit_time>01.11.2013 16:17</submit_time><team_name>Гурьев, Богатырев, Манякин</team_name><team_id>913345</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914454</id><last_ip>10.51.29.71, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.159810556</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>41</failed_test><submit_time>01.11.2013 16:20</submit_time><team_name>Коноплицкий, Липов, Панченко</team_name><team_id>909241</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914456</id><last_ip>10.51.29.58, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.159816898</time_since_start><problem_title>Радары</problem_title><failed_test>4</failed_test><submit_time>01.11.2013 16:20</submit_time><team_name>Шинкарев, Андросов, Коротова (ФТЛ)</team_name><team_id>914097</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>914457</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.159877419</time_since_start><problem_title>IR-исполнитель</problem_title><failed_test>2</failed_test><submit_time>01.11.2013 16:20</submit_time><team_name>Гурьев, Богатырев, Манякин</team_name><team_id>913345</team_id><is_remote>0</is_remote><state>security_violation</state><is_ooc>0</is_ooc><id>914460</id><last_ip>10.51.29.71, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.161964236</time_since_start><problem_title>Сколько треугольников?</problem_title><failed_test>6</failed_test><submit_time>01.11.2013 16:23</submit_time><team_name>Козлов, Сластен, Овчинников</team_name><team_id>913341</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914466</id><last_ip>10.51.29.45, 192.168.9.5</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.163690637</time_since_start><problem_title>Кусочно-линейная функция</problem_title><submit_time>01.11.2013 16:25</submit_time><team_name>Данилов, Шибаев, Попов</team_name><team_id>909243</team_id><is_remote>0</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>914468</id><last_ip>5.100.70.101, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.164057477</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>12</failed_test><submit_time>01.11.2013 16:26</submit_time><team_name>Данилов, Шибаев, Попов</team_name><team_id>909243</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914470</id><last_ip>5.100.70.101, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.168113530</time_since_start><problem_title>Средняя скорость</problem_title><failed_test>11</failed_test><submit_time>01.11.2013 16:32</submit_time><team_name>Кузнецов, Ренева, Валявка</team_name><team_id>913353</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914472</id><last_ip>10.51.29.11, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.173725359</time_since_start><problem_title>IR-исполнитель</problem_title><submit_time>01.11.2013 16:40</submit_time><team_name>Гурьев, Богатырев, Манякин</team_name><team_id>913345</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914476</id><last_ip>10.51.29.71, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.174253322</time_since_start><problem_title>Сколько треугольников?</problem_title><failed_test>6</failed_test><submit_time>01.11.2013 16:40</submit_time><team_name>Козлов, Сластен, Овчинников</team_name><team_id>913341</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914478</id><last_ip>10.51.29.45, 192.168.9.5</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.176274063</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>12</failed_test><submit_time>01.11.2013 16:43</submit_time><team_name>Данилов, Шибаев, Попов</team_name><team_id>909243</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914480</id><last_ip>5.100.70.101, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.177391655</time_since_start><problem_title>Радары</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 16:45</submit_time><team_name>Тимофеенко, Гурьев, Махлярчук</team_name><team_id>909280</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914482</id><last_ip>10.51.29.69, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.178800405</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>15</failed_test><submit_time>01.11.2013 16:47</submit_time><team_name>dukhno</team_name><team_id>869309</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914490</id><last_ip>5.143.22.24, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.179334780</time_since_start><problem_title>IR-исполнитель</problem_title><failed_test>9</failed_test><submit_time>01.11.2013 16:48</submit_time><team_name>Зинькович,  Глущенко, Mайоров</team_name><team_id>914002</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914492</id><last_ip>128.74.133.79, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.179647789</time_since_start><problem_title>Гадание на ромашках</problem_title><submit_time>01.11.2013 16:48</submit_time><team_name>dukhno</team_name><team_id>869309</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>914495</id><last_ip>5.143.22.24, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.179784560</time_since_start><problem_title>IR-исполнитель</problem_title><submit_time>01.11.2013 16:48</submit_time><team_name>Epic Fail</team_name><team_id>914013</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914497</id><last_ip>10.51.29.92, 46.250.32.8, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.180988090</time_since_start><problem_title>IR-исполнитель</problem_title><failed_test>9</failed_test><submit_time>01.11.2013 16:50</submit_time><team_name>Зинькович,  Глущенко, Mайоров</team_name><team_id>914002</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914500</id><last_ip>128.74.133.79, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.181139387</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 16:50</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914502</id><last_ip>91.227.23.10, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.183625324</time_since_start><problem_title>IR-исполнитель</problem_title><failed_test>15</failed_test><submit_time>01.11.2013 16:54</submit_time><team_name>Зинькович,  Глущенко, Mайоров</team_name><team_id>914002</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914504</id><last_ip>128.74.133.79, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.183945926</time_since_start><problem_title>Радары</problem_title><submit_time>01.11.2013 16:54</submit_time><team_name>Тимофеенко, Гурьев, Махлярчук</team_name><team_id>909280</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914506</id><last_ip>10.51.29.69, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.183969630</time_since_start><problem_title>Сколько треугольников?</problem_title><failed_test>6</failed_test><submit_time>01.11.2013 16:54</submit_time><team_name>Козлов, Сластен, Овчинников</team_name><team_id>913341</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914508</id><last_ip>10.51.29.45, 192.168.9.5</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.184261632</time_since_start><problem_title>Гадание на ромашках</problem_title><submit_time>01.11.2013 16:55</submit_time><team_name>Добрецов, Стручков, Петров (Якутск)</team_name><team_id>913339</team_id><is_remote>0</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>914510</id><last_ip>10.51.29.61, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.184905938</time_since_start><problem_title>Сколько треугольников?</problem_title><submit_time>01.11.2013 16:56</submit_time><team_name>Долгушев, Бездетко, Прохоров.</team_name><team_id>911974</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914512</id><last_ip>109.110.33.157, 192.168.9.5</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.185282176</time_since_start><problem_title>С горы</problem_title><failed_test>3</failed_test><submit_time>01.11.2013 16:56</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>runtime_error</state><is_ooc>1</is_ooc><id>914514</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.189316447</time_since_start><problem_title>Средняя скорость</problem_title><failed_test>11</failed_test><submit_time>01.11.2013 17:02</submit_time><team_name>Кузнецов, Ренева, Валявка</team_name><team_id>913353</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914517</id><last_ip>10.51.29.11, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.189349745</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>4</failed_test><submit_time>01.11.2013 17:02</submit_time><team_name>Гурьев, Богатырев, Манякин</team_name><team_id>913345</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914519</id><last_ip>10.51.29.71, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.189389977</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>12</failed_test><submit_time>01.11.2013 17:02</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>914521</id><last_ip>91.227.23.10, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.191278715</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>12</failed_test><submit_time>01.11.2013 17:05</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>914523</id><last_ip>91.227.23.10, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.192080498</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 17:06</submit_time><team_name>Обудов, Судико (ФТЛ)</team_name><team_id>914053</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>914525</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.192941470</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>4</failed_test><submit_time>01.11.2013 17:07</submit_time><team_name>Гурьев, Богатырев, Манякин</team_name><team_id>913345</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914527</id><last_ip>10.51.29.71, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.193913449</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>4</failed_test><submit_time>01.11.2013 17:09</submit_time><team_name>Кузнецов, Ренева, Валявка</team_name><team_id>913353</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914529</id><last_ip>10.51.29.11, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.194783542</time_since_start><problem_title>IR-исполнитель</problem_title><failed_test>15</failed_test><submit_time>01.11.2013 17:10</submit_time><team_name>Зинькович,  Глущенко, Mайоров</team_name><team_id>914002</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914531</id><last_ip>128.74.133.79, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.194984306</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>4</failed_test><submit_time>01.11.2013 17:10</submit_time><team_name>Кузнецов, Ренева, Валявка</team_name><team_id>913353</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914533</id><last_ip>10.51.29.11, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.195015255</time_since_start><problem_title>Средняя скорость</problem_title><submit_time>01.11.2013 17:10</submit_time><team_name>Обудов, Судико (ФТЛ)</team_name><team_id>914053</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>914535</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.195223426</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>12</failed_test><submit_time>01.11.2013 17:11</submit_time><team_name>Данилов, Шибаев, Попов</team_name><team_id>909243</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914537</id><last_ip>5.100.70.101, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.195925637</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>48</failed_test><submit_time>01.11.2013 17:12</submit_time><team_name>Козлов, Сластен, Овчинников</team_name><team_id>913341</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914539</id><last_ip>10.51.29.45, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.196335810</time_since_start><problem_title>Кусочно-линейная функция</problem_title><failed_test>12</failed_test><submit_time>01.11.2013 17:12</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>presentation_error</state><is_ooc>1</is_ooc><id>914541</id><last_ip>91.227.23.10, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.196550926</time_since_start><problem_title>IR-исполнитель</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 17:13</submit_time><team_name>Денисова, Жуплева, Патенкова</team_name><team_id>913335</team_id><is_remote>0</is_remote><state>security_violation</state><is_ooc>0</is_ooc><id>914543</id><last_ip>5.143.127.74, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.196963009</time_since_start><problem_title>Кусочно-линейная функция</problem_title><submit_time>01.11.2013 17:13</submit_time><team_name>Данилов, Шибаев, Попов</team_name><team_id>909243</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>914545</id><last_ip>5.100.70.101, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.197647882</time_since_start><problem_title>Средняя скорость</problem_title><failed_test>11</failed_test><submit_time>01.11.2013 17:14</submit_time><team_name>Кузнецов, Ренева, Валявка</team_name><team_id>913353</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914547</id><last_ip>10.51.29.11, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.198664063</time_since_start><problem_title>Средняя скорость</problem_title><failed_test>11</failed_test><submit_time>01.11.2013 17:16</submit_time><team_name>Кузнецов, Ренева, Валявка</team_name><team_id>913353</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914550</id><last_ip>10.51.29.11, 192.168.9.5</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.198938981</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>41</failed_test><submit_time>01.11.2013 17:16</submit_time><team_name>Бандеев, Федоров (ФТЛ)</team_name><team_id>912860</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>914552</id><last_ip>80.73.72.66, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.199303947</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>41</failed_test><submit_time>01.11.2013 17:16</submit_time><team_name>dukhno</team_name><team_id>869309</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914554</id><last_ip>5.143.22.24, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.199619525</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>7</failed_test><submit_time>01.11.2013 17:17</submit_time><team_name>Козлов, Сластен, Овчинников</team_name><team_id>913341</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914556</id><last_ip>10.51.29.45, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.199704363</time_since_start><problem_title>Кусочно-линейная функция</problem_title><submit_time>01.11.2013 17:17</submit_time><team_name>NEFU</team_name><team_id>914015</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>914558</id><last_ip>217.118.64.47, 192.168.9.5</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.200164734</time_since_start><problem_title>Радары</problem_title><failed_test>21</failed_test><submit_time>01.11.2013 17:18</submit_time><team_name>Зинькович,  Глущенко, Mайоров</team_name><team_id>914002</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914560</id><last_ip>128.74.133.79, 192.168.9.5</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.200260174</time_since_start><problem_title>IR-исполнитель</problem_title><failed_test>16</failed_test><submit_time>01.11.2013 17:18</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914562</id><last_ip>91.227.23.10, 192.168.9.5</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.201758391</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>41</failed_test><submit_time>01.11.2013 17:20</submit_time><team_name>dukhno</team_name><team_id>869309</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>914564</id><last_ip>5.143.22.24, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.201793947</time_since_start><problem_title>Сколько треугольников?</problem_title><failed_test>3</failed_test><submit_time>01.11.2013 17:20</submit_time><team_name>Умрихин, Разумов, Баулин</team_name><team_id>913326</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914566</id><last_ip>10.51.29.65, 192.168.9.5</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.202585706</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>17</failed_test><submit_time>01.11.2013 17:21</submit_time><team_name>Коноплицкий, Липов, Панченко</team_name><team_id>909241</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914568</id><last_ip>10.51.29.58, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.203177917</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>15</failed_test><submit_time>01.11.2013 17:22</submit_time><team_name>Коноплицкий, Липов, Панченко</team_name><team_id>909241</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914572</id><last_ip>10.51.29.58, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.203659155</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>7</failed_test><submit_time>01.11.2013 17:23</submit_time><team_name>Козлов, Сластен, Овчинников</team_name><team_id>913341</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914574</id><last_ip>10.51.29.45, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.204164306</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>41</failed_test><submit_time>01.11.2013 17:23</submit_time><team_name>Коноплицкий, Липов, Панченко</team_name><team_id>909241</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914577</id><last_ip>10.51.29.58, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.205125035</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>7</failed_test><submit_time>01.11.2013 17:25</submit_time><team_name>Козлов, Сластен, Овчинников</team_name><team_id>913341</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914579</id><last_ip>10.51.29.45, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.207257917</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>41</failed_test><submit_time>01.11.2013 17:28</submit_time><team_name>Добрецов, Стручков, Петров (Якутск)</team_name><team_id>913339</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914581</id><last_ip>10.51.29.61, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.207810243</time_since_start><problem_title>Гадание на ромашках</problem_title><submit_time>01.11.2013 17:29</submit_time><team_name>Долгушев, Бездетко, Прохоров.</team_name><team_id>911974</team_id><is_remote>0</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>914583</id><last_ip>109.110.33.157, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.207963970</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>41</failed_test><submit_time>01.11.2013 17:29</submit_time><team_name>Добрецов, Стручков, Петров (Якутск)</team_name><team_id>913339</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914585</id><last_ip>10.51.29.61, 192.168.9.5</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.208171597</time_since_start><problem_title>Гадание на ромашках</problem_title><failed_test>1</failed_test><submit_time>01.11.2013 17:29</submit_time><team_name>Долгушев, Бездетко, Прохоров.</team_name><team_id>911974</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>914587</id><last_ip>109.110.33.157, 192.168.9.5</last_ip><code>E</code></req>
+
+</reqs>

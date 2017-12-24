@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<standings>
+
+    <contest name="ACM ICPC 2015-2016, Northeastern European Regional Contest" time="18000000" length="18000000" status="over" frozen="no" >
+        <challenge>
+            <problem alias="A" name="Adjustment Office" />
+            <problem alias="B" name="Binary vs Decimal" />
+            <problem alias="C" name="Cactus Jubilee" />
+            <problem alias="D" name="Distance on Triangulation" />
+            <problem alias="E" name="Easy Problemset" />
+            <problem alias="F" name="Froggy Ford" />
+            <problem alias="G" name="Generators" />
+            <problem alias="H" name="Hypercube" />
+            <problem alias="I" name="Iceberg Orders" />
+            <problem alias="J" name="Jump" />
+            <problem alias="K" name="King's Inspection" />
+            <problem alias="L" name="Landscape Improved" />
+        </challenge>
+		<session id="neerc-2015.main.B002" party="I of Math and CS Siberian FU 1 (Nesterenko, Goncharik, Ryabushev)" alias="B002" solved="3" penalty="137" time="4911000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="20" time="1213000" accepted="1" attempts="1" score="0"  >
+                <run accepted="no" time="1150000" />
+                <run accepted="yes" time="1213000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="36" time="2202000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="2202000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="6" score="0"  >
+                <run accepted="no" time="12098000" />
+                <run accepted="no" time="17552000" />
+                <run accepted="no" time="17590000" />
+                <run accepted="no" time="17646000" />
+                <run accepted="no" time="17776000" />
+                <run accepted="no" time="17853000" />
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="81" time="4911000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="4911000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B003" party="Irkutsk STU (Gerasimov, Zhurov, Pyatykh)" alias="B003" solved="3" penalty="280" time="7594000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="48" time="1692000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="1298000" />
+                <run accepted="yes" time="1692000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="66" time="3988000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="3988000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="166" time="7594000" accepted="1" attempts="3" score="0"  >
+                <run accepted="no" time="5770000" />
+                <run accepted="no" time="6110000" />
+                <run accepted="yes" time="7594000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="19" score="0"  >
+                <run accepted="no" time="11900000" />
+                <run accepted="no" time="12046000" />
+                <run accepted="no" time="13091000" />
+                <run accepted="no" time="13640000" />
+                <run accepted="no" time="13980000" />
+                <run accepted="no" time="14579000" />
+                <run accepted="no" time="14807000" />
+                <run accepted="no" time="15054000" />
+                <run accepted="no" time="15319000" />
+                <run accepted="no" time="16188000" />
+                <run accepted="no" time="16254000" />
+                <run accepted="no" time="16924000" />
+                <run accepted="no" time="17283000" />
+                <run accepted="no" time="17375000" />
+                <run accepted="no" time="17633000" />
+                <run accepted="no" time="17721000" />
+                <run accepted="no" time="17729000" />
+                <run accepted="no" time="17738000" />
+                <run accepted="no" time="17791000" />
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B004" party="Siberian SU of TI 4 (Bessonov, Bykovskiy, Boldakov)" alias="B004" solved="2" penalty="111" time="3702000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="50" time="3022000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="3022000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="61" time="3702000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="3702000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="1" score="0"  >
+                <run accepted="no" time="16780000" />
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B005" party="Zabaikalsk SU (Yutkanakov, Perfiliev, Kashtankin)" alias="B005" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="0" time="0" accepted="0" attempts="12" score="0"  >
+                <run accepted="no" time="1668000" />
+                <run accepted="no" time="4433000" />
+                <run accepted="no" time="4513000" />
+                <run accepted="no" time="4585000" />
+                <run accepted="no" time="4807000" />
+                <run accepted="no" time="5278000" />
+                <run accepted="no" time="9046000" />
+                <run accepted="no" time="10152000" />
+                <run accepted="no" time="11211000" />
+                <run accepted="no" time="12168000" />
+                <run accepted="no" time="12460000" />
+                <run accepted="no" time="17299000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B006" party="Kyrgyz STU 2 (Bolotbek, Alimbaev, Aliaskarova)" alias="B006" solved="2" penalty="93" time="3059000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="43" time="1414000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="974000" />
+                <run accepted="yes" time="1414000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="50" time="3059000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="3059000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="9" score="0"  >
+                <run accepted="no" time="8073000" />
+                <run accepted="no" time="9113000" />
+                <run accepted="no" time="9223000" />
+                <run accepted="no" time="10581000" />
+                <run accepted="no" time="10822000" />
+                <run accepted="no" time="14465000" />
+                <run accepted="no" time="14553000" />
+                <run accepted="no" time="14892000" />
+                <run accepted="no" time="15066000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B007" party="Omsk SU 1 (Valchuk, Kudyk, Evsyukov)" alias="B007" solved="1" penalty="75" time="4538000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="0" time="0" accepted="0" attempts="9" score="0"  >
+                <run accepted="no" time="3142000" />
+                <run accepted="no" time="5145000" />
+                <run accepted="no" time="5180000" />
+                <run accepted="no" time="6610000" />
+                <run accepted="no" time="6808000" />
+                <run accepted="no" time="6874000" />
+                <run accepted="no" time="7308000" />
+                <run accepted="no" time="7427000" />
+                <run accepted="no" time="12960000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="7" score="0"  >
+                <run accepted="no" time="8356000" />
+                <run accepted="no" time="8657000" />
+                <run accepted="no" time="9151000" />
+                <run accepted="no" time="9479000" />
+                <run accepted="no" time="13006000" />
+                <run accepted="no" time="13610000" />
+                <run accepted="no" time="16248000" />
+                <run accepted="no" time="16696000" />
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="75" time="4538000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="4538000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B008" party="Far Eastern S Transport U: 1 (Toropov, Usmanov, Pisaniy)" alias="B008" solved="3" penalty="108" time="3380000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="23" time="1406000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="1406000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="29" time="1775000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="1775000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="4" score="0"  >
+                <run accepted="no" time="7354000" />
+                <run accepted="no" time="9312000" />
+                <run accepted="no" time="10358000" />
+                <run accepted="no" time="17197000" />
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="56" time="3380000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="3380000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="4" score="0"  >
+                <run accepted="no" time="15723000" />
+                <run accepted="no" time="16106000" />
+                <run accepted="no" time="16335000" />
+                <run accepted="no" time="16653000" />
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="3" score="0"  >
+                <run accepted="no" time="13655000" />
+                <run accepted="no" time="14860000" />
+                <run accepted="no" time="15854000" />
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B009" party="Novosibirsk SU 4 (Viktorov, Smirnov, Vishnevskiy)" alias="B009" solved="6" penalty="639" time="13737000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="28" time="1729000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="1729000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="2" score="0"  >
+                <run accepted="no" time="17742000" />
+                <run accepted="no" time="17773000" />
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="21" time="1302000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="1302000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="205" time="9942000" accepted="1" attempts="3" score="0"  >
+                <run accepted="no" time="9386000" />
+                <run accepted="no" time="9793000" />
+                <run accepted="yes" time="9942000" />
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="59" time="3594000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="3594000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="228" time="13737000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="13737000" />
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="4" score="0"  >
+                <run accepted="no" time="16783000" />
+                <run accepted="no" time="17302000" />
+                <run accepted="no" time="17462000" />
+                <run accepted="no" time="17587000" />
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="98" time="5937000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="5937000" />
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B010" party="Tomsk PU 1 (Kuzivanov, Vetrov, Golub)" alias="B010" solved="5" penalty="745" time="17740000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="55" time="2113000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="2058000" />
+                <run accepted="yes" time="2113000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="1" score="0"  >
+                <run accepted="no" time="15712000" />
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="37" time="2223000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="2223000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="495" time="17740000" accepted="1" attempts="11" score="0"  >
+                <run accepted="no" time="12715000" />
+                <run accepted="no" time="12750000" />
+                <run accepted="no" time="13351000" />
+                <run accepted="no" time="14010000" />
+                <run accepted="no" time="14083000" />
+                <run accepted="no" time="16381000" />
+                <run accepted="no" time="16793000" />
+                <run accepted="no" time="17470000" />
+                <run accepted="no" time="17537000" />
+                <run accepted="no" time="17590000" />
+                <run accepted="yes" time="17740000" />
+                <run accepted="yes" time="17810000" />
+                <run accepted="yes" time="17854000" />
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="73" time="4395000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="4395000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="5" score="0"  >
+                <run accepted="no" time="6429000" />
+                <run accepted="no" time="7832000" />
+                <run accepted="no" time="16899000" />
+                <run accepted="no" time="17378000" />
+                <run accepted="no" time="17953000" />
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="85" time="5103000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="5103000" />
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B011" party="Altai STU 2 (Gavrichenkov, Dyadushenko, Nekrasov)" alias="B011" solved="3" penalty="427" time="10432000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="187" time="5240000" accepted="1" attempts="6" score="0"  >
+                <run accepted="no" time="4149000" />
+                <run accepted="no" time="4215000" />
+                <run accepted="no" time="4762000" />
+                <run accepted="no" time="4983000" />
+                <run accepted="no" time="5010000" />
+                <run accepted="yes" time="5240000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="47" time="2839000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="2839000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="193" time="10432000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="9912000" />
+                <run accepted="yes" time="10432000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="3" score="0"  >
+                <run accepted="no" time="15365000" />
+                <run accepted="no" time="15933000" />
+                <run accepted="no" time="16516000" />
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B012" party="Kyrgyz-Russian Slav U 1 (Akparaliev, Pechjorov, Sapozhnikov)" alias="B012" solved="2" penalty="110" time="2987000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="61" time="2463000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="2154000" />
+                <run accepted="yes" time="2463000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="3" score="0"  >
+                <run accepted="no" time="12937000" />
+                <run accepted="no" time="13423000" />
+                <run accepted="no" time="13589000" />
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="49" time="2987000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="2987000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="1" score="0"  >
+                <run accepted="no" time="17750000" />
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B014" party="Far Eastern FU 2 (Kirpa, Utin, Makhliarchuk)" alias="B014" solved="3" penalty="782" time="15734000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="87" time="2876000" accepted="1" attempts="3" score="0"  >
+                <run accepted="no" time="2399000" />
+                <run accepted="no" time="2678000" />
+                <run accepted="yes" time="2876000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="73" time="4388000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="4388000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="622" time="15734000" accepted="1" attempts="19" score="0"  >
+                <run accepted="no" time="7864000" />
+                <run accepted="no" time="9454000" />
+                <run accepted="no" time="9684000" />
+                <run accepted="no" time="10200000" />
+                <run accepted="no" time="10462000" />
+                <run accepted="no" time="10633000" />
+                <run accepted="no" time="10664000" />
+                <run accepted="no" time="10805000" />
+                <run accepted="no" time="11175000" />
+                <run accepted="no" time="11748000" />
+                <run accepted="no" time="11873000" />
+                <run accepted="no" time="12003000" />
+                <run accepted="no" time="12378000" />
+                <run accepted="no" time="12471000" />
+                <run accepted="no" time="12605000" />
+                <run accepted="no" time="14976000" />
+                <run accepted="no" time="15093000" />
+                <run accepted="no" time="15200000" />
+                <run accepted="yes" time="15734000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B015" party="Buryat SU 2 (Filippov, Bykova, Tsirempilov)" alias="B015" solved="4" penalty="418" time="10235000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="47" time="1622000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="1549000" />
+                <run accepted="yes" time="1622000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="45" time="2704000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="2704000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="156" time="8172000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="7320000" />
+                <run accepted="yes" time="8172000" />
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="170" time="10235000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="10235000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="9" score="0"  >
+                <run accepted="no" time="15291000" />
+                <run accepted="no" time="15349000" />
+                <run accepted="no" time="16337000" />
+                <run accepted="no" time="16518000" />
+                <run accepted="no" time="17217000" />
+                <run accepted="no" time="17542000" />
+                <run accepted="no" time="17626000" />
+                <run accepted="no" time="17733000" />
+                <run accepted="no" time="17968000" />
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="1" score="0"  >
+                <run accepted="no" time="12861000" />
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B017" party="Novosibirsk SU 2 (Taranov, Isachenko, Kishkanova)" alias="B017" solved="4" penalty="526" time="17159000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="26" time="1582000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="1582000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="36" time="2210000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="2210000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="365" time="17159000" accepted="1" attempts="5" score="0"  >
+                <run accepted="no" time="12528000" />
+                <run accepted="no" time="13115000" />
+                <run accepted="no" time="15998000" />
+                <run accepted="no" time="16966000" />
+                <run accepted="yes" time="17159000" />
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="99" time="5979000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="5979000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B018" party="Altai STU 3 (Renjov, Lopatin, Zyablitskiy)" alias="B018" solved="5" penalty="791" time="16488000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="48" time="1723000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="1284000" />
+                <run accepted="yes" time="1723000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="43" time="2615000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="2615000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="294" time="16488000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="15413000" />
+                <run accepted="yes" time="16488000" />
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="143" time="6196000" accepted="1" attempts="3" score="0"  >
+                <run accepted="no" time="5770000" />
+                <run accepted="no" time="5822000" />
+                <run accepted="yes" time="6196000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="263" time="13393000" accepted="1" attempts="3" score="0"  >
+                <run accepted="no" time="12920000" />
+                <run accepted="no" time="13074000" />
+                <run accepted="yes" time="13393000" />
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B019" party="Tomsk PU 2 (Maksimova, Iovlev, Kuznetsova)" alias="B019" solved="3" penalty="282" time="7860000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="81" time="3713000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="1949000" />
+                <run accepted="yes" time="3713000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="50" time="3020000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="3020000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="22" score="0"  >
+                <run accepted="no" time="14239000" />
+                <run accepted="no" time="14656000" />
+                <run accepted="no" time="15764000" />
+                <run accepted="no" time="15833000" />
+                <run accepted="no" time="15983000" />
+                <run accepted="no" time="16006000" />
+                <run accepted="no" time="16750000" />
+                <run accepted="no" time="16784000" />
+                <run accepted="no" time="16885000" />
+                <run accepted="no" time="16964000" />
+                <run accepted="no" time="16974000" />
+                <run accepted="no" time="17041000" />
+                <run accepted="no" time="17124000" />
+                <run accepted="no" time="17427000" />
+                <run accepted="no" time="17531000" />
+                <run accepted="no" time="17612000" />
+                <run accepted="no" time="17651000" />
+                <run accepted="no" time="17751000" />
+                <run accepted="no" time="17909000" />
+                <run accepted="no" time="17923000" />
+                <run accepted="no" time="17956000" />
+                <run accepted="no" time="17968000" />
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="151" time="7860000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="5976000" />
+                <run accepted="yes" time="7860000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B020" party="I of Space and IT SFU 1 (Rechitskiy, Nikonirov, Laletin)" alias="B020" solved="4" penalty="794" time="15569000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="26" time="1577000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="1577000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="84" time="3899000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="3876000" />
+                <run accepted="yes" time="3899000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="459" time="15569000" accepted="1" attempts="11" score="0"  >
+                <run accepted="no" time="9180000" />
+                <run accepted="no" time="9457000" />
+                <run accepted="no" time="9874000" />
+                <run accepted="no" time="10382000" />
+                <run accepted="no" time="10840000" />
+                <run accepted="no" time="11347000" />
+                <run accepted="no" time="11430000" />
+                <run accepted="no" time="14902000" />
+                <run accepted="no" time="15371000" />
+                <run accepted="no" time="15472000" />
+                <run accepted="yes" time="15569000" />
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="225" time="12353000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="6483000" />
+                <run accepted="yes" time="12353000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B021" party="East-Siberian STU 1 (Dikikh, Zhigdorzhiev, Bolsoboev)" alias="B021" solved="2" penalty="174" time="4707000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="96" time="3391000" accepted="1" attempts="3" score="0"  >
+                <run accepted="no" time="2726000" />
+                <run accepted="no" time="3073000" />
+                <run accepted="yes" time="3391000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="78" time="4707000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="4707000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="4" score="0"  >
+                <run accepted="no" time="7930000" />
+                <run accepted="no" time="9101000" />
+                <run accepted="no" time="9919000" />
+                <run accepted="no" time="16949000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B022" party="Siberian SU of TI 1 (Turtsev, Ponomarev, Borodin)" alias="B022" solved="4" penalty="331" time="6497000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="47" time="1648000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="1597000" />
+                <run accepted="yes" time="1648000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="41" time="2486000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="2486000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="108" time="6497000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="6497000" />
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="135" time="4539000" accepted="1" attempts="4" score="0"  >
+                <run accepted="no" time="3561000" />
+                <run accepted="no" time="3824000" />
+                <run accepted="no" time="3992000" />
+                <run accepted="yes" time="4539000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="20" score="0"  >
+                <run accepted="no" time="9179000" />
+                <run accepted="no" time="9353000" />
+                <run accepted="no" time="9402000" />
+                <run accepted="no" time="10053000" />
+                <run accepted="no" time="10450000" />
+                <run accepted="no" time="10682000" />
+                <run accepted="no" time="14938000" />
+                <run accepted="no" time="15183000" />
+                <run accepted="no" time="15293000" />
+                <run accepted="no" time="15437000" />
+                <run accepted="no" time="15779000" />
+                <run accepted="no" time="15801000" />
+                <run accepted="no" time="15928000" />
+                <run accepted="no" time="16121000" />
+                <run accepted="no" time="16456000" />
+                <run accepted="no" time="16779000" />
+                <run accepted="no" time="17023000" />
+                <run accepted="no" time="17440000" />
+                <run accepted="no" time="17642000" />
+                <run accepted="no" time="17849000" />
+                <run accepted="no" time="17986000" />
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B023" party="Novosibirsk STU 1 (Obukhov, Zelenskiy, Kunts)" alias="B023" solved="3" penalty="242" time="5132000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="71" time="1876000" accepted="1" attempts="3" score="0"  >
+                <run accepted="no" time="1488000" />
+                <run accepted="no" time="1664000" />
+                <run accepted="yes" time="1876000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="66" time="2788000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="2613000" />
+                <run accepted="yes" time="2788000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="2" score="0"  >
+                <run accepted="no" time="14777000" />
+                <run accepted="no" time="15491000" />
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="105" time="5132000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="4470000" />
+                <run accepted="yes" time="5132000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B024" party="Altai STU 1 (Golovin, Fast, Kostin)" alias="B024" solved="5" penalty="607" time="17169000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="29" time="1778000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="1778000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="1" score="0"  >
+                <run accepted="no" time="13233000" />
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="26" time="1570000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="1570000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="61" time="3699000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="3699000" />
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="105" time="6314000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="6314000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="7" score="0"  >
+                <run accepted="no" time="4573000" />
+                <run accepted="no" time="4651000" />
+                <run accepted="no" time="5146000" />
+                <run accepted="no" time="7101000" />
+                <run accepted="no" time="7203000" />
+                <run accepted="no" time="17641000" />
+                <run accepted="no" time="17654000" />
+                <run accepted="no" time="17800000" />
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="386" time="17169000" accepted="1" attempts="6" score="0"  >
+                <run accepted="no" time="14681000" />
+                <run accepted="no" time="14940000" />
+                <run accepted="no" time="15126000" />
+                <run accepted="no" time="15417000" />
+                <run accepted="no" time="16049000" />
+                <run accepted="yes" time="17169000" />
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B026" party="I of Space and IT SFU 2 (Halturin, Gritsiv, Levanyuk)" alias="B026" solved="2" penalty="199" time="5672000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="114" time="5672000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="4125000" />
+                <run accepted="yes" time="5672000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="4" score="0"  >
+                <run accepted="no" time="14946000" />
+                <run accepted="no" time="17270000" />
+                <run accepted="no" time="17422000" />
+                <run accepted="no" time="17651000" />
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="85" time="5158000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="5158000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B027" party="Kazakhstan br of MSU (Ghuravskaya, Kamalbekov, Abayuly)" alias="B027" solved="3" penalty="306" time="11601000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="32" time="1930000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="1930000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="61" time="3681000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="3681000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="213" time="11601000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="10509000" />
+                <run accepted="yes" time="11601000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="3" score="0"  >
+                <run accepted="no" time="5483000" />
+                <run accepted="no" time="5564000" />
+                <run accepted="no" time="6641000" />
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B028" party="Altai STU 5 (Galkin, Kozlov, Kozlov)" alias="B028" solved="2" penalty="363" time="9243000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="169" time="5348000" accepted="1" attempts="5" score="0"  >
+                <run accepted="no" time="1697000" />
+                <run accepted="no" time="1791000" />
+                <run accepted="no" time="3161000" />
+                <run accepted="no" time="3311000" />
+                <run accepted="yes" time="5348000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="194" time="9243000" accepted="1" attempts="3" score="0"  >
+                <run accepted="no" time="4191000" />
+                <run accepted="no" time="4482000" />
+                <run accepted="yes" time="9243000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="2" score="0"  >
+                <run accepted="no" time="7819000" />
+                <run accepted="no" time="10215000" />
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B029" party="Rubtsovsk Ind I 1 (Sitnik, Dabylov, Shpakov)" alias="B029" solved="1" penalty="144" time="8646000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="0" time="0" accepted="0" attempts="20" score="0"  >
+                <run accepted="no" time="1611000" />
+                <run accepted="no" time="1719000" />
+                <run accepted="no" time="2369000" />
+                <run accepted="no" time="2848000" />
+                <run accepted="no" time="4110000" />
+                <run accepted="no" time="9761000" />
+                <run accepted="no" time="10149000" />
+                <run accepted="no" time="10721000" />
+                <run accepted="no" time="11164000" />
+                <run accepted="no" time="11754000" />
+                <run accepted="no" time="12313000" />
+                <run accepted="no" time="12605000" />
+                <run accepted="no" time="14050000" />
+                <run accepted="no" time="15673000" />
+                <run accepted="no" time="15849000" />
+                <run accepted="no" time="15978000" />
+                <run accepted="no" time="16380000" />
+                <run accepted="no" time="16770000" />
+                <run accepted="no" time="17565000" />
+                <run accepted="no" time="17971000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="144" time="8646000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="8646000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B030" party="Kemerovo SU 2 (Zemlyanukhin, Bashkirova, Chernousov)" alias="B030" solved="1" penalty="189" time="11398000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="0" time="0" accepted="0" attempts="6" score="0"  >
+                <run accepted="no" time="3501000" />
+                <run accepted="no" time="3670000" />
+                <run accepted="no" time="4421000" />
+                <run accepted="no" time="12214000" />
+                <run accepted="no" time="13816000" />
+                <run accepted="no" time="16719000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="189" time="11398000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="11398000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B032" party="Kyrgyz SU of Building 1 (Mazurov, Baitakova, Esenbek)" alias="B032" solved="2" penalty="395" time="12121000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="302" time="12121000" accepted="1" attempts="6" score="0"  >
+                <run accepted="no" time="1596000" />
+                <run accepted="no" time="6875000" />
+                <run accepted="no" time="9235000" />
+                <run accepted="no" time="10481000" />
+                <run accepted="no" time="10613000" />
+                <run accepted="yes" time="12121000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="2" score="0"  >
+                <run accepted="no" time="15807000" />
+                <run accepted="no" time="16783000" />
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="93" time="5616000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="5616000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="2" score="0"  >
+                <run accepted="no" time="17811000" />
+                <run accepted="no" time="17874000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B033" party="Novosibirsk SU 3 (Dudin, Ilin, Malykh)" alias="B033" solved="6" penalty="886" time="16970000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="29" time="555000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="514000" />
+                <run accepted="yes" time="555000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="21" time="1278000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="1278000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="246" time="11181000" accepted="1" attempts="4" score="0"  >
+                <run accepted="no" time="10390000" />
+                <run accepted="no" time="10554000" />
+                <run accepted="no" time="10676000" />
+                <run accepted="yes" time="11181000" />
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="106" time="6402000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="6402000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="142" time="8524000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="8524000" />
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="1" score="0"  >
+                <run accepted="no" time="17962000" />
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="342" time="16970000" accepted="1" attempts="4" score="0"  >
+                <run accepted="no" time="13827000" />
+                <run accepted="no" time="16452000" />
+                <run accepted="no" time="16579000" />
+                <run accepted="yes" time="16970000" />
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B034" party="Siberian SU of TI 2 (Chusovitin, Mironenko, Aniskina)" alias="B034" solved="2" penalty="197" time="5506000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="86" time="4016000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="3496000" />
+                <run accepted="yes" time="4016000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="111" time="5506000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="4719000" />
+                <run accepted="yes" time="5506000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="5" score="0"  >
+                <run accepted="no" time="7551000" />
+                <run accepted="no" time="15184000" />
+                <run accepted="no" time="16255000" />
+                <run accepted="no" time="16333000" />
+                <run accepted="no" time="16647000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B035" party="North-Eastern FU 1 (Dyakonov, Prokopiev, Khokholov)" alias="B035" solved="4" penalty="629" time="16780000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="73" time="3206000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="2879000" />
+                <run accepted="yes" time="3206000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="25" time="1528000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="1528000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="112" time="4360000" accepted="1" attempts="3" score="0"  >
+                <run accepted="no" time="3639000" />
+                <run accepted="no" time="3874000" />
+                <run accepted="yes" time="4360000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="419" time="16780000" accepted="1" attempts="8" score="0"  >
+                <run accepted="no" time="10194000" />
+                <run accepted="no" time="13364000" />
+                <run accepted="no" time="13667000" />
+                <run accepted="no" time="13963000" />
+                <run accepted="no" time="14013000" />
+                <run accepted="no" time="14586000" />
+                <run accepted="no" time="15034000" />
+                <run accepted="no" time="15215000" />
+                <run accepted="yes" time="16780000" />
+                <run accepted="yes" time="16912000" />
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="8" score="0"  >
+                <run accepted="no" time="11160000" />
+                <run accepted="no" time="11599000" />
+                <run accepted="no" time="13748000" />
+                <run accepted="no" time="13826000" />
+                <run accepted="no" time="14303000" />
+                <run accepted="no" time="17731000" />
+                <run accepted="no" time="17812000" />
+                <run accepted="no" time="17866000" />
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B036" party="Irkutsk SU 1 (Apanovich, Semenov, Skuratov)" alias="B036" solved="3" penalty="726" time="13850000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="256" time="11797000" accepted="1" attempts="4" score="0"  >
+                <run accepted="no" time="9685000" />
+                <run accepted="no" time="10026000" />
+                <run accepted="no" time="11633000" />
+                <run accepted="yes" time="11797000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="1" score="0"  >
+                <run accepted="no" time="1445000" />
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="100" time="4818000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="4789000" />
+                <run accepted="yes" time="4818000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="370" time="13850000" accepted="1" attempts="8" score="0"  >
+                <run accepted="no" time="9877000" />
+                <run accepted="no" time="10095000" />
+                <run accepted="no" time="10439000" />
+                <run accepted="no" time="11059000" />
+                <run accepted="no" time="13490000" />
+                <run accepted="no" time="13616000" />
+                <run accepted="no" time="13718000" />
+                <run accepted="yes" time="13850000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B037" party="Tomsk SU (Zhukovskaja, Kotov, Milovanov)" alias="B037" solved="3" penalty="608" time="16419000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="165" time="6321000" accepted="1" attempts="4" score="0"  >
+                <run accepted="no" time="3656000" />
+                <run accepted="no" time="4603000" />
+                <run accepted="no" time="5876000" />
+                <run accepted="yes" time="6321000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="90" time="5414000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="5414000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="353" time="16419000" accepted="1" attempts="5" score="0"  >
+                <run accepted="no" time="12382000" />
+                <run accepted="no" time="14174000" />
+                <run accepted="no" time="14294000" />
+                <run accepted="no" time="16053000" />
+                <run accepted="yes" time="16419000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B039" party="Novosibirsk S Ped U 4 (Aisen, Orlov, Savitskaya)" alias="B039" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="0" time="0" accepted="0" attempts="3" score="0"  >
+                <run accepted="no" time="3040000" />
+                <run accepted="no" time="3118000" />
+                <run accepted="no" time="4972000" />
+                <run accepted="no" time="14063000" />
+                <run accepted="no" time="17346000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+		<session id="neerc-2015.main.B040" party="Altai STU 4 (Danilin, Ananev, Oreschenko)" alias="B040" solved="3" penalty="452" time="11750000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="196" time="6996000" accepted="1" attempts="5" score="0"  >
+                <run accepted="no" time="4615000" />
+                <run accepted="no" time="5536000" />
+                <run accepted="no" time="5642000" />
+                <run accepted="no" time="5714000" />
+                <run accepted="yes" time="6996000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="41" time="2487000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="2487000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="215" time="11750000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="10587000" />
+                <run accepted="yes" time="11750000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="3" score="0"  >
+                <run accepted="no" time="12745000" />
+                <run accepted="no" time="15408000" />
+                <run accepted="no" time="17898000" />
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B041" party="Omsk SU 2 (Krivosheeva, Shatov, Sakhno)" alias="B041" solved="2" penalty="507" time="13775000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="349" time="13775000" accepted="1" attempts="7" score="0"  >
+                <run accepted="no" time="3668000" />
+                <run accepted="no" time="4526000" />
+                <run accepted="no" time="7232000" />
+                <run accepted="no" time="9428000" />
+                <run accepted="no" time="9568000" />
+                <run accepted="no" time="13520000" />
+                <run accepted="yes" time="13775000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="158" time="8298000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="6076000" />
+                <run accepted="yes" time="8298000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B042" party="American U Central Asia 1 (Derkenbaev, Kydyraliev, Kim)" alias="B042" solved="2" penalty="270" time="7386000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="127" time="4022000" accepted="1" attempts="4" score="0"  >
+                <run accepted="no" time="2919000" />
+                <run accepted="no" time="3223000" />
+                <run accepted="no" time="3562000" />
+                <run accepted="yes" time="4022000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="143" time="7386000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="7161000" />
+                <run accepted="yes" time="7386000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="4" score="0"  >
+                <run accepted="no" time="14724000" />
+                <run accepted="no" time="15028000" />
+                <run accepted="no" time="16280000" />
+                <run accepted="no" time="17357000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="1" score="0"  >
+                <run accepted="no" time="17756000" />
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B043" party="Novosibirsk STU 2 (Rogoza, Prokopyev, Tolstobrov)" alias="B043" solved="2" penalty="323" time="10120000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="248" time="10120000" accepted="1" attempts="5" score="0"  >
+                <run accepted="no" time="1613000" />
+                <run accepted="no" time="5849000" />
+                <run accepted="no" time="8825000" />
+                <run accepted="no" time="8899000" />
+                <run accepted="yes" time="10120000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="75" time="4510000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="4510000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="3" score="0"  >
+                <run accepted="no" time="16700000" />
+                <run accepted="no" time="17126000" />
+                <run accepted="no" time="17537000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="2" score="0"  >
+                <run accepted="no" time="15705000" />
+                <run accepted="no" time="16151000" />
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B044" party="Novosibirsk SU 1 (Matveev, Andreenko, Seredkin)" alias="B044" solved="4" penalty="324" time="7536000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="34" time="2045000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="2045000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="1" score="0"  >
+                <run accepted="no" time="6780000" />
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="15" time="936000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="936000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="185" time="7536000" accepted="1" attempts="4" score="0"  >
+                <run accepted="no" time="4500000" />
+                <run accepted="no" time="6247000" />
+                <run accepted="no" time="6899000" />
+                <run accepted="yes" time="7536000" />
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="90" time="5459000" accepted="1" attempts="1" score="0"  >
+                <run accepted="yes" time="5459000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="117" score="0"  >
+                <run accepted="no" time="14809000" />
+                <run accepted="no" time="15069000" />
+                <run accepted="no" time="15352000" />
+                <run accepted="no" time="15976000" />
+                <run accepted="no" time="16820000" />
+                <run accepted="no" time="16836000" />
+                <run accepted="no" time="16888000" />
+                <run accepted="no" time="17041000" />
+                <run accepted="no" time="17067000" />
+                <run accepted="no" time="17110000" />
+                <run accepted="no" time="17125000" />
+                <run accepted="no" time="17140000" />
+                <run accepted="no" time="17152000" />
+                <run accepted="no" time="17203000" />
+                <run accepted="no" time="17302000" />
+                <run accepted="no" time="17426000" />
+                <run accepted="no" time="17428000" />
+                <run accepted="no" time="17430000" />
+                <run accepted="no" time="17440000" />
+                <run accepted="no" time="17442000" />
+                <run accepted="no" time="17444000" />
+                <run accepted="no" time="17446000" />
+                <run accepted="no" time="17447000" />
+                <run accepted="no" time="17449000" />
+                <run accepted="no" time="17451000" />
+                <run accepted="no" time="17455000" />
+                <run accepted="no" time="17483000" />
+                <run accepted="no" time="17497000" />
+                <run accepted="no" time="17506000" />
+                <run accepted="no" time="17527000" />
+                <run accepted="no" time="17535000" />
+                <run accepted="no" time="17540000" />
+                <run accepted="no" time="17546000" />
+                <run accepted="no" time="17551000" />
+                <run accepted="no" time="17556000" />
+                <run accepted="no" time="17560000" />
+                <run accepted="no" time="17564000" />
+                <run accepted="no" time="17569000" />
+                <run accepted="no" time="17573000" />
+                <run accepted="no" time="17576000" />
+                <run accepted="no" time="17579000" />
+                <run accepted="no" time="17583000" />
+                <run accepted="no" time="17588000" />
+                <run accepted="no" time="17592000" />
+                <run accepted="no" time="17596000" />
+                <run accepted="no" time="17602000" />
+                <run accepted="no" time="17606000" />
+                <run accepted="no" time="17609000" />
+                <run accepted="no" time="17612000" />
+                <run accepted="no" time="17616000" />
+                <run accepted="no" time="17619000" />
+                <run accepted="no" time="17624000" />
+                <run accepted="no" time="17628000" />
+                <run accepted="no" time="17631000" />
+                <run accepted="no" time="17637000" />
+                <run accepted="no" time="17641000" />
+                <run accepted="no" time="17644000" />
+                <run accepted="no" time="17648000" />
+                <run accepted="no" time="17652000" />
+                <run accepted="no" time="17656000" />
+                <run accepted="no" time="17659000" />
+                <run accepted="no" time="17663000" />
+                <run accepted="no" time="17668000" />
+                <run accepted="no" time="17672000" />
+                <run accepted="no" time="17675000" />
+                <run accepted="no" time="17678000" />
+                <run accepted="no" time="17681000" />
+                <run accepted="no" time="17684000" />
+                <run accepted="no" time="17687000" />
+                <run accepted="no" time="17690000" />
+                <run accepted="no" time="17694000" />
+                <run accepted="no" time="17698000" />
+                <run accepted="no" time="17702000" />
+                <run accepted="no" time="17707000" />
+                <run accepted="no" time="17712000" />
+                <run accepted="no" time="17715000" />
+                <run accepted="no" time="17719000" />
+                <run accepted="no" time="17722000" />
+                <run accepted="no" time="17726000" />
+                <run accepted="no" time="17729000" />
+                <run accepted="no" time="17733000" />
+                <run accepted="no" time="17736000" />
+                <run accepted="no" time="17744000" />
+                <run accepted="no" time="17748000" />
+                <run accepted="no" time="17751000" />
+                <run accepted="no" time="17758000" />
+                <run accepted="no" time="17762000" />
+                <run accepted="no" time="17766000" />
+                <run accepted="no" time="17769000" />
+                <run accepted="no" time="17772000" />
+                <run accepted="no" time="17775000" />
+                <run accepted="no" time="17779000" />
+                <run accepted="no" time="17783000" />
+                <run accepted="no" time="17787000" />
+                <run accepted="no" time="17792000" />
+                <run accepted="no" time="17794000" />
+                <run accepted="no" time="17797000" />
+                <run accepted="no" time="17800000" />
+                <run accepted="no" time="17804000" />
+                <run accepted="no" time="17807000" />
+                <run accepted="no" time="17810000" />
+                <run accepted="no" time="17813000" />
+                <run accepted="no" time="17817000" />
+                <run accepted="no" time="17826000" />
+                <run accepted="no" time="17832000" />
+                <run accepted="no" time="17861000" />
+                <run accepted="no" time="17864000" />
+                <run accepted="no" time="17867000" />
+                <run accepted="no" time="17871000" />
+                <run accepted="no" time="17874000" />
+                <run accepted="no" time="17878000" />
+                <run accepted="no" time="17880000" />
+                <run accepted="no" time="17883000" />
+                <run accepted="no" time="17888000" />
+                <run accepted="no" time="17891000" />
+                <run accepted="no" time="17891000" />
+                <run accepted="no" time="17895000" />
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B046" party="Tomsk PU 3 (Zhuravlev, Komarov, Cherepov)" alias="B046" solved="2" penalty="234" time="6686000" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="103" time="4987000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="4916000" />
+                <run accepted="yes" time="4987000" />
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="131" time="6686000" accepted="1" attempts="2" score="0"  >
+                <run accepted="no" time="6620000" />
+                <run accepted="yes" time="6686000" />
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="1" score="0"  >
+                <run accepted="no" time="15577000" />
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        <session id="neerc-2015.main.B048" party="Far Eastern FU 3 (Kirpa, Utin, Makhliarchuk)" alias="B048" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0" >
+            <problem alias="A" id="neerc.2015.main.adjustment" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="B" id="neerc.2015.main.binary" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="C" id="neerc.2015.main.cactus" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="D" id="neerc.2015.main.distance" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="E" id="neerc.2015.main.easy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="F" id="neerc.2015.main.froggy" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="G" id="neerc.2015.main.generators" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="H" id="neerc.2015.main.hypercube" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="I" id="neerc.2015.main.iceberg" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="J" id="neerc.2015.main.jump" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="K" id="neerc.2015.main.king" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+            <problem alias="L" id="neerc.2015.main.landscape" solved="0" penalty="0" time="0" accepted="0" attempts="0" score="0"  >
+            </problem>
+        </session>
+        
+    </contest>
+</standings>

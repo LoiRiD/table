@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<runlog contest_id="35" duration="18000" start_time="2016/04/10 10:47:23" stop_time="2016/04/10 15:47:23" current_time="2016/09/23 23:36:54" fog_time="17940">
+  <name>TPU Junior 2015/16</name>
+  <users>
+    <user id="56" name="Chursina Elena, Tomsk PU"/>
+    <user id="57" name="Babichev Nikita, Tomsk PU"/>
+    <user id="59" name="Stepanov Oleg, Tomsk PU"/>
+    <user id="302" name="Varlakov Denis, Lyceum at TPU"/>
+    <user id="579" name="Isaev Evgeny, Tomsk PU"/>
+    <user id="580" name="Rinchinov Oleg, Tomsk PU"/>
+    <user id="581" name="Bakulin Viktor, Tomsk PU"/>
+    <user id="582" name="Gaiduk Ivan, Tomsk PU"/>
+    <user id="583" name="Kolganov Ivan, Tomsk PU"/>
+  </users>
+  <problems>
+    <problem id="1" short_name="A" long_name="Rectangle Area"/>
+    <problem id="2" short_name="B" long_name="Binary Problem"/>
+    <problem id="3" short_name="C" long_name="Nickolay and Tangerines"/>
+    <problem id="4" short_name="D" long_name="To be on Time"/>
+    <problem id="5" short_name="E" long_name="Double Array Sorting"/>
+    <problem id="6" short_name="F" long_name="Dogs and Leashes"/>
+    <problem id="7" short_name="G" long_name="Unusual Sequences"/>
+    <problem id="8" short_name="H" long_name="Game with Words"/>
+    <problem id="9" short_name="I" long_name="Homework"/>
+    <problem id="10" short_name="J" long_name="Huge Array"/>
+    <problem id="11" short_name="K" long_name="Budget Distribution"/>
+  </problems>
+  <languages>
+    <language id="1" short_name="fpc" long_name="Free Pascal 2.4.0-2"/>
+    <language id="2" short_name="gcc" long_name="GNU C 4.4.5"/>
+    <language id="3" short_name="g++" long_name="GNU C++ 4.4.5"/>
+    <language id="13" short_name="python" long_name="Python 2.6.6"/>
+    <language id="14" short_name="perl" long_name="Perl 5.10.1"/>
+    <language id="18" short_name="javac" long_name="Java JDK 1.6.0_18"/>
+    <language id="22" short_name="php" long_name="PHP 5.3.3-7+squeeze14"/>
+    <language id="25" short_name="make" long_name="Generic build generic"/>
+  </languages>
+  <runs>
+    <run run_id="0" time="136" run_uuid="13bc7663-139f-4ed6-8770-e8be0e52c1c3" status="OK" user_id="302" prob_id="1" lang_id="3" test="18" nsec="250584000" passed_mode="yes"/>
+    <run run_id="1" time="157" run_uuid="758eaa33-3f27-4d1e-81ba-2234b922a464" status="WA" user_id="580" prob_id="1" lang_id="3" test="0" nsec="407547000" passed_mode="yes"/>
+    <run run_id="2" time="174" run_uuid="dd577bb8-214a-48e3-9d25-07a2f8e16937" status="OK" user_id="59" prob_id="1" lang_id="3" test="18" nsec="853332000" passed_mode="yes"/>
+    <run run_id="3" time="210" run_uuid="f2a53bdf-c037-4468-b306-8ecc59f02a08" status="OK" user_id="580" prob_id="1" lang_id="3" test="18" nsec="791297000" passed_mode="yes"/>
+    <run run_id="4" time="241" run_uuid="0ed32e4f-4c18-4054-8cdc-4cb943649b29" status="PE" user_id="583" prob_id="1" lang_id="3" test="8" nsec="767000000" passed_mode="yes"/>
+    <run run_id="5" time="245" run_uuid="3300c846-12d3-417e-a566-c2ccd492d5ae" status="OK" user_id="581" prob_id="1" lang_id="3" test="18" nsec="237736000" passed_mode="yes"/>
+    <run run_id="6" time="256" run_uuid="12f165ed-5d61-4db5-af4d-85a32e637395" status="OK" user_id="56" prob_id="1" lang_id="3" test="18" nsec="257699000" passed_mode="yes"/>
+    <run run_id="7" time="259" run_uuid="1f0598c9-c0ad-459a-8fe4-48ff2cb6cfb6" status="OK" user_id="57" prob_id="1" lang_id="3" test="18" nsec="350231000" passed_mode="yes"/>
+    <run run_id="8" time="315" run_uuid="15c37439-cac2-46ef-96b6-6a06e16a61de" status="CE" user_id="579" prob_id="1" lang_id="3" test="0" nsec="81974000" passed_mode="yes"/>
+    <run run_id="9" time="353" run_uuid="afab834f-eb65-498d-9868-d6a3ae891a14" status="OK" user_id="579" prob_id="1" lang_id="3" test="18" nsec="558909000" passed_mode="yes"/>
+    <run run_id="10" time="427" run_uuid="39e32ce8-6ff1-42e4-a9d2-fcdd566a0b02" status="OK" user_id="582" prob_id="1" lang_id="3" test="18" nsec="553357000" passed_mode="yes"/>
+    <run run_id="11" time="611" run_uuid="43266db4-f041-4343-a8a9-05ead4aa8f56" status="OK" user_id="580" prob_id="4" lang_id="3" test="30" nsec="646629000" passed_mode="yes"/>
+    <run run_id="12" time="712" run_uuid="713880a9-8207-4199-9cbb-1e3e85a11ed6" status="OK" user_id="59" prob_id="9" lang_id="3" test="17" nsec="910746000" passed_mode="yes"/>
+    <run run_id="13" time="768" run_uuid="e6599eb4-cd2a-4ef8-a2fd-5578cba4d3cc" status="OK" user_id="57" prob_id="4" lang_id="3" test="30" nsec="281374000" passed_mode="yes"/>
+    <run run_id="14" time="782" run_uuid="47f45a1a-1932-45f0-87fd-f5be6f24d6d4" status="OK" user_id="56" prob_id="4" lang_id="3" test="30" nsec="990043000" passed_mode="yes"/>
+    <run run_id="16" time="1211" run_uuid="241de48f-eef4-4a08-bb70-317b30f1e0ca" status="OK" user_id="59" prob_id="4" lang_id="3" test="30" nsec="925736000" passed_mode="yes"/>
+    <run run_id="17" time="1620" run_uuid="9e368465-cf91-4afe-b0fb-af443f9146e5" status="WA" user_id="57" prob_id="6" lang_id="3" test="0" nsec="825156000" passed_mode="yes"/>
+    <run run_id="18" time="1680" run_uuid="6730b241-be40-4324-81b9-59236536dc1e" status="OK" user_id="57" prob_id="9" lang_id="3" test="17" nsec="276965000" passed_mode="yes"/>
+    <run run_id="19" time="1688" run_uuid="f7ba3983-d396-47c7-8b93-f9749ae520e1" status="WA" user_id="581" prob_id="3" lang_id="3" test="2" nsec="690260000" passed_mode="yes"/>
+    <run run_id="20" time="1753" run_uuid="1ad37a8e-d889-4b20-a76e-ef4df4e67f71" status="OK" user_id="580" prob_id="9" lang_id="3" test="17" nsec="49329000" passed_mode="yes"/>
+    <run run_id="21" time="1797" run_uuid="e2bf652d-4a28-4fcc-bb94-5593f5803be8" status="CE" user_id="583" prob_id="4" lang_id="3" test="0" nsec="79162000" passed_mode="yes"/>
+    <run run_id="22" time="1817" run_uuid="97eef3e4-187b-4017-99a7-4b0e084cb23e" status="OK" user_id="56" prob_id="9" lang_id="3" test="17" nsec="427453000" passed_mode="yes"/>
+    <run run_id="23" time="1883" run_uuid="9216ae2a-ff46-4ae9-adab-2641e2ed469e" status="OK" user_id="583" prob_id="4" lang_id="3" test="30" nsec="189280000" passed_mode="yes"/>
+    <run run_id="25" time="1970" run_uuid="53c8baf9-051a-4319-a5a3-226596c0e093" status="OK" user_id="583" prob_id="1" lang_id="3" test="18" nsec="535227000" passed_mode="yes"/>
+    <run run_id="26" time="2007" run_uuid="328ca882-b414-41f7-81ee-3ab904fa32be" status="CE" user_id="579" prob_id="4" lang_id="3" test="0" nsec="973810000" passed_mode="yes"/>
+    <run run_id="27" time="2032" run_uuid="290c6a68-5a14-49e7-967a-17c41e37cdd2" status="OK" user_id="579" prob_id="4" lang_id="3" test="30" nsec="873175000" passed_mode="yes"/>
+    <run run_id="28" time="2204" run_uuid="41c97349-d6c1-4651-bc18-e92cde5841a3" status="OK" user_id="581" prob_id="4" lang_id="3" test="30" nsec="565090000" passed_mode="yes"/>
+    <run run_id="29" time="2499" run_uuid="309b40fd-0a09-4e3a-aac4-2efea780a295" status="OK" user_id="581" prob_id="9" lang_id="3" test="17" nsec="342676000" passed_mode="yes"/>
+    <run run_id="30" time="2618" run_uuid="098d4acb-05cc-4afb-af43-46cf45cf8b4c" status="OK" user_id="302" prob_id="9" lang_id="3" test="17" nsec="694889000" passed_mode="yes"/>
+    <run run_id="31" time="2782" run_uuid="b55f7d08-0c64-4e5b-82bb-7324f63a0f73" status="WA" user_id="583" prob_id="9" lang_id="3" test="0" nsec="534470000" passed_mode="yes"/>
+    <run run_id="32" time="2920" run_uuid="43887ddf-1f3b-4970-96af-99b061c7a966" status="OK" user_id="583" prob_id="9" lang_id="3" test="17" nsec="960313000" passed_mode="yes"/>
+    <run run_id="33" time="2963" run_uuid="07bc50f4-f699-4582-b992-890e6e05863a" status="OK" user_id="302" prob_id="4" lang_id="3" test="30" nsec="579121000" passed_mode="yes"/>
+    <run run_id="34" time="3096" run_uuid="d05c97f0-1f0c-42eb-bf4b-2d8e50896423" status="ML" user_id="59" prob_id="10" lang_id="3" test="0" nsec="575552000" passed_mode="yes"/>
+    <run run_id="35" time="3313" run_uuid="78474050-35e4-4612-a0bb-d08758fce32e" status="TL" user_id="581" prob_id="10" lang_id="3" test="43" nsec="746349000" passed_mode="yes"/>
+    <run run_id="36" time="3630" run_uuid="b4326770-b90a-4bb6-a1f1-d39382d9ef9d" status="WA" user_id="582" prob_id="3" lang_id="3" test="0" nsec="67872000" passed_mode="yes"/>
+    <run run_id="37" time="4305" run_uuid="537b58f9-b03e-4bb1-9fd1-4bb74afa01a9" status="WA" user_id="302" prob_id="3" lang_id="3" test="5" nsec="658530000" passed_mode="yes"/>
+    <run run_id="38" time="4331" run_uuid="0e8f528d-ed68-46b0-91ae-ac46f592b583" status="OK" user_id="582" prob_id="4" lang_id="3" test="30" nsec="560755000" passed_mode="yes"/>
+    <run run_id="40" time="4383" run_uuid="12d79808-2a5d-488c-ad03-a1b2e3c2bea9" status="WA" user_id="579" prob_id="3" lang_id="3" test="2" nsec="820424000" passed_mode="yes"/>
+    <run run_id="41" time="4601" run_uuid="c8142aed-89d7-43cc-ad4d-bece9d194874" status="WA" user_id="302" prob_id="3" lang_id="3" test="5" nsec="946232000" passed_mode="yes"/>
+    <run run_id="42" time="4744" run_uuid="28f6827f-3c5f-4cdb-942f-af62399603d1" status="WA" user_id="57" prob_id="3" lang_id="3" test="6" nsec="416464000" passed_mode="yes"/>
+    <run run_id="43" time="4860" run_uuid="f3609a2a-5d5f-4454-97a4-98b8770f1587" status="OK" user_id="302" prob_id="3" lang_id="3" test="52" nsec="945088000" passed_mode="yes"/>
+    <run run_id="45" time="5726" run_uuid="a5ca0612-afe3-4007-b670-3860f040fa8e" status="WA" user_id="581" prob_id="3" lang_id="3" test="2" nsec="961545000" passed_mode="yes"/>
+    <run run_id="46" time="6243" run_uuid="6667739e-7d0a-40c4-bd68-ff9f07510764" status="OK" user_id="59" prob_id="3" lang_id="3" test="52" nsec="895783000" passed_mode="yes"/>
+    <run run_id="47" time="6892" run_uuid="14dfd328-4390-4eb4-9341-7376481a8e1c" status="WA" user_id="56" prob_id="3" lang_id="3" test="3" nsec="53437000" passed_mode="yes"/>
+    <run run_id="48" time="6921" run_uuid="91e737a2-dc42-47f9-8006-145c2dbda58a" status="WA" user_id="57" prob_id="3" lang_id="3" test="3" nsec="6429000" passed_mode="yes"/>
+    <run run_id="49" time="7242" run_uuid="fd35621f-064e-423e-b9ba-527913e87753" status="WA" user_id="56" prob_id="3" lang_id="3" test="3" nsec="321839000" passed_mode="yes"/>
+    <run run_id="50" time="7700" run_uuid="f256f583-21ec-4d90-b6d3-f62282e7a670" status="WA" user_id="57" prob_id="3" lang_id="3" test="3" nsec="290632000" passed_mode="yes"/>
+    <run run_id="51" time="7774" run_uuid="e421d60a-79cf-49a3-9477-e063064f30ad" status="WA" user_id="581" prob_id="2" lang_id="3" test="5" nsec="331005000" passed_mode="yes"/>
+    <run run_id="52" time="8168" run_uuid="341f6d5b-d0b6-406b-a224-b300af93c599" status="WA" user_id="581" prob_id="2" lang_id="3" test="9" nsec="425751000" passed_mode="yes"/>
+    <run run_id="53" time="8182" run_uuid="a5a11234-1e93-4b68-bb7b-dfda1127f729" status="WA" user_id="57" prob_id="3" lang_id="3" test="8" nsec="489914000" passed_mode="yes"/>
+    <run run_id="55" time="8319" run_uuid="e3e870e8-b156-45c7-b463-b1508e702671" status="WA" user_id="583" prob_id="3" lang_id="3" test="5" nsec="603805000" passed_mode="yes"/>
+    <run run_id="57" time="8346" run_uuid="6bed1b4e-6cd5-418c-96ca-963541312397" status="WA" user_id="302" prob_id="2" lang_id="3" test="4" nsec="492375000" passed_mode="yes"/>
+    <run run_id="58" time="8395" run_uuid="ec81e9c5-3032-4e24-a01d-21b48f76094e" status="WA" user_id="581" prob_id="2" lang_id="3" test="9" nsec="822169000" passed_mode="yes"/>
+    <run run_id="59" time="9052" run_uuid="36c79f16-c622-4505-bbf3-9a3771a81885" status="WA" user_id="56" prob_id="3" lang_id="3" test="14" nsec="625840000" passed_mode="yes"/>
+    <run run_id="61" time="9433" run_uuid="2132493f-86ea-4f8f-848e-e201638d0073" status="WA" user_id="579" prob_id="2" lang_id="3" test="3" nsec="700536000" passed_mode="yes"/>
+    <run run_id="63" time="9516" run_uuid="a4ef3687-05c6-4e4a-bc60-09abc8bf1e79" status="WA" user_id="57" prob_id="3" lang_id="3" test="1" nsec="3886000" passed_mode="yes"/>
+    <run run_id="64" time="9797" run_uuid="d63ee631-6a4d-4dc5-bec5-21023050ddcf" status="RT" user_id="580" prob_id="3" lang_id="3" test="3" nsec="815447000" passed_mode="yes"/>
+    <run run_id="65" time="10010" run_uuid="772fcbda-46d7-4c83-8152-d194365e3ed3" status="RT" user_id="580" prob_id="3" lang_id="3" test="3" nsec="24229000" passed_mode="yes"/>
+    <run run_id="66" time="10050" run_uuid="ceb74955-9b6c-4bd0-85f6-16e7c3c3511e" status="OK" user_id="57" prob_id="3" lang_id="3" test="52" nsec="409531000" passed_mode="yes"/>
+    <run run_id="67" time="10495" run_uuid="87a8ba98-579f-4354-8cc1-b3cf0271c47b" status="CE" user_id="581" prob_id="7" lang_id="3" test="0" nsec="566179000" passed_mode="yes"/>
+    <run run_id="68" time="10516" run_uuid="7301b6c6-e680-4371-96ed-d15376bc4739" status="OK" user_id="581" prob_id="7" lang_id="3" test="33" nsec="737253000" passed_mode="yes"/>
+    <run run_id="69" time="10601" run_uuid="4f463532-a6ad-41e2-907d-371c5472ab5f" status="WA" user_id="56" prob_id="3" lang_id="3" test="2" nsec="61198000" passed_mode="yes"/>
+    <run run_id="70" time="10930" run_uuid="8562781f-27a7-4ce5-aa7f-268462a41ab5" status="WA" user_id="582" prob_id="9" lang_id="3" test="2" nsec="330045000" passed_mode="yes"/>
+    <run run_id="71" time="10990" run_uuid="9e33326f-293b-4c46-963e-e6d3f6ac9d11" status="WA" user_id="579" prob_id="9" lang_id="3" test="2" nsec="740452000" passed_mode="yes"/>
+    <run run_id="72" time="11124" run_uuid="e6a3cd6d-74e0-404c-b459-9a88fe8e30c9" status="WA" user_id="582" prob_id="9" lang_id="3" test="2" nsec="497357000" passed_mode="yes"/>
+    <run run_id="73" time="11511" run_uuid="9b76efca-e21d-4250-bf79-3d5f026e9614" status="WA" user_id="581" prob_id="3" lang_id="3" test="11" nsec="638441000" passed_mode="yes"/>
+    <run run_id="75" time="12414" run_uuid="1290b328-8b28-4d83-99a6-b81c8defece8" status="WA" user_id="56" prob_id="2" lang_id="3" test="5" nsec="695411000" passed_mode="yes"/>
+    <run run_id="76" time="12504" run_uuid="fad61a0c-cb84-4543-bab9-19cdaea5c34d" status="WA" user_id="59" prob_id="10" lang_id="3" test="14" nsec="572917000" passed_mode="yes"/>
+    <run run_id="77" time="12544" run_uuid="bb04b4f7-b6b1-4cf8-b544-ea610e610715" status="WA" user_id="582" prob_id="9" lang_id="3" test="2" nsec="429864000" passed_mode="yes"/>
+    <run run_id="78" time="12732" run_uuid="356ac836-ce67-431b-a1bb-dcc0f35f42b4" status="WA" user_id="582" prob_id="9" lang_id="3" test="2" nsec="682689000" passed_mode="yes"/>
+    <run run_id="80" time="13081" run_uuid="cb6b136d-59ce-49a0-b447-39153ef5cc94" status="WA" user_id="579" prob_id="9" lang_id="3" test="2" nsec="757479000" passed_mode="yes"/>
+    <run run_id="81" time="13219" run_uuid="f877ce44-6e2b-4330-8e97-21807ed572ab" status="WA" user_id="56" prob_id="2" lang_id="3" test="6" nsec="73730000" passed_mode="yes"/>
+    <run run_id="82" time="13616" run_uuid="88101579-de94-40dd-bde5-bb6fc14c64e6" status="OK" user_id="579" prob_id="9" lang_id="3" test="17" nsec="619435000" passed_mode="yes"/>
+    <run run_id="83" time="14288" run_uuid="7555b76a-0c8a-4364-a839-da378f244e04" status="OK" user_id="581" prob_id="3" lang_id="3" test="52" nsec="375864000" passed_mode="yes"/>
+    <run run_id="84" time="14519" run_uuid="a966913f-030e-4956-a3c8-ac9c78bced25" status="OK" user_id="59" prob_id="7" lang_id="3" test="33" nsec="845709000" passed_mode="yes"/>
+    <run run_id="85" time="14911" run_uuid="435be48f-4cca-490e-9679-afb0da9c9df5" status="WA" user_id="581" prob_id="2" lang_id="3" test="9" nsec="15481000" passed_mode="yes"/>
+    <run run_id="86" time="16137" run_uuid="037cee14-812b-479d-a7a3-a16027aaacad" status="WA" user_id="579" prob_id="3" lang_id="3" test="5" nsec="363364000" passed_mode="yes"/>
+    <run run_id="87" time="16464" run_uuid="3313129a-61e7-4f3d-ab5c-687d1240854a" status="OK" user_id="581" prob_id="10" lang_id="3" test="93" nsec="891781000" passed_mode="yes"/>
+    <run run_id="88" time="16972" run_uuid="eed91c59-a70b-4041-af91-d76ac4c9c9af" status="CE" user_id="582" prob_id="6" lang_id="3" test="0" nsec="470857000" passed_mode="yes"/>
+    <run run_id="89" time="17058" run_uuid="297a5fb2-b640-48e2-8270-032cc6c13182" status="WA" user_id="582" prob_id="6" lang_id="3" test="1" nsec="763989000" passed_mode="yes"/>
+    <run run_id="90" time="17063" run_uuid="009d3173-a656-4fe6-9d47-c62e70e325c3" status="OK" user_id="302" prob_id="2" lang_id="3" test="20" nsec="755025000" passed_mode="yes"/>
+    <run run_id="92" time="17253" run_uuid="80881f94-60ee-44e0-ac8d-749b8005021a" status="OK" user_id="57" prob_id="7" lang_id="3" test="33" nsec="178663000" passed_mode="yes"/>
+    <run run_id="93" time="17419" run_uuid="e0916353-d7ba-4e06-ae98-0e8fcb894ce8" status="WA" user_id="581" prob_id="2" lang_id="3" test="4" nsec="870547000" passed_mode="yes"/>
+    <run run_id="94" time="17511" run_uuid="0de50adf-271e-4cdc-98c5-9a6e77e55143" status="WA" user_id="582" prob_id="9" lang_id="3" test="2" nsec="397213000" passed_mode="yes"/>
+    <run run_id="95" time="17554" run_uuid="a7018995-951a-4ae2-b356-7dfa4f721c46" status="WA" user_id="59" prob_id="2" lang_id="3" test="3" nsec="296510000" passed_mode="yes"/>
+    <run run_id="96" time="17599" run_uuid="bdab68a1-38a2-40c8-99e2-f512b7df6a0c" status="WA" user_id="582" prob_id="9" lang_id="3" test="2" nsec="832176000" passed_mode="yes"/>
+    <run run_id="97" time="17769" run_uuid="4d254ebb-a45a-405e-9986-d42983ef51dc" status="PE" user_id="580" prob_id="7" lang_id="3" test="0" nsec="223518000" passed_mode="yes"/>
+    <run run_id="98" time="17802" run_uuid="61082621-a4ad-4a34-b3b4-99c76ece5fa3" status="PE" user_id="580" prob_id="7" lang_id="3" test="0" nsec="783769000" passed_mode="yes"/>
+    <run run_id="99" time="17838" run_uuid="0867a34b-0c86-4ae3-857e-176abd32dd2a" status="RT" user_id="580" prob_id="3" lang_id="3" test="1" nsec="55707000" passed_mode="yes"/>
+  </runs>
+</runlog>

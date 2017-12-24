@@ -1,0 +1,1974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<teams>
+  <team><id>1186220</id><name>Harbin Pedagogical University</name></team>
+  <team><id>1186222</id><name>Heilongjiang University</name></team>
+  <team><id>1186224</id><name>Jiamusi University</name></team>
+  <team><id>1186226</id><name>Qiqihar University</name></team>
+  <team><id>1186228</id><name>Northeast Agricultural University</name></team>
+  <team><id>1186230</id><name>Blagoveschensk State Pedagogical University</name></team>
+  <team><id>1186232</id><name>Komsomolsk-on-Amur State Technical University</name></team>
+  <team><id>1186234</id><name>Sholom-Aleichem Priamursky State University</name></team>
+  <team><id>1186238</id><name>Vladivostok State University Economics and Service</name></team>
+  <team><id>1186240</id><name>Far Eastern State Transport University</name></team>
+  
+</teams>
+<problems>
+  <problem><code>A</code></problem>
+  <problem><code>B</code></problem>
+  <problem><code>C</code></problem>
+  <problem><code>D</code></problem>
+  <problem><code>E</code></problem>
+  <problem><code>F</code></problem>
+  <problem><code>G</code></problem>
+  <problem><code>H</code></problem>
+</problems>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<reqs>
+<req>
+<code>A</code>
+<id>1189503</id>
+<is_ooc>1</is_ooc>
+<is_remote>1</is_remote>
+<last_ip>176.100.143.189, 10.101.1.135</last_ip>
+<problem_title>Avengers and Shawarma</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:12</submit_time>
+<team_id>1189324</team_id>
+<team_name>Far Eastern FU: 1</team_name>
+<time_since_start>0.004918252</time_since_start>
+</req>
+<req>
+<code>A</code>
+<id>1189505</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Avengers and Shawarma</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:12</submit_time>
+<team_id>1186240</team_id>
+<team_name>Far Eastern State Transport University</team_name>
+<time_since_start>0.004993461</time_since_start>
+</req>
+<req>
+<code>A</code>
+<id>1189507</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Avengers and Shawarma</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:14</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.006855741</time_since_start>
+</req>
+<req>
+<code>A</code>
+<id>1189511</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Avengers and Shawarma</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:15</submit_time>
+<team_id>1186232</team_id>
+<team_name>Komsomolsk-on-Amur State Technical University</team_name>
+<time_since_start>0.007316655</time_since_start>
+</req>
+<req>
+<code>A</code>
+<id>1189513</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Avengers and Shawarma</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:19</submit_time>
+<team_id>1186220</team_id>
+<team_name>Harbin Pedagogical University</team_name>
+<time_since_start>0.009859977</time_since_start>
+</req>
+<req>
+<code>A</code>
+<id>1189515</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Avengers and Shawarma</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:22</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.012442014</time_since_start>
+</req>
+<req>
+<code>A</code>
+<id>1189517</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Avengers and Shawarma</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:25</submit_time>
+<team_id>1186226</team_id>
+<team_name>Qiqihar University</team_name>
+<time_since_start>0.014137269</time_since_start>
+</req>
+<req>
+<code>B</code>
+<failed_test>1</failed_test>
+<id>1189519</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Bedtime thoughts</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 09:31</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.004621632</time_since_start>
+</req>
+<req>
+<code>B</code>
+<id>1189523</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Bedtime thoughts</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:31</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.018685336</time_since_start>
+</req>
+<req>
+<code>B</code>
+<failed_test>1</failed_test>
+<id>1189527</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Bedtime thoughts</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 09:32</submit_time>
+<team_id>1186238</team_id>
+<team_name>Vladivostok State University Economics and Service</team_name>
+<time_since_start>0.019365023</time_since_start>
+</req>
+<req>
+<code>B</code>
+<id>1189529</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Bedtime thoughts</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:33</submit_time>
+<team_id>1186238</team_id>
+<team_name>Vladivostok State University Economics and Service</team_name>
+<time_since_start>0.019996574</time_since_start>
+</req>
+<req>
+<code>B</code>
+<id>1189531</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Bedtime thoughts</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:34</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.020282025</time_since_start>
+</req>
+<req>
+<code>B</code>
+<failed_test>7</failed_test>
+<id>1189533</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Bedtime thoughts</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 09:35</submit_time>
+<team_id>1186220</team_id>
+<team_name>Harbin Pedagogical University</team_name>
+<time_since_start>0.020951609</time_since_start>
+</req>
+<req>
+<code>B</code>
+<id>1189535</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Bedtime thoughts</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:36</submit_time>
+<team_id>1186240</team_id>
+<team_name>Far Eastern State Transport University</team_name>
+<time_since_start>0.021981412</time_since_start>
+</req>
+<req>
+<code>A</code>
+<id>1189541</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Avengers and Shawarma</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:41</submit_time>
+<team_id>1186230</team_id>
+<team_name>Blagoveschensk State Pedagogical University</team_name>
+<time_since_start>0.025537998</time_since_start>
+</req>
+<req>
+<code>B</code>
+<id>1189543</id>
+<is_ooc>1</is_ooc>
+<is_remote>1</is_remote>
+<last_ip>176.100.143.189, 10.101.1.135</last_ip>
+<problem_title>Bedtime thoughts</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:43</submit_time>
+<team_id>1189324</team_id>
+<team_name>Far Eastern FU: 1</team_name>
+<time_since_start>0.026762593</time_since_start>
+</req>
+<req>
+<code>A</code>
+<id>1189545</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Avengers and Shawarma</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:44</submit_time>
+<team_id>1186224</team_id>
+<team_name>Jiamusi University</team_name>
+<time_since_start>0.027548241</time_since_start>
+</req>
+<req>
+<code>A</code>
+<id>1189548</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Avengers and Shawarma</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:46</submit_time>
+<team_id>1186238</team_id>
+<team_name>Vladivostok State University Economics and Service</team_name>
+<time_since_start>0.029043553</time_since_start>
+</req>
+<req>
+<code>B</code>
+<id>1189550</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Bedtime thoughts</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:47</submit_time>
+<team_id>1186232</team_id>
+<team_name>Komsomolsk-on-Amur State Technical University</team_name>
+<time_since_start>0.029444803</time_since_start>
+</req>
+<req>
+<code>C</code>
+<id>1189552</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:47</submit_time>
+<team_id>1186240</team_id>
+<team_name>Far Eastern State Transport University</team_name>
+<time_since_start>0.029790706</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>16</failed_test>
+<id>1189554</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 09:49</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.031037905</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189558</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 09:51</submit_time>
+<team_id>1186238</team_id>
+<team_name>Vladivostok State University Economics and Service</team_name>
+<time_since_start>0.032300926</time_since_start>
+</req>
+<req>
+<code>B</code>
+<id>1189568</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Bedtime thoughts</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:55</submit_time>
+<team_id>1186224</team_id>
+<team_name>Jiamusi University</team_name>
+<time_since_start>0.035406204</time_since_start>
+</req>
+<req>
+<code>B</code>
+<id>1189570</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Bedtime thoughts</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 09:56</submit_time>
+<team_id>1186220</team_id>
+<team_name>Harbin Pedagogical University</team_name>
+<time_since_start>0.035627014</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189574</id>
+<is_ooc>1</is_ooc>
+<is_remote>1</is_remote>
+<last_ip>176.100.143.189, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 10:00</submit_time>
+<team_id>1189324</team_id>
+<team_name>Far Eastern FU: 1</team_name>
+<time_since_start>0.038525775</time_since_start>
+</req>
+<req>
+<code>C</code>
+<id>1189576</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 10:03</submit_time>
+<team_id>1186230</team_id>
+<team_name>Blagoveschensk State Pedagogical University</team_name>
+<time_since_start>0.040301273</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189578</id>
+<is_ooc>1</is_ooc>
+<is_remote>1</is_remote>
+<last_ip>176.100.143.189, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 10:03</submit_time>
+<team_id>1189324</team_id>
+<team_name>Far Eastern FU: 1</team_name>
+<time_since_start>0.040546377</time_since_start>
+</req>
+<req>
+<code>A</code>
+<id>1189581</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Avengers and Shawarma</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 10:06</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.028553935</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189585</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 10:08</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.043869259</time_since_start>
+</req>
+<req>
+<code>B</code>
+<id>1189589</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Bedtime thoughts</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 10:16</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.036071377</time_since_start>
+</req>
+<req>
+<code>D</code>
+<id>1189591</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Don't understarve</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 10:17</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.050257153</time_since_start>
+</req>
+<req>
+<code>B</code>
+<id>1189593</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Bedtime thoughts</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 10:21</submit_time>
+<team_id>1186230</team_id>
+<team_name>Blagoveschensk State Pedagogical University</team_name>
+<time_since_start>0.053152824</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189595</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 10:21</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.039384028</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189597</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 10:22</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.053504016</time_since_start>
+</req>
+<req>
+<code>C</code>
+<id>1189599</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 10:22</submit_time>
+<team_id>1186238</team_id>
+<team_name>Vladivostok State University Economics and Service</team_name>
+<time_since_start>0.053749178</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189601</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 10:24</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.055301991</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189603</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 10:25</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.042130347</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189605</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 10:48</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.071961273</time_since_start>
+</req>
+<req>
+<code>C</code>
+<id>1189607</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 10:50</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.059308333</time_since_start>
+</req>
+<req>
+<code>D</code>
+<failed_test>5</failed_test>
+<id>1189609</id>
+<is_ooc>1</is_ooc>
+<is_remote>1</is_remote>
+<last_ip>176.100.143.189, 10.101.1.135</last_ip>
+<problem_title>Don't understarve</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 10:50</submit_time>
+<team_id>1189324</team_id>
+<team_name>Far Eastern FU: 1</team_name>
+<time_since_start>0.073472998</time_since_start>
+</req>
+<req>
+<code>H</code>
+<id>1189611</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 10:52</submit_time>
+<team_id>1186240</team_id>
+<team_name>Far Eastern State Transport University</team_name>
+<time_since_start>0.074600729</time_since_start>
+</req>
+<req>
+<code>H</code>
+<id>1189613</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 10:54</submit_time>
+<team_id>1186240</team_id>
+<team_name>Far Eastern State Transport University</team_name>
+<time_since_start>0.075918958</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189617</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 10:56</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.077555938</time_since_start>
+</req>
+<req>
+<code>C</code>
+<id>1189619</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 10:56</submit_time>
+<team_id>1186224</team_id>
+<team_name>Jiamusi University</team_name>
+<time_since_start>0.077592199</time_since_start>
+</req>
+<req>
+<code>H</code>
+<id>1189621</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 10:56</submit_time>
+<team_id>1186240</team_id>
+<team_name>Far Eastern State Transport University</team_name>
+<time_since_start>0.077618623</time_since_start>
+</req>
+<req>
+<code>D</code>
+<id>1189625</id>
+<is_ooc>1</is_ooc>
+<is_remote>1</is_remote>
+<last_ip>176.100.143.189, 10.101.1.135</last_ip>
+<problem_title>Don't understarve</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 10:57</submit_time>
+<team_id>1189324</team_id>
+<team_name>Far Eastern FU: 1</team_name>
+<time_since_start>0.078451447</time_since_start>
+</req>
+<req>
+<code>B</code>
+<id>1189629</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Bedtime thoughts</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 11:13</submit_time>
+<team_id>1186226</team_id>
+<team_name>Qiqihar University</team_name>
+<time_since_start>0.089101759</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>11</failed_test>
+<id>1189631</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 11:15</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.090624294</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189633</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 11:15</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.090773912</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>24</failed_test>
+<id>1189635</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>TL</short_state>
+<state>time_limit_exceeded</state>
+<submit_time>26.09.2017 11:16</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.091466551</time_since_start>
+</req>
+<req>
+<code>D</code>
+<failed_test>6</failed_test>
+<id>1189637</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Don't understarve</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 11:21</submit_time>
+<team_id>1186224</team_id>
+<team_name>Jiamusi University</team_name>
+<time_since_start>0.095102813</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>4</failed_test>
+<id>1189639</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>PE</short_state>
+<state>presentation_error</state>
+<submit_time>26.09.2017 11:24</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.096952234</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>4</failed_test>
+<id>1189643</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 11:27</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.098764363</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>5</failed_test>
+<id>1189645</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 11:28</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.099591042</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>1</failed_test>
+<id>1189650</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>PE</short_state>
+<state>presentation_error</state>
+<submit_time>26.09.2017 11:30</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.100781597</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189652</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 11:31</submit_time>
+<team_id>1186226</team_id>
+<team_name>Qiqihar University</team_name>
+<time_since_start>0.101475486</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>1</failed_test>
+<id>1189658</id>
+<is_ooc>1</is_ooc>
+<is_remote>1</is_remote>
+<last_ip>176.100.143.189, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 11:33</submit_time>
+<team_id>1189324</team_id>
+<team_name>Far Eastern FU: 1</team_name>
+<time_since_start>0.102924005</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>5</failed_test>
+<id>1189660</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 11:33</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.103180035</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>1</failed_test>
+<id>1189662</id>
+<is_ooc>1</is_ooc>
+<is_remote>1</is_remote>
+<last_ip>176.100.143.189, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>TL</short_state>
+<state>time_limit_exceeded</state>
+<submit_time>26.09.2017 11:35</submit_time>
+<team_id>1189324</team_id>
+<team_name>Far Eastern FU: 1</team_name>
+<time_since_start>0.104296840</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>5</failed_test>
+<id>1189672</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 11:42</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.109044132</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>5</failed_test>
+<id>1189678</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 11:44</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.111032257</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>17</failed_test>
+<id>1189683</id>
+<is_ooc>1</is_ooc>
+<is_remote>1</is_remote>
+<last_ip>176.100.143.189, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 11:51</submit_time>
+<team_id>1189324</team_id>
+<team_name>Far Eastern FU: 1</team_name>
+<time_since_start>0.115397049</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>16</failed_test>
+<id>1189685</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 11:52</submit_time>
+<team_id>1186240</team_id>
+<team_name>Far Eastern State Transport University</team_name>
+<time_since_start>0.116458125</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>16</failed_test>
+<id>1189687</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 11:53</submit_time>
+<team_id>1186240</team_id>
+<team_name>Far Eastern State Transport University</team_name>
+<time_since_start>0.116923287</time_since_start>
+</req>
+<req>
+<code>H</code>
+<id>1189689</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 11:54</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.117890220</time_since_start>
+</req>
+<req>
+<code>F</code>
+<id>1189691</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 11:55</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.118065301</time_since_start>
+</req>
+<req>
+<code>H</code>
+<failed_test>74</failed_test>
+<id>1189693</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 11:58</submit_time>
+<team_id>1186220</team_id>
+<team_name>Harbin Pedagogical University</team_name>
+<time_since_start>0.120667488</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189695</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 11:59</submit_time>
+<team_id>1186220</team_id>
+<team_name>Harbin Pedagogical University</team_name>
+<time_since_start>0.121526296</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189729</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 12:01</submit_time>
+<team_id>1186226</team_id>
+<team_name>Qiqihar University</team_name>
+<time_since_start>0.122892477</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189731</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 12:03</submit_time>
+<team_id>1186232</team_id>
+<team_name>Komsomolsk-on-Amur State Technical University</team_name>
+<time_since_start>0.123652720</time_since_start>
+</req>
+<req>
+<code>G</code>
+<id>1189735</id>
+<is_ooc>1</is_ooc>
+<is_remote>1</is_remote>
+<last_ip>176.100.143.189, 10.101.1.135</last_ip>
+<problem_title>Gandalf and Trolls</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 12:11</submit_time>
+<team_id>1189324</team_id>
+<team_name>Far Eastern FU: 1</team_name>
+<time_since_start>0.129457685</time_since_start>
+</req>
+<req>
+<code>D</code>
+<failed_test>6</failed_test>
+<id>1189738</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Don't understarve</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 12:18</submit_time>
+<team_id>1186224</team_id>
+<team_name>Jiamusi University</team_name>
+<time_since_start>0.134188229</time_since_start>
+</req>
+<req>
+<code>F</code>
+<id>1189740</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 12:20</submit_time>
+<team_id>1186240</team_id>
+<team_name>Far Eastern State Transport University</team_name>
+<time_since_start>0.135796019</time_since_start>
+</req>
+<req>
+<code>H</code>
+<failed_test>74</failed_test>
+<id>1189742</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 12:22</submit_time>
+<team_id>1186220</team_id>
+<team_name>Harbin Pedagogical University</team_name>
+<time_since_start>0.137369942</time_since_start>
+</req>
+<req>
+<code>F</code>
+<id>1189744</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 12:23</submit_time>
+<team_id>1186240</team_id>
+<team_name>Far Eastern State Transport University</team_name>
+<time_since_start>0.137743345</time_since_start>
+</req>
+<req>
+<code>H</code>
+<id>1189746</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 12:25</submit_time>
+<team_id>1186220</team_id>
+<team_name>Harbin Pedagogical University</team_name>
+<time_since_start>0.138910081</time_since_start>
+</req>
+<req>
+<code>E</code>
+<id>1189748</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 12:25</submit_time>
+<team_id>1186232</team_id>
+<team_name>Komsomolsk-on-Amur State Technical University</team_name>
+<time_since_start>0.139494699</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189750</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 12:25</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.139563831</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>4</failed_test>
+<id>1189752</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 12:27</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.140583947</time_since_start>
+</req>
+<req>
+<code>E</code>
+<id>1189754</id>
+<is_ooc>1</is_ooc>
+<is_remote>1</is_remote>
+<last_ip>176.100.143.189, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 12:29</submit_time>
+<team_id>1189324</team_id>
+<team_name>Far Eastern FU: 1</team_name>
+<time_since_start>0.141669271</time_since_start>
+</req>
+<req>
+<code>C</code>
+<id>1189756</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 12:30</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.142488194</time_since_start>
+</req>
+<req>
+<code>H</code>
+<id>1189762</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 12:34</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.131773831</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>1</failed_test>
+<id>1189777</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 12:38</submit_time>
+<team_id>1186220</team_id>
+<team_name>Harbin Pedagogical University</team_name>
+<time_since_start>0.148194155</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189780</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 12:45</submit_time>
+<team_id>1186220</team_id>
+<team_name>Harbin Pedagogical University</team_name>
+<time_since_start>0.152950694</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189794</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 12:46</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.153720451</time_since_start>
+</req>
+<req>
+<code>E</code>
+<id>1189820</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 12:53</submit_time>
+<team_id>1186232</team_id>
+<team_name>Komsomolsk-on-Amur State Technical University</team_name>
+<time_since_start>0.158955023</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189822</id>
+<is_ooc>1</is_ooc>
+<is_remote>1</is_remote>
+<last_ip>176.100.143.189, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 12:57</submit_time>
+<team_id>1189324</team_id>
+<team_name>Far Eastern FU: 1</team_name>
+<time_since_start>0.161162558</time_since_start>
+</req>
+<req>
+<code>F</code>
+<id>1189824</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 12:57</submit_time>
+<team_id>1186232</team_id>
+<team_name>Komsomolsk-on-Amur State Technical University</team_name>
+<time_since_start>0.161188889</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>16</failed_test>
+<id>1189854</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 13:04</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.152096493</time_since_start>
+</req>
+<req>
+<code>F</code>
+<id>1189858</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 13:06</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.15347222</time_since_start>
+</req>
+<req>
+<code>H</code>
+<failed_test>1</failed_test>
+<id>1189860</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 13:11</submit_time>
+<team_id>1186230</team_id>
+<team_name>Blagoveschensk State Pedagogical University</team_name>
+<time_since_start>0.170838137</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>20</failed_test>
+<id>1189862</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 13:12</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.171857951</time_since_start>
+</req>
+<req>
+<code>H</code>
+<id>1189864</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 13:15</submit_time>
+<team_id>1186224</team_id>
+<team_name>Jiamusi University</team_name>
+<time_since_start>0.174132535</time_since_start>
+</req>
+<req>
+<code>H</code>
+<failed_test>15</failed_test>
+<id>1189866</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 13:16</submit_time>
+<team_id>1186238</team_id>
+<team_name>Vladivostok State University Economics and Service</team_name>
+<time_since_start>0.174879641</time_since_start>
+</req>
+<req>
+<code>H</code>
+<id>1189868</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 13:18</submit_time>
+<team_id>1186230</team_id>
+<team_name>Blagoveschensk State Pedagogical University</team_name>
+<time_since_start>0.175878877</time_since_start>
+</req>
+<req>
+<code>F</code>
+<id>1189870</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>OK</short_state>
+<state>accepted</state>
+<submit_time>26.09.2017 13:24</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.180442998</time_since_start>
+</req>
+<req>
+<code>H</code>
+<failed_test>15</failed_test>
+<id>1189872</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 13:26</submit_time>
+<team_id>1186238</team_id>
+<team_name>Vladivostok State University Economics and Service</team_name>
+<time_since_start>0.181363646</time_since_start>
+</req>
+<req>
+<code>H</code>
+<failed_test>5</failed_test>
+<id>1189874</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 13:46</submit_time>
+<team_id>1186232</team_id>
+<team_name>Komsomolsk-on-Amur State Technical University</team_name>
+<time_since_start>0.195232720</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>1</failed_test>
+<id>1189876</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>RE</short_state>
+<state>runtime_error</state>
+<submit_time>26.09.2017 13:48</submit_time>
+<team_id>1186230</team_id>
+<team_name>Blagoveschensk State Pedagogical University</team_name>
+<time_since_start>0.196789630</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>11</failed_test>
+<id>1189878</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 13:48</submit_time>
+<team_id>1186224</team_id>
+<team_name>Jiamusi University</team_name>
+<time_since_start>0.196976285</time_since_start>
+</req>
+<req>
+<code>H</code>
+<failed_test>15</failed_test>
+<id>1189880</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 13:51</submit_time>
+<team_id>1186238</team_id>
+<team_name>Vladivostok State University Economics and Service</team_name>
+<time_since_start>0.199296806</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>1</failed_test>
+<id>1189882</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>RE</short_state>
+<state>runtime_error</state>
+<submit_time>26.09.2017 13:53</submit_time>
+<team_id>1186230</team_id>
+<team_name>Blagoveschensk State Pedagogical University</team_name>
+<time_since_start>0.200065347</time_since_start>
+</req>
+<req>
+<code>H</code>
+<failed_test>5</failed_test>
+<id>1189884</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 13:53</submit_time>
+<team_id>1186232</team_id>
+<team_name>Komsomolsk-on-Amur State Technical University</team_name>
+<time_since_start>0.200527257</time_since_start>
+</req>
+<req>
+<code>H</code>
+<failed_test>7</failed_test>
+<id>1189886</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 13:55</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.201537269</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>11</failed_test>
+<id>1189888</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 13:55</submit_time>
+<team_id>1186224</team_id>
+<team_name>Jiamusi University</team_name>
+<time_since_start>0.201608125</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>1</failed_test>
+<id>1189890</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>IL</short_state>
+<state>idleness_limit_exceeded</state>
+<submit_time>26.09.2017 13:56</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.202171053</time_since_start>
+</req>
+<req>
+<code>H</code>
+<failed_test>5</failed_test>
+<id>1189892</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 13:57</submit_time>
+<team_id>1186232</team_id>
+<team_name>Komsomolsk-on-Amur State Technical University</team_name>
+<time_since_start>0.202818727</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>1</failed_test>
+<id>1189894</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>IL</short_state>
+<state>idleness_limit_exceeded</state>
+<submit_time>26.09.2017 13:57</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.203212500</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189896</id>
+<is_ooc>1</is_ooc>
+<is_remote>1</is_remote>
+<last_ip>176.100.143.189, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 13:58</submit_time>
+<team_id>1189324</team_id>
+<team_name>Far Eastern FU: 1</team_name>
+<time_since_start>0.203537257</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>1</failed_test>
+<id>1189898</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 13:58</submit_time>
+<team_id>1186220</team_id>
+<team_name>Harbin Pedagogical University</team_name>
+<time_since_start>0.203767616</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>1</failed_test>
+<id>1189900</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>IL</short_state>
+<state>idleness_limit_exceeded</state>
+<submit_time>26.09.2017 13:58</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.203861435</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>1</failed_test>
+<id>1189905</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>RE</short_state>
+<state>runtime_error</state>
+<submit_time>26.09.2017 13:59</submit_time>
+<team_id>1186230</team_id>
+<team_name>Blagoveschensk State Pedagogical University</team_name>
+<time_since_start>0.204523032</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>1</failed_test>
+<id>1189907</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>PE</short_state>
+<state>presentation_error</state>
+<submit_time>26.09.2017 14:00</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.205018819</time_since_start>
+</req>
+<req>
+<code>F</code>
+<failed_test>11</failed_test>
+<id>1189909</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Factorio</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 14:00</submit_time>
+<team_id>1186224</team_id>
+<team_name>Jiamusi University</team_name>
+<time_since_start>0.205138958</time_since_start>
+</req>
+<req>
+<code>C</code>
+<failed_test>3</failed_test>
+<id>1189911</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Casino</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 14:00</submit_time>
+<team_id>1186220</team_id>
+<team_name>Harbin Pedagogical University</team_name>
+<time_since_start>0.205292593</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>1</failed_test>
+<id>1189913</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>PE</short_state>
+<state>presentation_error</state>
+<submit_time>26.09.2017 14:00</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.205345208</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>1</failed_test>
+<id>1189915</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>PE</short_state>
+<state>presentation_error</state>
+<submit_time>26.09.2017 14:01</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.205774583</time_since_start>
+</req>
+<req>
+<code>H</code>
+<failed_test>5</failed_test>
+<id>1189917</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 14:01</submit_time>
+<team_id>1186232</team_id>
+<team_name>Komsomolsk-on-Amur State Technical University</team_name>
+<time_since_start>0.206035370</time_since_start>
+</req>
+<req>
+<code>D</code>
+<failed_test>6</failed_test>
+<id>1189919</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Don't understarve</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 14:02</submit_time>
+<team_id>1186224</team_id>
+<team_name>Jiamusi University</team_name>
+<time_since_start>0.206599618</time_since_start>
+</req>
+<req>
+<code>H</code>
+<failed_test>15</failed_test>
+<id>1189921</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 14:02</submit_time>
+<team_id>1186234</team_id>
+<team_name>Sholom-Aleichem Priamursky State University</team_name>
+<time_since_start>0.206938600</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>2</failed_test>
+<id>1189923</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 14:03</submit_time>
+<team_id>1186228</team_id>
+<team_name>Northeast Agricultural University</team_name>
+<time_since_start>0.207316539</time_since_start>
+</req>
+<req>
+<code>H</code>
+<failed_test>5</failed_test>
+<id>1189924</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Hydrocarbons</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 14:03</submit_time>
+<team_id>1186232</team_id>
+<team_name>Komsomolsk-on-Amur State Technical University</team_name>
+<time_since_start>0.207321100</time_since_start>
+</req>
+<req>
+<code>E</code>
+<id>1189927</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>CE</short_state>
+<state>compilation_error</state>
+<submit_time>26.09.2017 14:03</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.193667523</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>1</failed_test>
+<id>1189929</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>IL</short_state>
+<state>idleness_limit_exceeded</state>
+<submit_time>26.09.2017 14:04</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.193944803</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>2</failed_test>
+<id>1189931</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>PE</short_state>
+<state>presentation_error</state>
+<submit_time>26.09.2017 14:05</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.194554201</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>2</failed_test>
+<id>1189935</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>PE</short_state>
+<state>presentation_error</state>
+<submit_time>26.09.2017 14:06</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.195343414</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>2</failed_test>
+<id>1189937</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>PE</short_state>
+<state>presentation_error</state>
+<submit_time>26.09.2017 14:07</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.196523715</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>2</failed_test>
+<id>1189939</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>PE</short_state>
+<state>presentation_error</state>
+<submit_time>26.09.2017 14:09</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.197324410</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>2</failed_test>
+<id>1189941</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>PE</short_state>
+<state>presentation_error</state>
+<submit_time>26.09.2017 14:10</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.198211481</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>2</failed_test>
+<id>1189943</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>PE</short_state>
+<state>presentation_error</state>
+<submit_time>26.09.2017 14:18</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.203750984</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>2</failed_test>
+<id>1189945</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>PE</short_state>
+<state>presentation_error</state>
+<submit_time>26.09.2017 14:19</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.204534398</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>2</failed_test>
+<id>1189947</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>PE</short_state>
+<state>presentation_error</state>
+<submit_time>26.09.2017 14:21</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.205633796</time_since_start>
+</req>
+<req>
+<code>E</code>
+<failed_test>15</failed_test>
+<id>1189949</id>
+<is_ooc>0</is_ooc>
+<is_remote>0</is_remote>
+<last_ip>79.104.212.91, 10.101.1.135</last_ip>
+<problem_title>Encrypted phone</problem_title>
+<short_state>WA</short_state>
+<state>wrong_answer</state>
+<submit_time>26.09.2017 14:22</submit_time>
+<team_id>1186222</team_id>
+<team_name>Heilongjiang University</team_name>
+<time_since_start>0.206600579</time_since_start>
+</req>
+</reqs>

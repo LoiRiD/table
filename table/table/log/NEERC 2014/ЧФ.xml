@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teams>
+  <team><id>874939</id><name>North Eastern FU</name></team>
+  <team><id>910500</id><name>Far Eastern S Transport U: 1</name></team>
+  <team><id>964759</id><name>Far Eastern FU: marshrutka</name></team>
+  <team><id>965983</id><name>Far Eastern FU: Davidyuk</name></team>
+  <team><id>966734</id><name>Far Eastern FU: ChubbChubbs</name></team>
+  <team><id>966747</id><name>Far Eastern FU: Cheburaptory</name></team>
+  <team><id>966750</id><name>Far Eastern FU: Dekalchuk</name></team>
+  <team><id>966753</id><name>Far Eastern FU: Top Roflers</name></team>
+  <team><id>966758</id><name>MSU 1: Khokhlov</name></team>
+  <team><id>966760</id><name>Far Eastern FU: Backtrace</name></team>
+  <team><id>966762</id><name>Far Eastern FU: Syromiatnikova</name></team>
+  <team><id>966769</id><name>MSU 2: Pertsev</name></team>
+  <team><id>966771</id><name>KoA STU 1</name></team>
+  <team><id>966774</id><name>Far Eastern S Transport U: 2</name></team>
+  <team><id>966778</id><name>Far Eastern FU: Samokhin</name></team>
+  <team><id>966786</id><name>Far Eastern FU: Bezgodov</name></team>
+  <team><id>966789</id><name>Far Easten FU: Pavlenko</name></team>
+  <team><id>966795</id><name>Far Eastern FU: Hyper</name></team>
+  <team><id>966797</id><name>Far Eastern FU: RandomTeam</name></team>
+  <team><id>966805</id><name>Far Eastern FU: ITeam</name></team>
+  <team><id>966811</id><name>Far Eastern FU: Darude Sandstorm</name></team>
+  <team><id>966839</id><name>Far Eastern FU: Zubarev</name></team>
+  <team><id>967417</id><name>Far Eastern FU: Win1251</name></team>
+  <team><id>967434</id><name>Far Eastern FU: 6RaxRush</name></team>
+  <team><id>967445</id><name>Far Eastern FU: sl</name></team>
+  <team><id>970000</id><name>KoA STU 2</name></team>
+</teams>
+<problems>
+  <problem><code>A</code></problem>
+  <problem><code>B</code></problem>
+  <problem><code>C</code></problem>
+  <problem><code>D</code></problem>
+  <problem><code>E</code></problem>
+  <problem><code>F</code></problem>
+  <problem><code>G</code></problem>
+  <problem><code>H</code></problem>
+  <problem><code>I</code></problem>
+</problems>
+<reqs>
+
+  <req><time_since_start>0.007168368</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 13:40</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967448</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.007472581</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 13:40</submit_time><team_name>Az</team_name><team_id>515084</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>967450</id><last_ip>79.105.66.180, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.007775868</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 13:41</submit_time><team_name>Az</team_name><team_id>515084</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967452</id><last_ip>79.105.66.180, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.013132361</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 13:48</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>966774</team_id><is_remote>0</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>967454</id><last_ip>217.118.64.49, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.013637523</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 13:49</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>966774</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967456</id><last_ip>217.118.64.49, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.015142581</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 13:51</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967458</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.021090208</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 14:00</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967463</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.021231447</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 14:00</submit_time><team_name>SergeyB</team_name><team_id>956072</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967465</id><last_ip>86.102.23.19, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.021992002</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 14:01</submit_time><team_name>Far Eastern FU: Davidyuk</team_name><team_id>965983</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967467</id><last_ip>80.83.238.113, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.022859167</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 14:02</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967469</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.023312917</time_since_start><problem_title>Error detection</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 14:03</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967471</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.023684873</time_since_start><problem_title>Astroturfing</problem_title><submit_time>08.11.2014 14:04</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967473</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.029617674</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 14:12</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967476</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.029629965</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 14:12</submit_time><team_name>Far Eastern FU: Backtrace</team_name><team_id>966760</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967478</id><last_ip>77.35.2.24, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.030550394</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 14:13</submit_time><team_name>Far Eastern FU: Top Roflers</team_name><team_id>966753</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967481</id><last_ip>77.35.195.165, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.031484803</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 14:15</submit_time><team_name>foobarrior</team_name><team_id>785948</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>967483</id><last_ip>213.59.142.139, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.032126458</time_since_start><problem_title>Error detection</problem_title><failed_test>2</failed_test><submit_time>08.11.2014 14:16</submit_time><team_name>foobarrior</team_name><team_id>785948</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967485</id><last_ip>213.59.142.139, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.032596377</time_since_start><problem_title>Error detection</problem_title><failed_test>0</failed_test><submit_time>08.11.2014 14:16</submit_time><team_name>Far Eastern FU: Win1251</team_name><team_id>967417</team_id><is_remote>0</is_remote><state>ignore_submit</state><is_ooc>0</is_ooc><id>967487</id><last_ip>212.122.7.84, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.032856065</time_since_start><problem_title>Error detection</problem_title><failed_test>9</failed_test><submit_time>08.11.2014 14:17</submit_time><team_name>Far Eastern FU: ITeam</team_name><team_id>966805</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967489</id><last_ip>212.122.7.224, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.033268542</time_since_start><problem_title>C----</problem_title><submit_time>08.11.2014 14:17</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967491</id><last_ip>86.102.20.80, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.033565023</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 14:18</submit_time><team_name>Far Eastern FU: Win1251</team_name><team_id>967417</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967493</id><last_ip>212.122.7.84, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.033823264</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 14:18</submit_time><team_name>Far Eastern FU: Davidyuk</team_name><team_id>965983</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967495</id><last_ip>80.83.238.113, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.035357940</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 14:20</submit_time><team_name>Far Eastern FU: sl</team_name><team_id>967445</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967497</id><last_ip>77.35.228.44, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.035701308</time_since_start><problem_title>Error detection</problem_title><failed_test>3</failed_test><submit_time>08.11.2014 14:21</submit_time><team_name>Far Easten FU: Pavlenko</team_name><team_id>966789</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967499</id><last_ip>212.122.7.94, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.036439850</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 14:22</submit_time><team_name>foobarrior</team_name><team_id>785948</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967501</id><last_ip>213.59.142.139, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.036739757</time_since_start><problem_title>Generations</problem_title><submit_time>08.11.2014 14:22</submit_time><team_name>Az</team_name><team_id>515084</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967503</id><last_ip>79.105.66.180, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.037233935</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 14:23</submit_time><team_name>Far Eastern FU: RandomTeam</team_name><team_id>966797</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967505</id><last_ip>5.143.23.112, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.037299421</time_since_start><problem_title>C----</problem_title><submit_time>08.11.2014 14:23</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967507</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.038516979</time_since_start><problem_title>Generations</problem_title><submit_time>08.11.2014 14:25</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967509</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.038709688</time_since_start><problem_title>Generations</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 14:25</submit_time><team_name>Far Eastern FU: Darude Sandstorm</team_name><team_id>966811</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967511</id><last_ip>82.162.186.166, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.038958692</time_since_start><problem_title>C----</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 14:26</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967513</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.039167222</time_since_start><problem_title>C----</problem_title><submit_time>08.11.2014 14:26</submit_time><team_name>Far Eastern FU: Zubarev</team_name><team_id>966839</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967515</id><last_ip>188.162.228.178, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.042765336</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 14:31</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967517</id><last_ip>86.102.20.80, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.043173657</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 14:32</submit_time><team_name>Far Eastern FU: ITeam</team_name><team_id>966805</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967519</id><last_ip>212.122.7.224, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.044563484</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 14:34</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>967521</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.045206481</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 14:35</submit_time><team_name>Az</team_name><team_id>515084</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967523</id><last_ip>79.105.66.180, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.046513009</time_since_start><problem_title>Error detection</problem_title><failed_test>9</failed_test><submit_time>08.11.2014 14:36</submit_time><team_name>MSU 2: Pertsev</team_name><team_id>966769</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967525</id><last_ip>10.51.24.64, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.047860891</time_since_start><problem_title>Inclination</problem_title><failed_test>10</failed_test><submit_time>08.11.2014 14:38</submit_time><team_name>SergeyB</team_name><team_id>956072</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967527</id><last_ip>86.102.23.19, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.050176123</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 14:42</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967529</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.051432477</time_since_start><problem_title>Inclination</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 14:44</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>967531</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.053827002</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 14:47</submit_time><team_name>Far Easten FU: Pavlenko</team_name><team_id>966789</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967534</id><last_ip>212.122.7.94, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.053868275</time_since_start><problem_title>Inclination</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 14:47</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967536</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.054157766</time_since_start><problem_title>C----</problem_title><submit_time>08.11.2014 14:47</submit_time><team_name>Az</team_name><team_id>515084</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967538</id><last_ip>79.105.66.180, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.054421782</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 14:48</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>967540</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.055312951</time_since_start><problem_title>Generations</problem_title><submit_time>08.11.2014 14:49</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967542</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.055805081</time_since_start><problem_title>Inclination</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 14:50</submit_time><team_name>Far Eastern FU: Win1251</team_name><team_id>967417</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967544</id><last_ip>212.122.7.84, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.056885000</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 14:51</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967546</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.057451806</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 14:52</submit_time><team_name>KoA STU 1</team_name><team_id>966771</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967548</id><last_ip>188.64.218.44, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.058397222</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 14:54</submit_time><team_name>MSU 2: Pertsev</team_name><team_id>966769</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967553</id><last_ip>10.51.24.64, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.058662616</time_since_start><problem_title>C----</problem_title><submit_time>08.11.2014 14:54</submit_time><team_name>Far Eastern FU: Top Roflers</team_name><team_id>966753</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967555</id><last_ip>77.35.195.165, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.059144653</time_since_start><problem_title>Error detection</problem_title><failed_test>5</failed_test><submit_time>08.11.2014 14:55</submit_time><team_name>Far Eastern FU: Bezgodov</team_name><team_id>966786</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967558</id><last_ip>212.122.7.73, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.059939074</time_since_start><problem_title>Inclination</problem_title><failed_test>10</failed_test><submit_time>08.11.2014 14:56</submit_time><team_name>SergeyB</team_name><team_id>956072</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967560</id><last_ip>86.102.23.19, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.061661146</time_since_start><problem_title>Inclination</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 14:58</submit_time><team_name>Far Eastern FU: Samokhin</team_name><team_id>966778</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>967562</id><last_ip>10.51.24.76, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.062904965</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 15:00</submit_time><team_name>Far Eastern FU: Samokhin</team_name><team_id>966778</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967564</id><last_ip>10.51.24.76, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.063548171</time_since_start><problem_title>Error detection</problem_title><failed_test>6</failed_test><submit_time>08.11.2014 15:01</submit_time><team_name>Far Eastern FU: Darude Sandstorm</team_name><team_id>966811</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967566</id><last_ip>82.162.186.166, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.065605787</time_since_start><problem_title>Astroturfing</problem_title><failed_test>2</failed_test><submit_time>08.11.2014 15:04</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967568</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.066685856</time_since_start><problem_title>Error detection</problem_title><failed_test>5</failed_test><submit_time>08.11.2014 15:06</submit_time><team_name>Far Eastern FU: Bezgodov</team_name><team_id>966786</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967570</id><last_ip>212.122.7.73, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.067906238</time_since_start><problem_title>C----</problem_title><submit_time>08.11.2014 15:07</submit_time><team_name>Far Eastern FU: Davidyuk</team_name><team_id>965983</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967572</id><last_ip>80.83.238.113, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.069312697</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 15:09</submit_time><team_name>Far Eastern FU: Zubarev</team_name><team_id>966839</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967574</id><last_ip>188.162.228.178, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.072843356</time_since_start><problem_title>Inclination</problem_title><failed_test>12</failed_test><submit_time>08.11.2014 15:14</submit_time><team_name>MSU 1: Khokhlov</team_name><team_id>966758</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967576</id><last_ip>10.51.24.99, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.073510058</time_since_start><problem_title>C----</problem_title><submit_time>08.11.2014 15:15</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967580</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.073813750</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 15:16</submit_time><team_name>Far Eastern FU: Darude Sandstorm</team_name><team_id>966811</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967582</id><last_ip>82.162.186.166, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.074876111</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 15:17</submit_time><team_name>Karmanov</team_name><team_id>967584</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967587</id><last_ip>10.52.16.104, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.075149907</time_since_start><problem_title>Inclination</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 15:18</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>966774</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967589</id><last_ip>217.118.64.49, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.075317222</time_since_start><problem_title>Inclination</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 15:18</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>runtime_error</state><is_ooc>1</is_ooc><id>967591</id><last_ip>86.102.20.80, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.078460116</time_since_start><problem_title>Astroturfing</problem_title><submit_time>08.11.2014 15:22</submit_time><team_name>Az</team_name><team_id>515084</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967593</id><last_ip>79.105.66.180, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.080780069</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 15:26</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967595</id><last_ip>86.102.20.80, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.081745451</time_since_start><problem_title>Generations</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 15:27</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>967597</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.081783218</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 15:27</submit_time><team_name>Far Eastern FU: 6RaxRush</team_name><team_id>967434</team_id><is_remote>0</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>967599</id><last_ip>10.51.16.49, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.083379919</time_since_start><problem_title>C----</problem_title><failed_test>2</failed_test><submit_time>08.11.2014 15:30</submit_time><team_name>Far Eastern FU: ITeam</team_name><team_id>966805</team_id><is_remote>0</is_remote><state>runtime_error</state><is_ooc>0</is_ooc><id>967602</id><last_ip>212.122.7.224, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.084293785</time_since_start><problem_title>Error detection</problem_title><failed_test>9</failed_test><submit_time>08.11.2014 15:31</submit_time><team_name>KoA STU 1</team_name><team_id>966771</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967604</id><last_ip>188.64.218.44, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.084632917</time_since_start><problem_title>Generations</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 15:31</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967606</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.086447025</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 15:34</submit_time><team_name>Far Eastern FU: marshrutka</team_name><team_id>964759</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967608</id><last_ip>185.57.30.204, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.088428426</time_since_start><problem_title>Inclination</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 15:37</submit_time><team_name>Far Eastern FU: marshrutka</team_name><team_id>964759</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>967610</id><last_ip>185.57.30.204, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.089551076</time_since_start><problem_title>Inclination</problem_title><failed_test>12</failed_test><submit_time>08.11.2014 15:38</submit_time><team_name>MSU 1: Khokhlov</team_name><team_id>966758</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967612</id><last_ip>10.51.24.99, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.089981528</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 15:39</submit_time><team_name>Far Eastern FU: Backtrace</team_name><team_id>966760</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967614</id><last_ip>77.35.2.24, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.090247558</time_since_start><problem_title>Inclination</problem_title><failed_test>3</failed_test><submit_time>08.11.2014 15:39</submit_time><team_name>Far Eastern FU: marshrutka</team_name><team_id>964759</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967616</id><last_ip>185.57.30.204, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.090958032</time_since_start><problem_title>C----</problem_title><submit_time>08.11.2014 15:40</submit_time><team_name>Far Eastern FU: Win1251</team_name><team_id>967417</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967618</id><last_ip>212.122.7.84, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.091069537</time_since_start><problem_title>Inclination</problem_title><failed_test>3</failed_test><submit_time>08.11.2014 15:41</submit_time><team_name>Far Eastern FU: marshrutka</team_name><team_id>964759</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967620</id><last_ip>185.57.30.204, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.091755625</time_since_start><problem_title>Inclination</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 15:42</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>966774</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967622</id><last_ip>217.118.64.49, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.091814502</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 15:42</submit_time><team_name>Far Eastern FU: sl</team_name><team_id>967445</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967624</id><last_ip>77.35.228.44, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.092268924</time_since_start><problem_title>C----</problem_title><submit_time>08.11.2014 15:42</submit_time><team_name>Far Eastern FU: ITeam</team_name><team_id>966805</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967626</id><last_ip>212.122.7.224, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.092354109</time_since_start><problem_title>Error detection</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 15:42</submit_time><team_name>Стабровский Артемий</team_name><team_id>967388</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>967628</id><last_ip>5.100.86.108, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.092711227</time_since_start><problem_title>Hacktris</problem_title><submit_time>08.11.2014 15:43</submit_time><team_name>Az</team_name><team_id>515084</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967630</id><last_ip>79.105.66.180, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.092873322</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 15:43</submit_time><team_name>Far Eastern FU: Cheburaptory</team_name><team_id>966747</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967632</id><last_ip>217.118.64.59, 66.249.81.154, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.094131412</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 15:45</submit_time><team_name>Far Eastern FU: Top Roflers</team_name><team_id>966753</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967634</id><last_ip>77.35.195.165, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.094457280</time_since_start><problem_title>Error detection</problem_title><failed_test>3</failed_test><submit_time>08.11.2014 15:46</submit_time><team_name>Стабровский Артемий</team_name><team_id>967388</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967636</id><last_ip>5.100.86.108, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.094879144</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 15:46</submit_time><team_name>KoA STU 1</team_name><team_id>966771</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967638</id><last_ip>188.64.218.44, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.095296887</time_since_start><problem_title>Error detection</problem_title><failed_test>9</failed_test><submit_time>08.11.2014 15:47</submit_time><team_name>Far Eastern FU: Bezgodov</team_name><team_id>966786</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967640</id><last_ip>212.122.7.73, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.097343866</time_since_start><problem_title>C----</problem_title><submit_time>08.11.2014 15:50</submit_time><team_name>Karmanov</team_name><team_id>967584</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967643</id><last_ip>10.52.16.104, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.098146539</time_since_start><problem_title>C----</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 15:51</submit_time><team_name>Far Eastern FU: Samokhin</team_name><team_id>966778</team_id><is_remote>0</is_remote><state>runtime_error</state><is_ooc>0</is_ooc><id>967645</id><last_ip>10.51.24.76, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.098162986</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 15:51</submit_time><team_name>Стабровский Артемий</team_name><team_id>967388</team_id><is_remote>1</is_remote><state>compilation_error</state><is_ooc>1</is_ooc><id>967647</id><last_ip>5.100.86.108, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.098225023</time_since_start><problem_title>Astroturfing</problem_title><submit_time>08.11.2014 15:51</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967649</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.098272951</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 15:51</submit_time><team_name>Far Eastern FU: Bezgodov</team_name><team_id>966786</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967651</id><last_ip>212.122.7.73, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.098318264</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 15:51</submit_time><team_name>MSU 1: Khokhlov</team_name><team_id>966758</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967653</id><last_ip>10.51.24.99, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.098578183</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 15:51</submit_time><team_name>Стабровский Артемий</team_name><team_id>967388</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967655</id><last_ip>5.100.86.108, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.098965590</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 15:52</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>966774</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967657</id><last_ip>217.118.64.49, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.098966898</time_since_start><problem_title>C----</problem_title><submit_time>08.11.2014 15:52</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967658</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.099487639</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 15:53</submit_time><team_name>Far Eastern FU: Cheburaptory</team_name><team_id>966747</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967661</id><last_ip>217.118.64.59, 66.249.81.154, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.101188368</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 15:55</submit_time><team_name>Far Eastern FU: 6RaxRush</team_name><team_id>967434</team_id><is_remote>0</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>967663</id><last_ip>10.51.16.49, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.102678044</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 15:57</submit_time><team_name>Far Eastern FU: 6RaxRush</team_name><team_id>967434</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967665</id><last_ip>10.51.16.49, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.105316042</time_since_start><problem_title>C----</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 16:01</submit_time><team_name>Far Eastern FU: Samokhin</team_name><team_id>966778</team_id><is_remote>0</is_remote><state>runtime_error</state><is_ooc>0</is_ooc><id>967667</id><last_ip>10.51.24.76, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.105390023</time_since_start><problem_title>Astroturfing</problem_title><failed_test>6</failed_test><submit_time>08.11.2014 16:01</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>967669</id><last_ip>86.102.20.80, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.106363368</time_since_start><problem_title>Generations</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 16:03</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967671</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.107985347</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 16:05</submit_time><team_name>Far Eastern FU: Syromiatnikova</team_name><team_id>966762</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967673</id><last_ip>10.51.16.33, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.108640440</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 16:06</submit_time><team_name>MSU 1: Khokhlov</team_name><team_id>966758</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967675</id><last_ip>10.51.24.99, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.109255926</time_since_start><problem_title>Generations</problem_title><failed_test>8</failed_test><submit_time>08.11.2014 16:07</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967677</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.116901181</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 16:18</submit_time><team_name>Far Eastern FU: sl</team_name><team_id>967445</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967680</id><last_ip>77.35.228.44, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.117115127</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 16:18</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>967682</id><last_ip>86.102.20.80, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.119060046</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 16:21</submit_time><team_name>Far Eastern FU: Zubarev</team_name><team_id>966839</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967684</id><last_ip>188.162.228.178, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.122532384</time_since_start><problem_title>Inclination</problem_title><failed_test>5</failed_test><submit_time>08.11.2014 16:26</submit_time><team_name>Far Eastern FU: Backtrace</team_name><team_id>966760</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967688</id><last_ip>77.35.2.24, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.122596863</time_since_start><problem_title>Inclination</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 16:26</submit_time><team_name>Far Eastern FU: ITeam</team_name><team_id>966805</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967690</id><last_ip>212.122.7.224, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.123189294</time_since_start><problem_title>Astroturfing</problem_title><submit_time>08.11.2014 16:27</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967692</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.123933275</time_since_start><problem_title>Error detection</problem_title><failed_test>3</failed_test><submit_time>08.11.2014 16:28</submit_time><team_name>Far Eastern FU: marshrutka</team_name><team_id>964759</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967695</id><last_ip>185.57.30.204, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.124771713</time_since_start><problem_title>Astroturfing</problem_title><failed_test>7</failed_test><submit_time>08.11.2014 16:29</submit_time><team_name>Far Eastern FU: Top Roflers</team_name><team_id>966753</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967697</id><last_ip>77.35.195.165, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.124970764</time_since_start><problem_title>Generations</problem_title><failed_test>8</failed_test><submit_time>08.11.2014 16:29</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967699</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.125510289</time_since_start><problem_title>Error detection</problem_title><failed_test>9</failed_test><submit_time>08.11.2014 16:30</submit_time><team_name>Far Eastern FU: Dekalchuk</team_name><team_id>966750</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967701</id><last_ip>10.51.24.55, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.125997002</time_since_start><problem_title>Inclination</problem_title><failed_test>6</failed_test><submit_time>08.11.2014 16:31</submit_time><team_name>Far Eastern FU: ITeam</team_name><team_id>966805</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967703</id><last_ip>212.122.7.224, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.126434757</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 16:32</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>967705</id><last_ip>86.102.20.80, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.128717211</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 16:35</submit_time><team_name>Far Eastern FU: sl</team_name><team_id>967445</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967708</id><last_ip>77.35.228.44, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.131618322</time_since_start><problem_title>C----</problem_title><submit_time>08.11.2014 16:39</submit_time><team_name>Far Eastern FU: Samokhin</team_name><team_id>966778</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967710</id><last_ip>10.51.24.76, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.131627396</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 16:39</submit_time><team_name>Попов, Долгушев, Данилов</team_name><team_id>960361</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967712</id><last_ip>10.51.16.30, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.131944120</time_since_start><problem_title>Inclination</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 16:39</submit_time><team_name>Попов, Долгушев, Данилов</team_name><team_id>960361</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>967714</id><last_ip>10.51.16.30, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.133914352</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 16:42</submit_time><team_name>Far Eastern FU: Dekalchuk</team_name><team_id>966750</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967716</id><last_ip>10.51.24.55, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.134428542</time_since_start><problem_title>Error detection</problem_title><failed_test>9</failed_test><submit_time>08.11.2014 16:43</submit_time><team_name>Far Eastern FU: marshrutka</team_name><team_id>964759</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967718</id><last_ip>185.57.30.204, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.134511609</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 16:43</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>967720</id><last_ip>86.102.20.80, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.134882350</time_since_start><problem_title>Dragon claw</problem_title><failed_test>17</failed_test><submit_time>08.11.2014 16:44</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967722</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.134958322</time_since_start><problem_title>Generations</problem_title><submit_time>08.11.2014 16:44</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967724</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.136101192</time_since_start><problem_title>Astroturfing</problem_title><failed_test>17</failed_test><submit_time>08.11.2014 16:45</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967726</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.137558252</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 16:48</submit_time><team_name>Far Eastern FU: marshrutka</team_name><team_id>964759</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967728</id><last_ip>185.57.30.204, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.138041921</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 16:48</submit_time><team_name>Far Eastern FU: sl</team_name><team_id>967445</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967730</id><last_ip>77.35.228.44, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.138667465</time_since_start><problem_title>Dragon claw</problem_title><failed_test>17</failed_test><submit_time>08.11.2014 16:49</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967732</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.139910139</time_since_start><problem_title>Hacktris</problem_title><failed_test>22</failed_test><submit_time>08.11.2014 16:51</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967735</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.140024028</time_since_start><problem_title>Fortress of Vladivostok</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 16:51</submit_time><team_name>Az</team_name><team_id>515084</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967737</id><last_ip>79.105.66.180, 10.100.100.11</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.140224583</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 16:51</submit_time><team_name>mf421</team_name><team_id>651222</team_id><is_remote>1</is_remote><state>time_limit_exceeded</state><is_ooc>1</is_ooc><id>967740</id><last_ip>86.102.20.80, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.141263438</time_since_start><problem_title>Astroturfing</problem_title><failed_test>17</failed_test><submit_time>08.11.2014 16:53</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967742</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.142037025</time_since_start><problem_title>Inclination</problem_title><failed_test>3</failed_test><submit_time>08.11.2014 16:54</submit_time><team_name>Far Eastern FU: marshrutka</team_name><team_id>964759</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967745</id><last_ip>185.57.30.204, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.142182002</time_since_start><problem_title>Dragon claw</problem_title><failed_test>2</failed_test><submit_time>08.11.2014 16:54</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967747</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.143054063</time_since_start><problem_title>Inclination</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 16:55</submit_time><team_name>MSU 2: Pertsev</team_name><team_id>966769</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967749</id><last_ip>10.51.24.64, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.143552095</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 16:56</submit_time><team_name>Far Eastern FU: sl</team_name><team_id>967445</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967751</id><last_ip>77.35.228.44, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.143794213</time_since_start><problem_title>Astroturfing</problem_title><failed_test>2</failed_test><submit_time>08.11.2014 16:57</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967753</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.144570856</time_since_start><problem_title>Inclination</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 16:58</submit_time><team_name>Far Eastern FU: marshrutka</team_name><team_id>964759</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967755</id><last_ip>185.57.30.204, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.144944491</time_since_start><problem_title>Astroturfing</problem_title><failed_test>17</failed_test><submit_time>08.11.2014 16:58</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967757</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.146080243</time_since_start><problem_title>Inclination</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 17:00</submit_time><team_name>Far Eastern FU: marshrutka</team_name><team_id>964759</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967759</id><last_ip>185.57.30.204, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.146653032</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 17:01</submit_time><team_name>Far Eastern FU: Win1251</team_name><team_id>967417</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967761</id><last_ip>212.122.7.84, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.146803322</time_since_start><problem_title>Astroturfing</problem_title><failed_test>17</failed_test><submit_time>08.11.2014 17:01</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967763</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.147700914</time_since_start><problem_title>Astroturfing</problem_title><failed_test>3</failed_test><submit_time>08.11.2014 17:02</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967765</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.147927049</time_since_start><problem_title>Astroturfing</problem_title><failed_test>17</failed_test><submit_time>08.11.2014 17:03</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967767</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.147953762</time_since_start><problem_title>Fortress of Vladivostok</problem_title><failed_test>8</failed_test><submit_time>08.11.2014 17:03</submit_time><team_name>Az</team_name><team_id>515084</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967769</id><last_ip>79.105.66.180, 10.100.100.11</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.148421586</time_since_start><problem_title>Astroturfing</problem_title><failed_test>17</failed_test><submit_time>08.11.2014 17:03</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967771</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.148423426</time_since_start><problem_title>C----</problem_title><submit_time>08.11.2014 17:03</submit_time><team_name>KoA STU 1</team_name><team_id>966771</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967772</id><last_ip>188.64.218.44, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.149161620</time_since_start><problem_title>Astroturfing</problem_title><failed_test>6</failed_test><submit_time>08.11.2014 17:04</submit_time><team_name>Far Eastern FU: Top Roflers</team_name><team_id>966753</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967775</id><last_ip>77.35.195.165, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.149277905</time_since_start><problem_title>Astroturfing</problem_title><failed_test>17</failed_test><submit_time>08.11.2014 17:04</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967777</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.149410914</time_since_start><problem_title>Astroturfing</problem_title><failed_test>8</failed_test><submit_time>08.11.2014 17:05</submit_time><team_name>Far Eastern FU: Zubarev</team_name><team_id>966839</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967779</id><last_ip>188.162.228.178, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.149885324</time_since_start><problem_title>Inclination</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 17:05</submit_time><team_name>MSU 2: Pertsev</team_name><team_id>966769</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967781</id><last_ip>10.51.24.64, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.150286597</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 17:06</submit_time><team_name>Попов, Долгушев, Данилов</team_name><team_id>960361</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967783</id><last_ip>10.51.16.30, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.150971123</time_since_start><problem_title>Inclination</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 17:07</submit_time><team_name>MSU 2: Pertsev</team_name><team_id>966769</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967785</id><last_ip>10.51.24.64, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.151426840</time_since_start><problem_title>Hacktris</problem_title><failed_test>5</failed_test><submit_time>08.11.2014 17:08</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967787</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.151990810</time_since_start><problem_title>Hacktris</problem_title><failed_test>5</failed_test><submit_time>08.11.2014 17:08</submit_time><team_name>Far Eastern FU: Davidyuk</team_name><team_id>965983</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967789</id><last_ip>80.83.238.113, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.153594444</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 17:11</submit_time><team_name>Far Eastern FU: RandomTeam</team_name><team_id>966797</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967791</id><last_ip>5.143.23.112, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.153739178</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 17:11</submit_time><team_name>Far Eastern FU: Zubarev</team_name><team_id>966839</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967793</id><last_ip>188.162.228.178, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.154617245</time_since_start><problem_title>Fortress of Vladivostok</problem_title><failed_test>27</failed_test><submit_time>08.11.2014 17:12</submit_time><team_name>Az</team_name><team_id>515084</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967795</id><last_ip>79.105.66.180, 10.100.100.11</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.156356979</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 17:15</submit_time><team_name>Far Eastern FU: Cheburaptory</team_name><team_id>966747</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967797</id><last_ip>217.118.64.59, 66.249.81.154, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.157228808</time_since_start><problem_title>Inclination</problem_title><failed_test>14</failed_test><submit_time>08.11.2014 17:16</submit_time><team_name>Far Eastern FU: ITeam</team_name><team_id>966805</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967799</id><last_ip>212.122.7.224, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.157481644</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 17:16</submit_time><team_name>Far Eastern FU: RandomTeam</team_name><team_id>966797</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967802</id><last_ip>5.143.23.112, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.158292350</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 17:17</submit_time><team_name>Far Eastern FU: marshrutka</team_name><team_id>964759</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967804</id><last_ip>185.57.30.204, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.159961007</time_since_start><problem_title>Astroturfing</problem_title><submit_time>08.11.2014 17:20</submit_time><team_name>MSU 1: Khokhlov</team_name><team_id>966758</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967808</id><last_ip>10.51.24.99, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.160885845</time_since_start><problem_title>Banner scrolling</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 17:21</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>runtime_error</state><is_ooc>0</is_ooc><id>967810</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.161441701</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 17:22</submit_time><team_name>Far Eastern FU: Hyper</team_name><team_id>966795</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967816</id><last_ip>217.118.64.50, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.163798646</time_since_start><problem_title>Inclination</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 17:25</submit_time><team_name>MSU 2: Pertsev</team_name><team_id>966769</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967820</id><last_ip>10.51.24.64, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.163844525</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 17:25</submit_time><team_name>Far Eastern FU: RandomTeam</team_name><team_id>966797</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967822</id><last_ip>5.143.23.112, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.165398229</time_since_start><problem_title>Hacktris</problem_title><failed_test>2</failed_test><submit_time>08.11.2014 17:28</submit_time><team_name>Far Eastern FU: Davidyuk</team_name><team_id>965983</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967824</id><last_ip>80.83.238.113, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.165559132</time_since_start><problem_title>Hacktris</problem_title><failed_test>5</failed_test><submit_time>08.11.2014 17:28</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967826</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.165901123</time_since_start><problem_title>Inclination</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 17:28</submit_time><team_name>Far Eastern FU: marshrutka</team_name><team_id>964759</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967828</id><last_ip>185.57.30.204, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.166620683</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 17:29</submit_time><team_name>Far Eastern FU: Cheburaptory</team_name><team_id>966747</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967830</id><last_ip>217.118.64.59, 66.249.81.154, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.167321829</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 17:30</submit_time><team_name>Far Eastern FU: marshrutka</team_name><team_id>964759</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967832</id><last_ip>185.57.30.204, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.167603495</time_since_start><problem_title>Dragon claw</problem_title><submit_time>08.11.2014 17:31</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967834</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>D</code></req>
+
+  <req><time_since_start>0.168747176</time_since_start><problem_title>C----</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 17:32</submit_time><team_name>Far Eastern FU: Darude Sandstorm</team_name><team_id>966811</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>967836</id><last_ip>82.162.186.166, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.168926146</time_since_start><problem_title>Astroturfing</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 17:33</submit_time><team_name>Far Eastern FU: Darude Sandstorm</team_name><team_id>966811</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>967838</id><last_ip>82.162.186.166, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.169372778</time_since_start><problem_title>Banner scrolling</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 17:33</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>runtime_error</state><is_ooc>0</is_ooc><id>967840</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.171804213</time_since_start><problem_title>Banner scrolling</problem_title><submit_time>08.11.2014 17:37</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967842</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.172006620</time_since_start><problem_title>Error detection</problem_title><submit_time>08.11.2014 17:37</submit_time><team_name>Far Eastern FU: Samokhin</team_name><team_id>966778</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967844</id><last_ip>10.51.24.76, 10.100.100.11</last_ip><code>E</code></req>
+
+  <req><time_since_start>0.172358611</time_since_start><problem_title>Hacktris</problem_title><failed_test>5</failed_test><submit_time>08.11.2014 17:38</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967846</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.172450648</time_since_start><problem_title>C----</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 17:38</submit_time><team_name>Попов, Долгушев, Данилов</team_name><team_id>960361</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967848</id><last_ip>10.51.16.30, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.172668877</time_since_start><problem_title>Banner scrolling</problem_title><failed_test>9</failed_test><submit_time>08.11.2014 17:38</submit_time><team_name>Far Eastern FU: sl</team_name><team_id>967445</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967850</id><last_ip>77.35.228.44, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.173171296</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 17:39</submit_time><team_name>Far Eastern FU: 6RaxRush</team_name><team_id>967434</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967852</id><last_ip>10.51.16.49, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.173856563</time_since_start><problem_title>Hacktris</problem_title><submit_time>08.11.2014 17:40</submit_time><team_name>Far Eastern FU: Davidyuk</team_name><team_id>965983</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967854</id><last_ip>80.83.238.113, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.174066088</time_since_start><problem_title>Inclination</problem_title><failed_test>9</failed_test><submit_time>08.11.2014 17:40</submit_time><team_name>Far Eastern FU: ITeam</team_name><team_id>966805</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967856</id><last_ip>212.122.7.224, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.174506528</time_since_start><problem_title>Hacktris</problem_title><submit_time>08.11.2014 17:41</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>967858</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.174797558</time_since_start><problem_title>Hacktris</problem_title><failed_test>8</failed_test><submit_time>08.11.2014 17:41</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967860</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.177437211</time_since_start><problem_title>Hacktris</problem_title><failed_test>28</failed_test><submit_time>08.11.2014 17:45</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967862</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.178066007</time_since_start><problem_title>C----</problem_title><failed_test>10</failed_test><submit_time>08.11.2014 17:46</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>966774</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967864</id><last_ip>217.118.64.49, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.178767477</time_since_start><problem_title>Hacktris</problem_title><submit_time>08.11.2014 17:47</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967866</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.179778785</time_since_start><problem_title>Generations</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 17:48</submit_time><team_name>Far Eastern FU: Win1251</team_name><team_id>967417</team_id><is_remote>0</is_remote><state>presentation_error</state><is_ooc>0</is_ooc><id>967868</id><last_ip>212.122.7.84, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.179915845</time_since_start><problem_title>C----</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 17:49</submit_time><team_name>Попов, Долгушев, Данилов</team_name><team_id>960361</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967870</id><last_ip>10.51.16.30, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.180274884</time_since_start><problem_title>Generations</problem_title><failed_test>2</failed_test><submit_time>08.11.2014 17:49</submit_time><team_name>Far Eastern FU: Win1251</team_name><team_id>967417</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967872</id><last_ip>212.122.7.84, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.181617234</time_since_start><problem_title>C----</problem_title><failed_test>10</failed_test><submit_time>08.11.2014 17:51</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>runtime_error</state><is_ooc>1</is_ooc><id>967874</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.182357072</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 17:52</submit_time><team_name>Far Eastern FU: Win1251</team_name><team_id>967417</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967876</id><last_ip>212.122.7.84, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.182432245</time_since_start><problem_title>Astroturfing</problem_title><failed_test>2</failed_test><submit_time>08.11.2014 17:52</submit_time><team_name>Far Eastern FU: Backtrace</team_name><team_id>966760</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967878</id><last_ip>77.35.2.24, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.182762616</time_since_start><problem_title>Astroturfing</problem_title><failed_test>2</failed_test><submit_time>08.11.2014 17:53</submit_time><team_name>Far Eastern FU: 6RaxRush</team_name><team_id>967434</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967880</id><last_ip>10.51.16.49, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.183261655</time_since_start><problem_title>C----</problem_title><failed_test>10</failed_test><submit_time>08.11.2014 17:53</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>runtime_error</state><is_ooc>1</is_ooc><id>967882</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.185913125</time_since_start><problem_title>Astroturfing</problem_title><failed_test>7</failed_test><submit_time>08.11.2014 17:57</submit_time><team_name>Far Eastern FU: Win1251</team_name><team_id>967417</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967884</id><last_ip>212.122.7.84, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.186131007</time_since_start><problem_title>C----</problem_title><failed_test>10</failed_test><submit_time>08.11.2014 17:58</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>966774</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967886</id><last_ip>217.118.64.49, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.186525891</time_since_start><problem_title>C----</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 17:58</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>966774</team_id><is_remote>0</is_remote><state>runtime_error</state><is_ooc>0</is_ooc><id>967888</id><last_ip>217.118.64.49, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.187612025</time_since_start><problem_title>C----</problem_title><failed_test>10</failed_test><submit_time>08.11.2014 18:00</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>runtime_error</state><is_ooc>1</is_ooc><id>967890</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.187798507</time_since_start><problem_title>Astroturfing</problem_title><failed_test>7</failed_test><submit_time>08.11.2014 18:00</submit_time><team_name>Far Eastern FU: Win1251</team_name><team_id>967417</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967893</id><last_ip>212.122.7.84, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.189533275</time_since_start><problem_title>Astroturfing</problem_title><failed_test>7</failed_test><submit_time>08.11.2014 18:02</submit_time><team_name>Far Eastern FU: Win1251</team_name><team_id>967417</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967895</id><last_ip>212.122.7.84, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.190482014</time_since_start><problem_title>C----</problem_title><submit_time>08.11.2014 18:04</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967898</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.190546713</time_since_start><problem_title>Inclination</problem_title><failed_test>9</failed_test><submit_time>08.11.2014 18:04</submit_time><team_name>Far Eastern FU: Darude Sandstorm</team_name><team_id>966811</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967900</id><last_ip>82.162.186.166, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.190763171</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 18:04</submit_time><team_name>Far Eastern FU: Win1251</team_name><team_id>967417</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967902</id><last_ip>212.122.7.84, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.191641759</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 18:05</submit_time><team_name>Far Eastern FU: Backtrace</team_name><team_id>966760</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967904</id><last_ip>77.35.2.24, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.192210961</time_since_start><problem_title>Inclination</problem_title><failed_test>1</failed_test><submit_time>08.11.2014 18:06</submit_time><team_name>MSU 2: Pertsev</team_name><team_id>966769</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967906</id><last_ip>10.51.24.64, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.193020336</time_since_start><problem_title>Generations</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 18:07</submit_time><team_name>Far Eastern FU: Darude Sandstorm</team_name><team_id>966811</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967909</id><last_ip>82.162.186.166, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.193514711</time_since_start><problem_title>Astroturfing</problem_title><failed_test>2</failed_test><submit_time>08.11.2014 18:08</submit_time><team_name>RLI</team_name><team_id>967460</team_id><is_remote>1</is_remote><state>runtime_error</state><is_ooc>1</is_ooc><id>967911</id><last_ip>212.122.7.202, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.194747894</time_since_start><problem_title>Hacktris</problem_title><failed_test>9</failed_test><submit_time>08.11.2014 18:10</submit_time><team_name>Far Eastern FU: Zubarev</team_name><team_id>966839</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967913</id><last_ip>188.162.228.178, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.195056424</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 18:10</submit_time><team_name>Far Eastern FU: Hyper</team_name><team_id>966795</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967915</id><last_ip>217.118.64.50, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.195653345</time_since_start><problem_title>Generations</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 18:11</submit_time><team_name>Far Eastern FU: Top Roflers</team_name><team_id>966753</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967917</id><last_ip>77.35.195.165, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.196586771</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 18:13</submit_time><team_name>Far Eastern FU: Win1251</team_name><team_id>967417</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967919</id><last_ip>212.122.7.84, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.196927338</time_since_start><problem_title>C----</problem_title><failed_test>10</failed_test><submit_time>08.11.2014 18:13</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>966774</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967921</id><last_ip>217.118.64.49, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.197768287</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 18:14</submit_time><team_name>Far Eastern FU: Win1251</team_name><team_id>967417</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967923</id><last_ip>212.122.7.84, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.198931424</time_since_start><problem_title>Banner scrolling</problem_title><failed_test>3</failed_test><submit_time>08.11.2014 18:16</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967926</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.199347465</time_since_start><problem_title>Inclination</problem_title><submit_time>08.11.2014 18:17</submit_time><team_name>Far Eastern FU: ITeam</team_name><team_id>966805</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967928</id><last_ip>212.122.7.224, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.199693056</time_since_start><problem_title>C----</problem_title><failed_test>10</failed_test><submit_time>08.11.2014 18:17</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>966774</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967930</id><last_ip>217.118.64.49, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.200252789</time_since_start><problem_title>Fortress of Vladivostok</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 18:18</submit_time><team_name>Az</team_name><team_id>515084</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967932</id><last_ip>79.105.66.180, 10.100.100.11</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.200315463</time_since_start><problem_title>Astroturfing</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 18:18</submit_time><team_name>Far Eastern FU: Cheburaptory</team_name><team_id>966747</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967934</id><last_ip>217.118.64.59, 66.249.81.154, 10.100.100.11</last_ip><code>A</code></req>
+
+  <req><time_since_start>0.201136759</time_since_start><problem_title>Banner scrolling</problem_title><submit_time>08.11.2014 18:19</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>compilation_error</state><is_ooc>0</is_ooc><id>967936</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.201379525</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 18:19</submit_time><team_name>Far Eastern FU: marshrutka</team_name><team_id>964759</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967938</id><last_ip>185.57.30.204, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.201379618</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 18:19</submit_time><team_name>Far Eastern FU: marshrutka</team_name><team_id>964759</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967939</id><last_ip>185.57.30.204, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.201941262</time_since_start><problem_title>Inclination</problem_title><failed_test>9</failed_test><submit_time>08.11.2014 18:20</submit_time><team_name>Far Eastern FU: Darude Sandstorm</team_name><team_id>966811</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967942</id><last_ip>82.162.186.166, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.201998391</time_since_start><problem_title>Fortress of Vladivostok</problem_title><failed_test>8</failed_test><submit_time>08.11.2014 18:20</submit_time><team_name>Az</team_name><team_id>515084</team_id><is_remote>1</is_remote><state>wrong_answer</state><is_ooc>1</is_ooc><id>967944</id><last_ip>79.105.66.180, 10.100.100.11</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.202185150</time_since_start><problem_title>Fortress of Vladivostok</problem_title><failed_test>25</failed_test><submit_time>08.11.2014 18:21</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967946</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.202400451</time_since_start><problem_title>C----</problem_title><failed_test>10</failed_test><submit_time>08.11.2014 18:21</submit_time><team_name>Far Eastern S Transport U: 2</team_name><team_id>966774</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967948</id><last_ip>217.118.64.49, 10.100.100.11</last_ip><code>C</code></req>
+
+  <req><time_since_start>0.202530174</time_since_start><problem_title>Generations</problem_title><failed_test>4</failed_test><submit_time>08.11.2014 18:21</submit_time><team_name>Far Eastern FU: Top Roflers</team_name><team_id>966753</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967950</id><last_ip>77.35.195.165, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.203070428</time_since_start><problem_title>Banner scrolling</problem_title><failed_test>3</failed_test><submit_time>08.11.2014 18:22</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967952</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>B</code></req>
+
+  <req><time_since_start>0.203152477</time_since_start><problem_title>Hacktris</problem_title><failed_test>7</failed_test><submit_time>08.11.2014 18:22</submit_time><team_name>Far Eastern FU: Zubarev</team_name><team_id>966839</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967954</id><last_ip>188.162.228.178, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.203295463</time_since_start><problem_title>Inclination</problem_title><failed_test>9</failed_test><submit_time>08.11.2014 18:22</submit_time><team_name>Far Eastern FU: Darude Sandstorm</team_name><team_id>966811</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967956</id><last_ip>82.162.186.166, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.203814514</time_since_start><problem_title>Hacktris</problem_title><submit_time>08.11.2014 18:23</submit_time><team_name>Far Eastern FU: Zubarev</team_name><team_id>966839</team_id><is_remote>0</is_remote><state>accepted</state><is_ooc>0</is_ooc><id>967958</id><last_ip>188.162.228.178, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.204172535</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 18:24</submit_time><team_name>Far Eastern FU: Darude Sandstorm</team_name><team_id>966811</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967960</id><last_ip>82.162.186.166, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.204445775</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 18:24</submit_time><team_name>Far Eastern FU: Darude Sandstorm</team_name><team_id>966811</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967962</id><last_ip>82.162.186.166, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.204646505</time_since_start><problem_title>Fortress of Vladivostok</problem_title><failed_test>25</failed_test><submit_time>08.11.2014 18:24</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967964</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.204819537</time_since_start><problem_title>Fortress of Vladivostok</problem_title><submit_time>08.11.2014 18:24</submit_time><team_name>Az</team_name><team_id>515084</team_id><is_remote>1</is_remote><state>accepted</state><is_ooc>1</is_ooc><id>967966</id><last_ip>79.105.66.180, 10.100.100.11</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.205304641</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 18:25</submit_time><team_name>Far Eastern FU: Darude Sandstorm</team_name><team_id>966811</team_id><is_remote>0</is_remote><state>time_limit_exceeded</state><is_ooc>0</is_ooc><id>967968</id><last_ip>82.162.186.166, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.205654641</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 18:26</submit_time><team_name>Far Eastern FU: Darude Sandstorm</team_name><team_id>966811</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967970</id><last_ip>82.162.186.166, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.205797315</time_since_start><problem_title>Fortress of Vladivostok</problem_title><failed_test>25</failed_test><submit_time>08.11.2014 18:26</submit_time><team_name>Far Eastern S Transport U: 1</team_name><team_id>910500</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967972</id><last_ip>91.227.23.10, 10.100.100.11</last_ip><code>F</code></req>
+
+  <req><time_since_start>0.206471644</time_since_start><problem_title>Generations</problem_title><failed_test>2</failed_test><submit_time>08.11.2014 18:27</submit_time><team_name>Far Eastern FU: Top Roflers</team_name><team_id>966753</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967974</id><last_ip>77.35.195.165, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.206550428</time_since_start><problem_title>Inclination</problem_title><failed_test>11</failed_test><submit_time>08.11.2014 18:27</submit_time><team_name>Far Eastern FU: Darude Sandstorm</team_name><team_id>966811</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967976</id><last_ip>82.162.186.166, 10.100.100.11</last_ip><code>I</code></req>
+
+  <req><time_since_start>0.206854549</time_since_start><problem_title>Hacktris</problem_title><failed_test>9</failed_test><submit_time>08.11.2014 18:27</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967978</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.207783646</time_since_start><problem_title>Generations</problem_title><failed_test>18</failed_test><submit_time>08.11.2014 18:29</submit_time><team_name>Far Eastern FU: Top Roflers</team_name><team_id>966753</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967984</id><last_ip>77.35.195.165, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.208074039</time_since_start><problem_title>Generations</problem_title><failed_test>2</failed_test><submit_time>08.11.2014 18:29</submit_time><team_name>KoA STU 1</team_name><team_id>966771</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967986</id><last_ip>188.64.218.44, 10.100.100.11</last_ip><code>G</code></req>
+
+  <req><time_since_start>0.208176597</time_since_start><problem_title>Hacktris</problem_title><failed_test>2</failed_test><submit_time>08.11.2014 18:29</submit_time><team_name>North Eastern FU</team_name><team_id>874939</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967988</id><last_ip>10.51.16.50, 10.100.100.11</last_ip><code>H</code></req>
+
+  <req><time_since_start>0.208315810</time_since_start><problem_title>Banner scrolling</problem_title><failed_test>3</failed_test><submit_time>08.11.2014 18:29</submit_time><team_name>Far Eastern FU: ChubbChubbs</team_name><team_id>966734</team_id><is_remote>0</is_remote><state>wrong_answer</state><is_ooc>0</is_ooc><id>967991</id><last_ip>10.51.24.56, 10.100.100.11</last_ip><code>B</code></req>
+
+</reqs>
